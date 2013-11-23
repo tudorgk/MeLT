@@ -2658,3 +2658,48 @@ DEBUG - 2013-11-24 00:15:20 --> Database Driver Class Initialized
 ERROR - 2013-11-24 00:15:20 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/system/database/drivers/mysql/mysql_driver.php 91
 ERROR - 2013-11-24 00:15:20 --> 404 Page Not Found --> 
 ERROR - 2013-11-24 00:15:20 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/application/controllers/schedules.php:34) /Applications/MAMP/htdocs/system/core/Common.php 442
+DEBUG - 2013-11-24 00:19:24 --> Config Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> Hooks Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> Utf8 Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> UTF-8 Support Enabled
+DEBUG - 2013-11-24 00:19:24 --> URI Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> Router Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> Output Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> Security Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> Input Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-11-24 00:19:24 --> Language Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> Loader Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> Helper loaded: url_helper
+DEBUG - 2013-11-24 00:19:24 --> Helper loaded: utility_helper
+DEBUG - 2013-11-24 00:19:24 --> Controller Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> Model Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> Database Driver Class Initialized
+ERROR - 2013-11-24 00:19:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/system/database/drivers/mysql/mysql_driver.php 91
+DEBUG - 2013-11-24 00:19:24 --> Helper loaded: form_helper
+DEBUG - 2013-11-24 00:19:24 --> Form Validation Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-11-24 00:19:24 --> File loaded: application/views/schedules/create.php
+DEBUG - 2013-11-24 00:19:24 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-11-24 00:19:24 --> Final output sent to browser
+DEBUG - 2013-11-24 00:19:24 --> Total execution time: 0.0091
+DEBUG - 2013-11-24 00:19:24 --> Config Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> Hooks Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> Utf8 Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> UTF-8 Support Enabled
+DEBUG - 2013-11-24 00:19:24 --> URI Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> Router Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> Output Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> Security Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> Input Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-11-24 00:19:24 --> Language Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> Loader Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> Helper loaded: url_helper
+DEBUG - 2013-11-24 00:19:24 --> Helper loaded: utility_helper
+DEBUG - 2013-11-24 00:19:24 --> Controller Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> Model Class Initialized
+DEBUG - 2013-11-24 00:19:24 --> Database Driver Class Initialized
+ERROR - 2013-11-24 00:19:24 --> Severity: 8192  --> mysql_pconnect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead /Applications/MAMP/htdocs/system/database/drivers/mysql/mysql_driver.php 91
+ERROR - 2013-11-24 00:19:24 --> 404 Page Not Found --> 
+ERROR - 2013-11-24 00:19:24 --> Severity: Warning  --> Cannot modify header information - headers already sent by (output started at /Applications/MAMP/htdocs/application/controllers/schedules.php:34) /Applications/MAMP/htdocs/system/core/Common.php 442

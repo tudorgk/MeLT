@@ -32,13 +32,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="create.php" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="create.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/schedules/create.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="54" column="54" selection-start="2141" selection-end="2141" vertical-scroll-proportion="0.5778491" vertical-offset="450" max-vertical-offset="1515">
+            <state line="10" column="7" selection-start="307" selection-end="307" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="1335">
               <folding>
                 <element signature="n#style#0;n#input#0;n#p#0;n#div#0;n#!!top" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/application/views/templates/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="18" column="72" selection-start="1192" selection-end="1192" vertical-scroll-proportion="0.4245283" vertical-offset="0" max-vertical-offset="636">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="2" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -71,8 +89,6 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/app/Resources/views/base.html.php" />
-        <option value="$PROJECT_DIR$/src/Acme/HelloBundle/Controller/DefaultController.php" />
         <option value="$PROJECT_DIR$/application/.htaccess" />
         <option value="$PROJECT_DIR$/application/views/schedules/index.php" />
         <option value="$PROJECT_DIR$/application/views/schedules/success.php" />
@@ -82,11 +98,13 @@
         <option value="$PROJECT_DIR$/application/config/config.php" />
         <option value="$PROJECT_DIR$/application/views/templates/footer.php" />
         <option value="$PROJECT_DIR$/assets/css/main.css" />
-        <option value="$PROJECT_DIR$/application/views/templates/header.php" />
         <option value="$PROJECT_DIR$/application/controllers/schedules.php" />
         <option value="$PROJECT_DIR$/assets/css/pepper-ginder-custom.css" />
         <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/application/views/schedules/create.php" />
+        <option value="$PROJECT_DIR$/application/helpers/utility_helper.php" />
+        <option value="$PROJECT_DIR$/assets/js/main.js" />
+        <option value="$PROJECT_DIR$/application/views/templates/header.php" />
       </list>
     </option>
   </component>
@@ -443,22 +461,6 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/assets/css/jquery-ui.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="17910">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/jquery-ui.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="225135">
-          <folding>
-            <element signature="n#!!doc" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/application/views/pages/home.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="7" column="12" selection-start="468" selection-end="468" vertical-scroll-proportion="-4.375" vertical-offset="0" max-vertical-offset="195">
@@ -524,13 +526,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/templates/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="0" selection-start="1433" selection-end="1433" vertical-scroll-proportion="-16.25" vertical-offset="0" max-vertical-offset="585">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/css/pepper-ginder-custom.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="70" column="224" selection-start="4346" selection-end="4346" vertical-scroll-proportion="137.32" vertical-offset="4483" max-vertical-offset="8655">
@@ -545,6 +540,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="2" selection-start="300" selection-end="300" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/helpers/utility_helper.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="0" selection-start="148" selection-end="148" vertical-scroll-proportion="0.14150943" vertical-offset="0" max-vertical-offset="636">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/schedules.php">
       <provider selected="true" editor-type-id="text-editor">
         <state line="69" column="46" selection-start="1936" selection-end="1936" vertical-scroll-proportion="-19.625" vertical-offset="489" max-vertical-offset="1125">
@@ -554,10 +563,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/schedules/create.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="54" column="54" selection-start="2141" selection-end="2141" vertical-scroll-proportion="0.5778491" vertical-offset="450" max-vertical-offset="1515">
+        <state line="10" column="7" selection-start="307" selection-end="307" vertical-scroll-proportion="-6.25" vertical-offset="0" max-vertical-offset="1335">
           <folding>
             <element signature="n#style#0;n#input#0;n#p#0;n#div#0;n#!!top" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/templates/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="72" selection-start="1192" selection-end="1192" vertical-scroll-proportion="0.4245283" vertical-offset="0" max-vertical-offset="636">
+          <folding />
         </state>
       </provider>
     </entry>
