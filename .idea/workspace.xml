@@ -35,7 +35,7 @@
       <file leaf-file-name="create.php" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/application/views/schedules/create.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="34" selection-start="681" selection-end="681" vertical-scroll-proportion="0.33707866" vertical-offset="120" max-vertical-offset="1350">
+            <state line="54" column="54" selection-start="2141" selection-end="2141" vertical-scroll-proportion="0.5778491" vertical-offset="450" max-vertical-offset="1515">
               <folding>
                 <element signature="n#style#0;n#input#0;n#p#0;n#div#0;n#!!top" expanded="true" />
               </folding>
@@ -554,7 +554,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/schedules/create.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="34" selection-start="681" selection-end="681" vertical-scroll-proportion="0.33707866" vertical-offset="120" max-vertical-offset="1350">
+        <state line="54" column="54" selection-start="2141" selection-end="2141" vertical-scroll-proportion="0.5778491" vertical-offset="450" max-vertical-offset="1515">
           <folding>
             <element signature="n#style#0;n#input#0;n#p#0;n#div#0;n#!!top" expanded="true" />
           </folding>

@@ -10,6 +10,18 @@
         addClickListener("#date-picker tr td", clickFn);
     });
 
+
+    String.prototype.hashCode = function(){
+        var hash = 0, i, char;
+        if (this.length == 0) return hash;
+        for (i = 0, l = this.length; i < l; i++) {
+            char  = this.charCodeAt(i);
+            hash  = ((hash<<5)-hash)+char;
+            hash |= 0; // Convert to 32bit integer
+        }
+        return hash;
+    };
+
     function clickFn() {
         var $dates = $( "#date-picker" ).multiDatesPicker('getDates');
         var $table = $('table.interval-table');
@@ -23,9 +35,9 @@
             console.log("adding");
 
             for(var i=0; i<$dates.length; i++){
-                if ($(jQuery.inArray( $dates[i] , $lastSelectedDates)) == -1){
+                if ($(jQuery.inArray( $dates[i] , $lastSelectedDates))[0] == -1){
                     var newRow =
-                        '<tr id="' + $dates[i] + '">' +
+                        '<tr id="' + $dates[i].hashCode() + '">' +
                             '<td><input type="input" placeholder="Interval for ' + $dates[i] + '" name="' + $dates[i] + '_interval_1"/></td>' +
                             '<td><input type="input" placeholder="Interval for ' + $dates[i] + '" name="' + $dates[i] + '_interval_2"/></td>' +
                             '<td><input type="input" placeholder="Interval for ' + $dates[i] + '" name="' + $dates[i] + '_interval_3"/></td>' +
@@ -38,9 +50,9 @@
             console.log("removing");
 
             for(var i=0; i<$lastSelectedDates.length; i++){
-                if ($(jQuery.inArray( $lastSelectedDates[i] , $dates )) == -1){
+                if ($(jQuery.inArray( $lastSelectedDates[i] , $dates ))[0] == -1){
                     var idToDelete = $lastSelectedDates[i];
-                    $("tr[id=idToDelete]").remove();
+                    $('tr[id=' + idToDelete.hashCode() + ']').remove();
                 }
             }
         }
@@ -78,7 +90,6 @@
 </div>
 <div id="table-container" >
     <table class="interval-table">
-        <tbody>
-        </tbody>
+
     </table>
 </div>
