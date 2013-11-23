@@ -10,10 +10,10 @@
     <script type="text/javascript" src="<?php echo asset_url();?>js/jquery-ui.js"></script>
 
     <!-- loads some utilities (not needed for your developments) -->
-    <link rel="stylesheet" type="text/css" href="<?php echo asset_url();?>css/jquery-ui.css">
-    <link rel="stylesheet" type="text/css" href="<?php echo asset_url();?>css/style.css">
     <link rel="stylesheet" type="text/css" href="<?php echo asset_url();?>css/main.css">
     <link rel="stylesheet" type="text/css" href="<?php echo asset_url();?>css/normalize.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo asset_url();?>css/jquery-ui.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo asset_url();?>css/style.css">
     <link rel="stylesheet" type="text/css" href="<?php echo asset_url();?>css/prettify.css">
     <script type="text/javascript" src="<?php echo asset_url();?>js/prettify.js"></script>
     <script type="text/javascript" src="<?php echo asset_url();?>js/lang-css.js"></script>
