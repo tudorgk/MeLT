@@ -26,6 +26,8 @@ class schedule_model extends CI_Model {
 
         $link_hash = uniqid('melt_');
 
+        var_dump($this->input->post());
+
         $data = array(
             'name' => $this->input->post('name'),
             'link_hash' => $link_hash,

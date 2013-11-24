@@ -48,36 +48,33 @@
         addClickListener("#date-picker tr td", clickFn);
         $lastSelectedDates = $dates;
     }
-
-    function getDates(){
-
-    }
 </script>
+
+
 <h2>Create a schedule</h2>
+
+<?php echo form_open('schedules/create') ?>
 <div id="form-panel">
     <div class="validation-errors">
         <?php echo validation_errors(); ?>
     </div>
-        <?php echo form_open('schedules/create') ?>
+    <p>
+        <input style="width:300px" type="input" name="name" placeholder="Schedule name"/>
+    </p>
 
-        <p>
-            <input style="width:300px" type="input" name="name" placeholder="Schedule name"/>
-        </p>
+    <p>
+        <textarea placeholder="Description" name="description"></textarea>
+    </p>
 
-        <p>
-            <textarea placeholder="Description" name="description"></textarea>
-        </p>
+    <div id="date-picker">
+    </div>
 
-        <div id="date-picker">
-        </div>
-
-        <p class="submit">
-            <input type="submit" class="large button blue evenspaced" name="submit" value="Create schedule" onclick="getDates()"/>
-        </p>
-        </form>
+    <p class="submit">
+        <input type="submit" class="large button blue evenspaced" name="submit" value="Create schedule" onclick="getDates()"/>
+    </p>
 </div>
-<div id="table-container" >
-    <table class="interval-table">
-
-    </table>
-</div>
+    <div id="table-container" >
+        <table class="interval-table">
+        </table>
+    </div>
+    </form>
