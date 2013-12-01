@@ -92,8 +92,8 @@ class schedules extends CI_Controller {
             //var_dump($data['dates'][$i]['intervals']);
         }
 
-       //var_dump($data['dates']['intervals']);
-       // var_dump($this->date_model->get_datesForSchedule($data['schedule']['id']));
+        //var_dump($data['dates'][0]['intervals']);
+        //var_dump($this->date_model->get_datesForSchedule($data['schedule']['id']));
 
         $data['title'] = 'Vote on an interval';
 

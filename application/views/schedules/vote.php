@@ -3,15 +3,21 @@
         var poll = new Poll("text", <?php echo json_encode($dates) ?>);
         // Setting the inner HTML with jQuery
         poll.displayPoll( "#polling-area" );
+        $('.polling-table').click(function(){
+            poll.addRow();
+        })
     });
 </script>
 
+
+<form name="poll-form" ACTION="" METHOD="POST">
 <div id="polling-area">
         <?php
         echo '<h3>'.$schedule['name'].'</h3>';
         echo '<h1>'.$schedule['description'].'</h1>';?>
-    </div>
-<?php //echo  json_encode($dates)?>
+</div>
+</FORM>
+<?php echo  json_encode($dates)?>
     <div id="disqus-area">
         <div id="disqus_thread"></div>
         <script type="text/javascript">

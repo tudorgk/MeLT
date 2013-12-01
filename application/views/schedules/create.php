@@ -21,7 +21,6 @@
             // Stop form from submitting normally
             event.preventDefault();
 
-
             // Get some values from elements on the page:
             var $form = $( this),
                 scheduleName = $form.find( "input[name='name']" ).val(),
