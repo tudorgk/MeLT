@@ -45,10 +45,6 @@
                 });
 
             }
-
-
-
-
             // Send the data using post
             var posting = $.post( url, { name: scheduleName,
                                          description : scheduleDescription,
@@ -83,7 +79,7 @@
                 if ($(jQuery.inArray( dates[i] , lastSelectedDates))[0] == -1){
                     var newRow =
                         '<tr id="' + dates[i] + '">' +
-                            '<td><input type="input" placeholder="Interval for ' + dates[i] + '" name="' + dates[i] + '_interval_1"/></td>' +
+                            '<td><input type="input" placeholder="Interval for ' + dates[i] + '" name="' + dates[i] + '_interval_1" required/></td>' +
                             '<td><input type="input" placeholder="Interval for ' + dates[i] + '" name="' + dates[i] + '_interval_2"/></td>' +
                             '<td><input type="input" placeholder="Interval for ' + dates[i] + '" name="' + dates[i] + '_interval_3"/></td>' +
                             '</tr>';

@@ -12,6 +12,7 @@ class schedules extends CI_Controller {
     {
         parent::__construct();
         $this->load->model('schedule_model');
+        $this->load->model('date_model');
     }
 
     public function index()
@@ -66,11 +67,21 @@ class schedules extends CI_Controller {
         }
         else
         {
-            $this->schedule_model->set_schedule();
+            $data['schedule'] = $this->schedule_model->set_schedule();
             $this->load->view('templates/header', $data);
-            $this->load->view('schedules/success');
+            $this->load->view('schedules/success',$data);
             $this->load->view('templates/footer');
         }
+    }
+
+    public function vote($schedule_id = false)
+    {
+        if($schedule_id == false){
+            show_404();
+        }
+
+        $data['schedule'] = $this->schedule_model->get_schedules($schedule_id);
+        //var_dump($data['schedule']);
     }
 
 }
