@@ -17,6 +17,7 @@
     <link rel="stylesheet" type="text/css" href="<?php echo asset_url();?>css/prettify.css">
     <script type="text/javascript" src="<?php echo asset_url();?>js/prettify.js"></script>
     <script type="text/javascript" src="<?php echo asset_url();?>js/main.js"></script>
+    <script type="text/javascript" src="<?php echo asset_url();?>js/melt.js"></script>
     <script type="text/javascript" src="<?php echo asset_url();?>js/jshashtable-3.0.js"></script>
     <script type="text/javascript" src="<?php echo asset_url();?>js/lang-css.js"></script>
     <script type="text/javascript" src="<?php echo asset_url();?>js/jquery-ui.multidatespicker.js"></script>

@@ -178,6 +178,118 @@ li{
     padding-top:10px;
     padding-bottom:10px;}
 
+/* vote page*/
+
+#polling-area{
+    width: 60%;
+    float: left;
+    position: relative;
+}
+
+#disqus-area{
+    width: 35%;
+    float: right;
+    position: relative;
+}
+
+/*Features table------------------------------------------------------------*/
+.polling-table
+{
+    width: 100%;
+    margin: 0 auto;
+    border-collapse: separate;
+    border-spacing: 0;
+    text-shadow: 0 1px 0 #fff;
+    color: #2a2a2a;
+    background: #fafafa;
+    background-image: -moz-linear-gradient(top, #fff, #eaeaea, #fff); /* Firefox 3.6 */
+    background-image: -webkit-gradient(linear,center bottom,center top,from(#fff),color-stop(0.5, #eaeaea),to(#fff));
+}
+
+.polling-table td
+{
+    height: 50px;
+    line-height: 50px;
+    padding: 0 5px;
+    border-bottom: 1px solid #cdcdcd;
+    box-shadow: 0 1px 0 white;
+    -moz-box-shadow: 0 1px 0 white;
+    -webkit-box-shadow: 0 1px 0 white;
+    white-space: nowrap;
+    text-align: center;
+}
+
+.polling-table th
+{
+    border: solid thin #0000FF;
+    padding: 0px 5px;
+}
+
+/* polling table */
+.polling-table tbody td
+{
+    text-align: center;
+    font: normal 12px Verdana, Arial, Helvetica;
+    width: 100%;
+}
+
+.polling-table tbody td:first-child
+{
+    width: auto;
+    background:white;
+    text-align: left;
+    font-weight: bold;
+}
+
+.polling-table td:nth-child(odd)
+{
+    background: #efefef;
+    background: rgba(144, 144, 144, 0.09);
+    border-right: 1px solid white;
+}
+
+
+.polling-table td:nth-child(even)
+{
+    background: #e7f3d4;
+    background: rgba(224, 243, 167, 0.30);
+}
+
+/*Header*/
+.polling-table thead td
+{
+    font: bold 1.3em 'trebuchet MS', 'Lucida Sans', Arial;
+    -moz-border-radius-topright: 10px;
+    -moz-border-radius-topleft: 10px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+    border-top: 1px solid #eaeaea;
+}
+
+.polling-table thead td:first-child
+{
+    border-top: none;
+}
+
+/*Footer*/
+.polling-table tfoot td
+{
+    font: bold 1.4em Georgia;
+    -moz-border-radius-bottomright: 10px;
+    -moz-border-radius-bottomleft: 10px;
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+    border-bottom: 1px solid #dadada;
+}
+
+.polling-table tfoot td:first-child
+{
+    border-bottom: none;
+}
+
+
+/* buttons */
+
 .button, .button:visited {
     display: inline-block;
     padding: 5px 10px 6px;

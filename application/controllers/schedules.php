@@ -13,6 +13,8 @@ class schedules extends CI_Controller {
         parent::__construct();
         $this->load->model('schedule_model');
         $this->load->model('date_model');
+        $this->load->model('interval_model');
+
     }
 
     public function index()
@@ -74,14 +76,30 @@ class schedules extends CI_Controller {
         }
     }
 
-    public function vote($schedule_id = false)
+    public function vote($schedule_hash = false)
     {
-        if($schedule_id == false){
+        if($schedule_hash == false){
             show_404();
         }
 
-        $data['schedule'] = $this->schedule_model->get_schedules($schedule_id);
-        //var_dump($data['schedule']);
+        $data['schedule'] = $this->schedule_model->get_schedules($schedule_hash);
+        $data['dates'] = $this->date_model->get_datesForSchedule($data['schedule']['id']);
+
+        //retrieving the intervals for the dates
+        for($i =0 ; $i< count($data['dates']); $i++){
+            $intervals =  $this->interval_model->get_intervalsForDate($data['dates'][$i]['id']);
+            $data['dates'][$i]['intervals'] = $intervals;
+            //var_dump($data['dates'][$i]['intervals']);
+        }
+
+       //var_dump($data['dates']['intervals']);
+       // var_dump($this->date_model->get_datesForSchedule($data['schedule']['id']));
+
+        $data['title'] = 'Vote on an interval';
+
+        $this->load->view('templates/header', $data);
+        $this->load->view('schedules/vote',$data);
+        $this->load->view('templates/footer');
     }
 
 }

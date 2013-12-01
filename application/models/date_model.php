@@ -6,35 +6,22 @@ class date_model extends CI_Model {
         $this->load->database();
     }
 
-    public function get_schedules($slug = FALSE)
+    public function get_datesForSchedule($scheduleId = FALSE)
     {
-        if ($slug === FALSE)
+        if ($scheduleId === FALSE)
         {
-            $query = $this->db->get('schedule');
+            $query = $this->db->get('date');
 
             return $query->result_array();
         }
 
-        $query = $this->db->get_where('schedule',array('link_hash' => $slug));
-        //var_dump($query);
-        return $query->row_array();
+        $query = $this->db->get_where('date',array('schedule' => $scheduleId));
+        return $query->result_array();
     }
 
-    public function set_schedule()
+    public function set_dates()
     {
-        $this->load->helper('url');
-
-        $link_hash = uniqid('melt_');
-
-        $data = array(
-            'name' => $this->input->post('name'),
-            'link_hash' => $link_hash,
-            'description' => $this->input->post('description')
-        );
-
-        $this->db->insert('schedule', $data);
-
-        return $link_hash;
+        
     }
 
 }
