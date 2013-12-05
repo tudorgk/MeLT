@@ -7,7 +7,10 @@ function Poll(pollName,pollDates){
     this.generateHeaders = generateHeaders;
     this.generateInputRow = generateInputRow;
     this.addRow = addRowToPoll;
+    this.addSubmitButton = addSubmitButton;
+    this.attachForm = attachForm;
     this.table = $('<table></table>').addClass('polling-table');
+    this.form;
 }
 
 function getPollInfo() {
@@ -59,6 +62,7 @@ function generateInputRow(){
     //add the input field to the cell
     var inputField = $('<input required>');
     inputField.attr({
+        id : "user-input-field",
         type : "input",
         name : "user",
         placeholder : "Name"
@@ -86,8 +90,27 @@ function generateInputRow(){
     }
 }
 
-function displayPollInTarget(target){
+function addSubmitButton(target){
 
+    var submitP = $('<p></p>').addClass("submit");
+    submitP.attr({
+        style: "float:right"
+    })
+    var submitButton = $('<input>');
+    submitButton.attr({
+        class : "large button blue evenspaced",
+        value : "Save",
+        name : "submit",
+        type : "submit"
+    });
+
+    submitP.append(submitButton);
+
+    $(target).append(submitP);
+}
+
+function displayPollInTarget(target){
+    this.target = target;
 
     this.generateHeaders();
 
@@ -96,6 +119,10 @@ function displayPollInTarget(target){
 
     //adding the table to target
     $(target).append(this.table);
+
+    //add submit button
+    this.addSubmitButton(target);
+
 }
 
 function addRowToPoll(){
@@ -103,3 +130,50 @@ function addRowToPoll(){
     var row = $('<tr></tr>').addClass('basic-row');
     this.table.append(row);
 }
+
+function attachForm(targetForm){
+    this.form =targetForm;
+    $(this.form).submit(function( event ) {
+
+        // Stop form from submitting normally
+        event.preventDefault();
+
+        console.log(this);
+        // Get some values from elements on the page:
+        var userName = $(this).find( "input[name=user]" ).val(),
+            postingUrl = $(this).attr( "action" );
+
+        var checkboxes = [];
+
+        $(this).find( "input[name^='check-']" ).each(function (index, element) {
+
+            var dict = {
+                checkboxID : $(element).attr("name"),
+                checkboxValue: $(element).is(':checked')
+            }
+
+            checkboxes.push(dict);
+        });
+
+
+        console.log(userName);
+        console.log(checkboxes);
+        console.log(postingUrl);
+
+
+        // Send the data using post
+        var posting = $.post( postingUrl,
+            {
+                name: userName,
+                data : checkboxes
+            });
+
+        // Put the results in a div
+        posting.done(function( data ) {
+            console.log(data);
+        });
+
+    })
+
+}
+

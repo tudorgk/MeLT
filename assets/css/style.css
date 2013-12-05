@@ -192,6 +192,15 @@ li{
     position: relative;
 }
 
+.vote-link{
+    font-family: Verdana;
+    font-weight: bold;
+    display: block;
+    margin: 30px 5px;
+    font-size: 18px;
+    color: #2fa8e4;
+}
+
 /*Features table------------------------------------------------------------*/
 .polling-table
 {
@@ -294,6 +303,7 @@ li{
     display: inline-block;
     padding: 5px 10px 6px;
     color: #fff;
+    cursor: pointer;
     text-decoration: none;
     -moz-border-radius: 6px;
     -webkit-border-radius: 6px;
@@ -308,7 +318,7 @@ li{
     appearance: none;
 }
 
-.button:hover							{ background-color: #111; color: #fff; }
+.button:hover							{ background-color: #111; color: #fff;cursor: pointer; }
 .button:active							{ top: 1px; }
 .small.button, .small.button:visited 			{ font-size: 11px}
 .button, .button:visited,
@@ -337,7 +347,7 @@ li{
 .yellow.button, .yellow.button:visited		{ background-color: #ffb515; }
 .yellow.button:hover						{ background-color: #fc9200; }
 
-.button.evenspaced {margin: 10px; }
+.evenspaced {margin: 10px; }
 
 /*-------------------------------*/
 

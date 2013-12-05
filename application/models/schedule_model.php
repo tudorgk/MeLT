@@ -57,12 +57,62 @@ class schedule_model extends CI_Model {
                         'name' => $interval,
                         'date' => $dateID
                     );
-                    $this->db->insert('interval', $intervalToInsert);
+                    $this->db->insert('date_interval', $intervalToInsert);
                 }
             }
         }
 
         return $link_hash;
+    }
+
+    public function set_user_for_schedule(){
+        $this->load->helper('url');
+
+        $user = array(
+           'name' => $this->input->post('name')
+        );
+        $this->db->insert('user',$user);
+        $userID = mysql_insert_id();
+
+        $intervalArray = $this->input->post('data');
+
+        foreach($intervalArray as $input){
+            if($input['checkboxValue']=='true'){
+                //getting the interval ID
+                $checkboxArray = explode('-',$input['checkboxID']);
+                $intervalID = $checkboxArray[2];
+
+                //creating  user_intervals entries
+                $user_entry = array(
+                    'user_id' => $userID,
+                    'interval_id' => $intervalID
+                );
+
+                //inserting in user_intervals for resolving many-to-many
+                $this->db->insert('user_intervals', $user_entry);
+            }
+        }
+       var_dump($intervalArray);
+    }
+
+    //gets all the users for populating the table
+    public function get_all_users_for_schedule(){
+
+        $query = $this->db->query(
+            "select *
+from user U
+inner join user_intervals UI
+  on U.id = UI.user_id
+inner join date_interval I
+  on UI.interval_id = I.id
+ where I.date = 62");
+
+        return $query->result_array();
+    }
+
+    //removes a user
+    public function remove_user_fromschedule(){
+
     }
 
 }

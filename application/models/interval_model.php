@@ -10,12 +10,12 @@ class interval_model extends CI_Model {
     {
         if ($dateID === FALSE)
         {
-            $query = $this->db->get('interval');
+            $query = $this->db->get('date_interval');
 
             return $query->result_array();
         }
 
-        $query = $this->db->get_where('interval',array('date' => $dateID));
+        $query = $this->db->get_where('date_interval',array('date' => $dateID));
         return $query->result_array();
     }
 

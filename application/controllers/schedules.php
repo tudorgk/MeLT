@@ -82,6 +82,9 @@ class schedules extends CI_Controller {
             show_404();
         }
 
+        //loading the form helper
+        $this->load->helper('form');
+
         $data['schedule'] = $this->schedule_model->get_schedules($schedule_hash);
         $data['dates'] = $this->date_model->get_datesForSchedule($data['schedule']['id']);
 
@@ -95,11 +98,22 @@ class schedules extends CI_Controller {
         //var_dump($data['dates'][0]['intervals']);
         //var_dump($this->date_model->get_datesForSchedule($data['schedule']['id']));
 
+        var_dump($this->schedule_model->get_all_users_for_schedule());
+
         $data['title'] = 'Vote on an interval';
 
         $this->load->view('templates/header', $data);
         $this->load->view('schedules/vote',$data);
         $this->load->view('templates/footer');
+    }
+
+    public function submitVote(){
+        //loading the form helper
+        $this->load->helper('form');
+
+        $data['data'] = $this->schedule_model->set_user_for_schedule();
+
+        return $data['data'];
     }
 
 }
