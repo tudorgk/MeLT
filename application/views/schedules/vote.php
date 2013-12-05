@@ -1,9 +1,11 @@
 <script type="text/javascript">
     $(document).ready(function() {
-        var poll = new Poll("text", <?php echo json_encode($dates) ?>);
+        var poll = new Poll("text", <?php echo json_encode($dates) ?>,<?php
+        echo json_encode($schedule['id']);?>);
         // Setting the inner HTML with jQuery
         poll.displayPoll( "#polling-area" );
-        poll.attachForm(document.getElementById("poll-form"));
+        poll.attachForm(document.getElementById("poll-form"),<?php
+        echo json_encode($schedule['id']);?>);
     });
 </script>
 

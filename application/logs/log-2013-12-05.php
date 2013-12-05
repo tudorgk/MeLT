@@ -2478,3 +2478,3079 @@ DEBUG - 2013-12-05 16:27:49 --> File loaded: application/views/schedules/vote.ph
 DEBUG - 2013-12-05 16:27:49 --> File loaded: application/views/templates/footer.php
 DEBUG - 2013-12-05 16:27:49 --> Final output sent to browser
 DEBUG - 2013-12-05 16:27:49 --> Total execution time: 0.0512
+DEBUG - 2013-12-05 19:53:22 --> Config Class Initialized
+DEBUG - 2013-12-05 19:53:22 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:53:22 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:53:22 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:53:22 --> URI Class Initialized
+DEBUG - 2013-12-05 19:53:22 --> Router Class Initialized
+DEBUG - 2013-12-05 19:53:22 --> Output Class Initialized
+DEBUG - 2013-12-05 19:53:22 --> Security Class Initialized
+DEBUG - 2013-12-05 19:53:22 --> Input Class Initialized
+DEBUG - 2013-12-05 19:53:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:53:22 --> Language Class Initialized
+DEBUG - 2013-12-05 19:53:22 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:53:22 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:53:22 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:53:22 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:53:22 --> Model Class Initialized
+DEBUG - 2013-12-05 19:53:22 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 19:53:22 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 19:53:22 --> Final output sent to browser
+DEBUG - 2013-12-05 19:53:22 --> Total execution time: 0.1736
+DEBUG - 2013-12-05 19:53:24 --> Config Class Initialized
+DEBUG - 2013-12-05 19:53:24 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:53:24 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:53:24 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:53:24 --> URI Class Initialized
+DEBUG - 2013-12-05 19:53:24 --> Router Class Initialized
+DEBUG - 2013-12-05 19:53:24 --> Output Class Initialized
+DEBUG - 2013-12-05 19:53:24 --> Security Class Initialized
+DEBUG - 2013-12-05 19:53:24 --> Input Class Initialized
+DEBUG - 2013-12-05 19:53:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:53:24 --> Language Class Initialized
+DEBUG - 2013-12-05 19:53:24 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:53:24 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:53:24 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:53:24 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:53:24 --> Model Class Initialized
+DEBUG - 2013-12-05 19:53:24 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 19:53:24 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 19:53:24 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 19:53:24 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 19:53:24 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 19:53:24 --> Final output sent to browser
+DEBUG - 2013-12-05 19:53:24 --> Total execution time: 0.1033
+DEBUG - 2013-12-05 19:53:30 --> Config Class Initialized
+DEBUG - 2013-12-05 19:53:30 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:53:30 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:53:30 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:53:30 --> URI Class Initialized
+DEBUG - 2013-12-05 19:53:30 --> Router Class Initialized
+DEBUG - 2013-12-05 19:53:30 --> Output Class Initialized
+DEBUG - 2013-12-05 19:53:30 --> Security Class Initialized
+DEBUG - 2013-12-05 19:53:30 --> Input Class Initialized
+DEBUG - 2013-12-05 19:53:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:53:30 --> Language Class Initialized
+DEBUG - 2013-12-05 19:53:30 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:53:30 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:53:30 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:53:30 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:53:30 --> Model Class Initialized
+DEBUG - 2013-12-05 19:53:30 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 19:53:30 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 19:53:30 --> Final output sent to browser
+DEBUG - 2013-12-05 19:53:30 --> Total execution time: 0.4026
+DEBUG - 2013-12-05 19:53:32 --> Config Class Initialized
+DEBUG - 2013-12-05 19:53:32 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:53:32 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:53:32 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:53:32 --> URI Class Initialized
+DEBUG - 2013-12-05 19:53:32 --> Router Class Initialized
+DEBUG - 2013-12-05 19:53:32 --> Output Class Initialized
+DEBUG - 2013-12-05 19:53:32 --> Security Class Initialized
+DEBUG - 2013-12-05 19:53:32 --> Input Class Initialized
+DEBUG - 2013-12-05 19:53:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:53:32 --> Language Class Initialized
+DEBUG - 2013-12-05 19:53:32 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:53:32 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:53:32 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:53:32 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:53:32 --> Model Class Initialized
+DEBUG - 2013-12-05 19:53:32 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 19:53:32 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 19:53:32 --> Final output sent to browser
+DEBUG - 2013-12-05 19:53:32 --> Total execution time: 0.2378
+DEBUG - 2013-12-05 19:53:42 --> Config Class Initialized
+DEBUG - 2013-12-05 19:53:42 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:53:42 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:53:42 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:53:42 --> URI Class Initialized
+DEBUG - 2013-12-05 19:53:42 --> Router Class Initialized
+DEBUG - 2013-12-05 19:53:42 --> Output Class Initialized
+DEBUG - 2013-12-05 19:53:42 --> Security Class Initialized
+DEBUG - 2013-12-05 19:53:42 --> Input Class Initialized
+DEBUG - 2013-12-05 19:53:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:53:42 --> Language Class Initialized
+DEBUG - 2013-12-05 19:53:42 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:53:42 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:53:42 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:53:42 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:53:42 --> Model Class Initialized
+DEBUG - 2013-12-05 19:53:42 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 19:53:42 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 19:53:42 --> Final output sent to browser
+DEBUG - 2013-12-05 19:53:42 --> Total execution time: 0.1275
+DEBUG - 2013-12-05 19:53:51 --> Config Class Initialized
+DEBUG - 2013-12-05 19:53:51 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:53:51 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:53:51 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:53:51 --> URI Class Initialized
+DEBUG - 2013-12-05 19:53:51 --> Router Class Initialized
+DEBUG - 2013-12-05 19:53:51 --> Output Class Initialized
+DEBUG - 2013-12-05 19:53:51 --> Security Class Initialized
+DEBUG - 2013-12-05 19:53:51 --> Input Class Initialized
+DEBUG - 2013-12-05 19:53:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:53:51 --> Language Class Initialized
+DEBUG - 2013-12-05 19:53:51 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:53:51 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:53:51 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:53:51 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:53:51 --> Model Class Initialized
+DEBUG - 2013-12-05 19:53:51 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 19:53:51 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 19:53:51 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 19:53:51 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 19:53:51 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 19:53:51 --> Final output sent to browser
+DEBUG - 2013-12-05 19:53:51 --> Total execution time: 0.0597
+DEBUG - 2013-12-05 19:54:17 --> Config Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:54:17 --> URI Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Router Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Output Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Security Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Input Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:54:17 --> Language Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:54:17 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:54:17 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Model Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 19:54:17 --> Final output sent to browser
+DEBUG - 2013-12-05 19:54:17 --> Total execution time: 0.1198
+DEBUG - 2013-12-05 19:54:17 --> Config Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:54:17 --> URI Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Router Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Output Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Security Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Input Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:54:17 --> Language Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:54:17 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:54:17 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Model Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 19:54:17 --> Config Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:54:17 --> URI Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Router Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Output Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Security Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Input Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:54:17 --> Language Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:54:17 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:54:17 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Model Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 19:54:17 --> Config Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:54:17 --> URI Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Router Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Output Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Security Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Input Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:54:17 --> Language Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:54:17 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:54:17 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Model Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 19:54:17 --> Final output sent to browser
+DEBUG - 2013-12-05 19:54:17 --> Total execution time: 0.4704
+DEBUG - 2013-12-05 19:54:17 --> Final output sent to browser
+DEBUG - 2013-12-05 19:54:17 --> Total execution time: 0.3809
+DEBUG - 2013-12-05 19:54:17 --> Final output sent to browser
+DEBUG - 2013-12-05 19:54:17 --> Total execution time: 0.2340
+DEBUG - 2013-12-05 19:54:17 --> Config Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:54:17 --> URI Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Router Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Output Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Security Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Input Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:54:17 --> Language Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:54:17 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:54:17 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Model Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 19:54:17 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 19:54:17 --> Final output sent to browser
+DEBUG - 2013-12-05 19:54:17 --> Total execution time: 0.1138
+DEBUG - 2013-12-05 19:54:18 --> Config Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:54:18 --> URI Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Router Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Output Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Security Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Input Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:54:18 --> Language Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:54:18 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:54:18 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Model Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 19:54:18 --> Final output sent to browser
+DEBUG - 2013-12-05 19:54:18 --> Total execution time: 0.1224
+DEBUG - 2013-12-05 19:54:18 --> Config Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:54:18 --> URI Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Router Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Output Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Security Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Input Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:54:18 --> Language Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:54:18 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:54:18 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Model Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 19:54:18 --> Final output sent to browser
+DEBUG - 2013-12-05 19:54:18 --> Total execution time: 0.1124
+DEBUG - 2013-12-05 19:54:18 --> Config Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:54:18 --> URI Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Router Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Output Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Security Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Input Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:54:18 --> Language Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:54:18 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:54:18 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Model Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 19:54:18 --> Final output sent to browser
+DEBUG - 2013-12-05 19:54:18 --> Total execution time: 0.1193
+DEBUG - 2013-12-05 19:54:18 --> Config Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:54:18 --> URI Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Router Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Output Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Security Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Input Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:54:18 --> Language Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:54:18 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:54:18 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Model Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 19:54:18 --> Final output sent to browser
+DEBUG - 2013-12-05 19:54:18 --> Total execution time: 0.1171
+DEBUG - 2013-12-05 19:54:18 --> Config Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:54:18 --> URI Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Router Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Output Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Security Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Input Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:54:18 --> Language Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:54:18 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:54:18 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Model Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 19:54:18 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 19:54:18 --> Final output sent to browser
+DEBUG - 2013-12-05 19:54:18 --> Total execution time: 0.1206
+DEBUG - 2013-12-05 19:54:20 --> Config Class Initialized
+DEBUG - 2013-12-05 19:54:20 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:54:20 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:54:20 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:54:20 --> URI Class Initialized
+DEBUG - 2013-12-05 19:54:20 --> Router Class Initialized
+DEBUG - 2013-12-05 19:54:20 --> Output Class Initialized
+DEBUG - 2013-12-05 19:54:20 --> Security Class Initialized
+DEBUG - 2013-12-05 19:54:20 --> Input Class Initialized
+DEBUG - 2013-12-05 19:54:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:54:20 --> Language Class Initialized
+DEBUG - 2013-12-05 19:54:20 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:54:20 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:54:20 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:54:20 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:54:20 --> Model Class Initialized
+DEBUG - 2013-12-05 19:54:20 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 19:54:20 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 19:54:20 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 19:54:20 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 19:54:20 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 19:54:20 --> Final output sent to browser
+DEBUG - 2013-12-05 19:54:20 --> Total execution time: 0.0591
+DEBUG - 2013-12-05 19:54:46 --> Config Class Initialized
+DEBUG - 2013-12-05 19:54:46 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:54:46 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:54:46 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:54:46 --> URI Class Initialized
+DEBUG - 2013-12-05 19:54:46 --> Router Class Initialized
+DEBUG - 2013-12-05 19:54:46 --> Output Class Initialized
+DEBUG - 2013-12-05 19:54:46 --> Security Class Initialized
+DEBUG - 2013-12-05 19:54:46 --> Input Class Initialized
+DEBUG - 2013-12-05 19:54:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:54:46 --> Language Class Initialized
+DEBUG - 2013-12-05 19:54:46 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:54:46 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:54:46 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:54:46 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:54:46 --> Model Class Initialized
+DEBUG - 2013-12-05 19:54:46 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 19:54:46 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 19:54:46 --> Final output sent to browser
+DEBUG - 2013-12-05 19:54:46 --> Total execution time: 0.0931
+DEBUG - 2013-12-05 19:54:49 --> Config Class Initialized
+DEBUG - 2013-12-05 19:54:49 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:54:49 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:54:49 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:54:49 --> URI Class Initialized
+DEBUG - 2013-12-05 19:54:49 --> Router Class Initialized
+DEBUG - 2013-12-05 19:54:49 --> Output Class Initialized
+DEBUG - 2013-12-05 19:54:49 --> Security Class Initialized
+DEBUG - 2013-12-05 19:54:49 --> Input Class Initialized
+DEBUG - 2013-12-05 19:54:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:54:49 --> Language Class Initialized
+DEBUG - 2013-12-05 19:54:49 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:54:49 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:54:49 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:54:49 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:54:49 --> Model Class Initialized
+DEBUG - 2013-12-05 19:54:49 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 19:54:49 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 19:54:49 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 19:54:49 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 19:54:49 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 19:54:49 --> Final output sent to browser
+DEBUG - 2013-12-05 19:54:49 --> Total execution time: 0.0602
+DEBUG - 2013-12-05 19:54:56 --> Config Class Initialized
+DEBUG - 2013-12-05 19:54:56 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:54:56 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:54:56 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:54:56 --> URI Class Initialized
+DEBUG - 2013-12-05 19:54:56 --> Router Class Initialized
+DEBUG - 2013-12-05 19:54:56 --> Output Class Initialized
+DEBUG - 2013-12-05 19:54:56 --> Security Class Initialized
+DEBUG - 2013-12-05 19:54:56 --> Input Class Initialized
+DEBUG - 2013-12-05 19:54:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:54:56 --> Language Class Initialized
+DEBUG - 2013-12-05 19:54:56 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:54:56 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:54:56 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:54:56 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:54:56 --> Model Class Initialized
+DEBUG - 2013-12-05 19:54:56 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 19:54:56 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 19:54:56 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 19:54:56 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 19:54:56 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 19:54:56 --> Final output sent to browser
+DEBUG - 2013-12-05 19:54:56 --> Total execution time: 0.0606
+DEBUG - 2013-12-05 19:55:14 --> Config Class Initialized
+DEBUG - 2013-12-05 19:55:14 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:55:14 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:55:14 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:55:14 --> URI Class Initialized
+DEBUG - 2013-12-05 19:55:14 --> Router Class Initialized
+DEBUG - 2013-12-05 19:55:14 --> Output Class Initialized
+DEBUG - 2013-12-05 19:55:14 --> Security Class Initialized
+DEBUG - 2013-12-05 19:55:14 --> Input Class Initialized
+DEBUG - 2013-12-05 19:55:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:55:14 --> Language Class Initialized
+DEBUG - 2013-12-05 19:55:14 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:55:14 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:55:14 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:55:14 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:55:14 --> Model Class Initialized
+DEBUG - 2013-12-05 19:55:14 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 19:55:14 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 19:55:14 --> Form Validation Class Initialized
+DEBUG - 2013-12-05 19:55:14 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 19:55:14 --> File loaded: application/views/schedules/create.php
+DEBUG - 2013-12-05 19:55:14 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 19:55:14 --> Final output sent to browser
+DEBUG - 2013-12-05 19:55:14 --> Total execution time: 0.0518
+DEBUG - 2013-12-05 19:55:32 --> Config Class Initialized
+DEBUG - 2013-12-05 19:55:32 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:55:32 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:55:32 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:55:32 --> URI Class Initialized
+DEBUG - 2013-12-05 19:55:32 --> Router Class Initialized
+DEBUG - 2013-12-05 19:55:32 --> Output Class Initialized
+DEBUG - 2013-12-05 19:55:32 --> Security Class Initialized
+DEBUG - 2013-12-05 19:55:32 --> Input Class Initialized
+DEBUG - 2013-12-05 19:55:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:55:32 --> Language Class Initialized
+DEBUG - 2013-12-05 19:55:32 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:55:32 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:55:32 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:55:32 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:55:32 --> Model Class Initialized
+DEBUG - 2013-12-05 19:55:32 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 19:55:32 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 19:55:32 --> Form Validation Class Initialized
+DEBUG - 2013-12-05 19:55:32 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-12-05 19:55:32 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 19:55:32 --> File loaded: application/views/schedules/success.php
+DEBUG - 2013-12-05 19:55:32 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 19:55:32 --> Final output sent to browser
+DEBUG - 2013-12-05 19:55:32 --> Total execution time: 0.3348
+DEBUG - 2013-12-05 19:55:33 --> Config Class Initialized
+DEBUG - 2013-12-05 19:55:33 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:55:33 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:55:33 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:55:33 --> URI Class Initialized
+DEBUG - 2013-12-05 19:55:33 --> Router Class Initialized
+DEBUG - 2013-12-05 19:55:33 --> Output Class Initialized
+DEBUG - 2013-12-05 19:55:33 --> Security Class Initialized
+DEBUG - 2013-12-05 19:55:33 --> Input Class Initialized
+DEBUG - 2013-12-05 19:55:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:55:33 --> Language Class Initialized
+DEBUG - 2013-12-05 19:55:33 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:55:34 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:55:34 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:55:34 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:55:34 --> Model Class Initialized
+DEBUG - 2013-12-05 19:55:34 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 19:55:34 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 19:55:34 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 19:55:34 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 19:55:34 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 19:55:34 --> Final output sent to browser
+DEBUG - 2013-12-05 19:55:34 --> Total execution time: 0.0538
+DEBUG - 2013-12-05 19:59:40 --> Config Class Initialized
+DEBUG - 2013-12-05 19:59:40 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:59:40 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:59:40 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:59:40 --> URI Class Initialized
+DEBUG - 2013-12-05 19:59:40 --> Router Class Initialized
+DEBUG - 2013-12-05 19:59:40 --> Output Class Initialized
+DEBUG - 2013-12-05 19:59:40 --> Security Class Initialized
+DEBUG - 2013-12-05 19:59:40 --> Input Class Initialized
+DEBUG - 2013-12-05 19:59:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:59:40 --> Language Class Initialized
+DEBUG - 2013-12-05 19:59:40 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:59:40 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:59:40 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:59:40 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:59:40 --> Model Class Initialized
+DEBUG - 2013-12-05 19:59:54 --> Config Class Initialized
+DEBUG - 2013-12-05 19:59:54 --> Hooks Class Initialized
+DEBUG - 2013-12-05 19:59:54 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 19:59:54 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 19:59:54 --> URI Class Initialized
+DEBUG - 2013-12-05 19:59:54 --> Router Class Initialized
+DEBUG - 2013-12-05 19:59:54 --> Output Class Initialized
+DEBUG - 2013-12-05 19:59:54 --> Security Class Initialized
+DEBUG - 2013-12-05 19:59:54 --> Input Class Initialized
+DEBUG - 2013-12-05 19:59:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 19:59:54 --> Language Class Initialized
+DEBUG - 2013-12-05 19:59:54 --> Loader Class Initialized
+DEBUG - 2013-12-05 19:59:54 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 19:59:54 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 19:59:54 --> Controller Class Initialized
+DEBUG - 2013-12-05 19:59:54 --> Model Class Initialized
+DEBUG - 2013-12-05 19:59:54 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 19:59:54 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 19:59:54 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 19:59:54 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 19:59:54 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 19:59:54 --> Final output sent to browser
+DEBUG - 2013-12-05 19:59:54 --> Total execution time: 0.0568
+DEBUG - 2013-12-05 20:00:20 --> Config Class Initialized
+DEBUG - 2013-12-05 20:00:20 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:00:20 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:00:20 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:00:20 --> URI Class Initialized
+DEBUG - 2013-12-05 20:00:20 --> Router Class Initialized
+DEBUG - 2013-12-05 20:00:20 --> Output Class Initialized
+DEBUG - 2013-12-05 20:00:20 --> Security Class Initialized
+DEBUG - 2013-12-05 20:00:20 --> Input Class Initialized
+DEBUG - 2013-12-05 20:00:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:00:20 --> Language Class Initialized
+DEBUG - 2013-12-05 20:00:20 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:00:20 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:00:20 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:00:20 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:00:20 --> Model Class Initialized
+DEBUG - 2013-12-05 20:00:20 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:00:20 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:00:20 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:00:20 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:00:20 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:00:20 --> Final output sent to browser
+DEBUG - 2013-12-05 20:00:20 --> Total execution time: 0.0581
+DEBUG - 2013-12-05 20:01:02 --> Config Class Initialized
+DEBUG - 2013-12-05 20:01:02 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:01:02 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:01:02 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:01:02 --> URI Class Initialized
+DEBUG - 2013-12-05 20:01:02 --> Router Class Initialized
+DEBUG - 2013-12-05 20:01:02 --> Output Class Initialized
+DEBUG - 2013-12-05 20:01:02 --> Security Class Initialized
+DEBUG - 2013-12-05 20:01:02 --> Input Class Initialized
+DEBUG - 2013-12-05 20:01:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:01:02 --> Language Class Initialized
+DEBUG - 2013-12-05 20:01:02 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:01:02 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:01:02 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:01:02 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:01:02 --> Model Class Initialized
+DEBUG - 2013-12-05 20:01:02 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:01:02 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:01:02 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:01:02 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:01:02 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:01:02 --> Final output sent to browser
+DEBUG - 2013-12-05 20:01:02 --> Total execution time: 0.0526
+DEBUG - 2013-12-05 20:01:06 --> Config Class Initialized
+DEBUG - 2013-12-05 20:01:06 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:01:06 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:01:06 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:01:06 --> URI Class Initialized
+DEBUG - 2013-12-05 20:01:06 --> Router Class Initialized
+DEBUG - 2013-12-05 20:01:06 --> Output Class Initialized
+DEBUG - 2013-12-05 20:01:06 --> Security Class Initialized
+DEBUG - 2013-12-05 20:01:06 --> Input Class Initialized
+DEBUG - 2013-12-05 20:01:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:01:06 --> Language Class Initialized
+DEBUG - 2013-12-05 20:01:06 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:01:06 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:01:06 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:01:06 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:01:06 --> Model Class Initialized
+DEBUG - 2013-12-05 20:01:06 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:01:06 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:01:06 --> Final output sent to browser
+DEBUG - 2013-12-05 20:01:06 --> Total execution time: 0.2747
+DEBUG - 2013-12-05 20:01:08 --> Config Class Initialized
+DEBUG - 2013-12-05 20:01:08 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:01:08 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:01:08 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:01:08 --> URI Class Initialized
+DEBUG - 2013-12-05 20:01:08 --> Router Class Initialized
+DEBUG - 2013-12-05 20:01:08 --> Output Class Initialized
+DEBUG - 2013-12-05 20:01:09 --> Security Class Initialized
+DEBUG - 2013-12-05 20:01:09 --> Input Class Initialized
+DEBUG - 2013-12-05 20:01:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:01:09 --> Language Class Initialized
+DEBUG - 2013-12-05 20:01:09 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:01:09 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:01:09 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:01:09 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:01:09 --> Model Class Initialized
+DEBUG - 2013-12-05 20:01:09 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:01:09 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:01:09 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:01:09 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:01:09 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:01:09 --> Final output sent to browser
+DEBUG - 2013-12-05 20:01:09 --> Total execution time: 0.0577
+DEBUG - 2013-12-05 20:01:13 --> Config Class Initialized
+DEBUG - 2013-12-05 20:01:13 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:01:13 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:01:13 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:01:13 --> URI Class Initialized
+DEBUG - 2013-12-05 20:01:13 --> Router Class Initialized
+DEBUG - 2013-12-05 20:01:13 --> Output Class Initialized
+DEBUG - 2013-12-05 20:01:13 --> Security Class Initialized
+DEBUG - 2013-12-05 20:01:13 --> Input Class Initialized
+DEBUG - 2013-12-05 20:01:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:01:13 --> Language Class Initialized
+DEBUG - 2013-12-05 20:01:13 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:01:13 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:01:13 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:01:13 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:01:13 --> Model Class Initialized
+DEBUG - 2013-12-05 20:01:13 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:01:13 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:01:13 --> Final output sent to browser
+DEBUG - 2013-12-05 20:01:13 --> Total execution time: 0.0969
+DEBUG - 2013-12-05 20:01:14 --> Config Class Initialized
+DEBUG - 2013-12-05 20:01:14 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:01:14 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:01:14 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:01:14 --> URI Class Initialized
+DEBUG - 2013-12-05 20:01:14 --> Router Class Initialized
+DEBUG - 2013-12-05 20:01:14 --> Output Class Initialized
+DEBUG - 2013-12-05 20:01:14 --> Security Class Initialized
+DEBUG - 2013-12-05 20:01:14 --> Input Class Initialized
+DEBUG - 2013-12-05 20:01:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:01:14 --> Language Class Initialized
+DEBUG - 2013-12-05 20:01:14 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:01:14 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:01:14 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:01:14 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:01:14 --> Model Class Initialized
+DEBUG - 2013-12-05 20:01:14 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:01:14 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:01:14 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:01:14 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:01:14 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:01:14 --> Final output sent to browser
+DEBUG - 2013-12-05 20:01:14 --> Total execution time: 0.0543
+DEBUG - 2013-12-05 20:01:51 --> Config Class Initialized
+DEBUG - 2013-12-05 20:01:51 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:01:51 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:01:51 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:01:51 --> URI Class Initialized
+DEBUG - 2013-12-05 20:01:51 --> Router Class Initialized
+DEBUG - 2013-12-05 20:01:51 --> Output Class Initialized
+DEBUG - 2013-12-05 20:01:51 --> Security Class Initialized
+DEBUG - 2013-12-05 20:01:51 --> Input Class Initialized
+DEBUG - 2013-12-05 20:01:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:01:51 --> Language Class Initialized
+DEBUG - 2013-12-05 20:01:51 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:01:51 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:01:51 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:01:51 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:01:51 --> Model Class Initialized
+DEBUG - 2013-12-05 20:01:51 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:01:51 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:01:51 --> Final output sent to browser
+DEBUG - 2013-12-05 20:01:51 --> Total execution time: 0.3920
+DEBUG - 2013-12-05 20:01:52 --> Config Class Initialized
+DEBUG - 2013-12-05 20:01:52 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:01:52 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:01:52 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:01:52 --> URI Class Initialized
+DEBUG - 2013-12-05 20:01:52 --> Router Class Initialized
+DEBUG - 2013-12-05 20:01:52 --> Output Class Initialized
+DEBUG - 2013-12-05 20:01:52 --> Security Class Initialized
+DEBUG - 2013-12-05 20:01:52 --> Input Class Initialized
+DEBUG - 2013-12-05 20:01:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:01:52 --> Language Class Initialized
+DEBUG - 2013-12-05 20:01:52 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:01:52 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:01:52 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:01:52 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:01:52 --> Model Class Initialized
+DEBUG - 2013-12-05 20:01:52 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:01:52 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:01:52 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:01:52 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:01:52 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:01:52 --> Final output sent to browser
+DEBUG - 2013-12-05 20:01:52 --> Total execution time: 0.0530
+DEBUG - 2013-12-05 20:01:53 --> Config Class Initialized
+DEBUG - 2013-12-05 20:01:53 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:01:53 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:01:53 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:01:53 --> URI Class Initialized
+DEBUG - 2013-12-05 20:01:53 --> Router Class Initialized
+DEBUG - 2013-12-05 20:01:53 --> Output Class Initialized
+DEBUG - 2013-12-05 20:01:53 --> Security Class Initialized
+DEBUG - 2013-12-05 20:01:53 --> Input Class Initialized
+DEBUG - 2013-12-05 20:01:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:01:53 --> Language Class Initialized
+DEBUG - 2013-12-05 20:01:53 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:01:53 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:01:53 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:01:53 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:01:53 --> Model Class Initialized
+DEBUG - 2013-12-05 20:01:53 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:01:53 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:01:53 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:01:53 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:01:53 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:01:53 --> Final output sent to browser
+DEBUG - 2013-12-05 20:01:53 --> Total execution time: 0.0598
+DEBUG - 2013-12-05 20:01:57 --> Config Class Initialized
+DEBUG - 2013-12-05 20:01:57 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:01:57 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:01:57 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:01:57 --> URI Class Initialized
+DEBUG - 2013-12-05 20:01:57 --> Router Class Initialized
+DEBUG - 2013-12-05 20:01:57 --> Output Class Initialized
+DEBUG - 2013-12-05 20:01:57 --> Security Class Initialized
+DEBUG - 2013-12-05 20:01:57 --> Input Class Initialized
+DEBUG - 2013-12-05 20:01:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:01:57 --> Language Class Initialized
+DEBUG - 2013-12-05 20:01:57 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:01:57 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:01:57 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:01:57 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:01:57 --> Model Class Initialized
+DEBUG - 2013-12-05 20:01:57 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:01:57 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:01:57 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:01:57 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:01:57 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:01:57 --> Final output sent to browser
+DEBUG - 2013-12-05 20:01:57 --> Total execution time: 0.0673
+DEBUG - 2013-12-05 20:02:31 --> Config Class Initialized
+DEBUG - 2013-12-05 20:02:31 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:02:31 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:02:31 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:02:31 --> URI Class Initialized
+DEBUG - 2013-12-05 20:02:31 --> Router Class Initialized
+DEBUG - 2013-12-05 20:02:31 --> Output Class Initialized
+DEBUG - 2013-12-05 20:02:31 --> Security Class Initialized
+DEBUG - 2013-12-05 20:02:31 --> Input Class Initialized
+DEBUG - 2013-12-05 20:02:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:02:31 --> Language Class Initialized
+DEBUG - 2013-12-05 20:02:31 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:02:31 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:02:31 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:02:31 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:02:31 --> Model Class Initialized
+DEBUG - 2013-12-05 20:02:31 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:02:31 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:02:31 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:02:31 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:02:31 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:02:31 --> Final output sent to browser
+DEBUG - 2013-12-05 20:02:31 --> Total execution time: 0.0544
+DEBUG - 2013-12-05 20:29:10 --> Config Class Initialized
+DEBUG - 2013-12-05 20:29:10 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:29:10 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:29:10 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:29:10 --> URI Class Initialized
+DEBUG - 2013-12-05 20:29:10 --> Router Class Initialized
+DEBUG - 2013-12-05 20:29:10 --> Output Class Initialized
+DEBUG - 2013-12-05 20:29:10 --> Security Class Initialized
+DEBUG - 2013-12-05 20:29:10 --> Input Class Initialized
+DEBUG - 2013-12-05 20:29:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:29:10 --> Language Class Initialized
+DEBUG - 2013-12-05 20:29:10 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:29:10 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:29:10 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:29:10 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:29:10 --> Model Class Initialized
+DEBUG - 2013-12-05 20:29:10 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:29:10 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:29:10 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-05 20:29:10 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 101
+ERROR - 2013-12-05 20:29:10 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 113
+DEBUG - 2013-12-05 20:29:10 --> DB Transaction Failure
+ERROR - 2013-12-05 20:29:10 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 7
+DEBUG - 2013-12-05 20:29:10 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-05 20:29:45 --> Config Class Initialized
+DEBUG - 2013-12-05 20:29:45 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:29:45 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:29:45 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:29:45 --> URI Class Initialized
+DEBUG - 2013-12-05 20:29:45 --> Router Class Initialized
+DEBUG - 2013-12-05 20:29:45 --> Output Class Initialized
+DEBUG - 2013-12-05 20:29:45 --> Security Class Initialized
+DEBUG - 2013-12-05 20:29:45 --> Input Class Initialized
+DEBUG - 2013-12-05 20:29:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:29:45 --> Language Class Initialized
+DEBUG - 2013-12-05 20:29:45 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:29:45 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:29:45 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:29:45 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:29:45 --> Model Class Initialized
+DEBUG - 2013-12-05 20:29:45 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:29:45 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:29:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:29:45 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:29:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:29:45 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:29:45 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:29:45 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:29:45 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:29:45 --> Final output sent to browser
+DEBUG - 2013-12-05 20:29:45 --> Total execution time: 0.0559
+DEBUG - 2013-12-05 20:29:52 --> Config Class Initialized
+DEBUG - 2013-12-05 20:29:52 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:29:52 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:29:52 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:29:52 --> URI Class Initialized
+DEBUG - 2013-12-05 20:29:52 --> Router Class Initialized
+DEBUG - 2013-12-05 20:29:52 --> Output Class Initialized
+DEBUG - 2013-12-05 20:29:52 --> Security Class Initialized
+DEBUG - 2013-12-05 20:29:52 --> Input Class Initialized
+DEBUG - 2013-12-05 20:29:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:29:52 --> Language Class Initialized
+DEBUG - 2013-12-05 20:29:52 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:29:52 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:29:52 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:29:52 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:29:52 --> Model Class Initialized
+DEBUG - 2013-12-05 20:29:52 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:29:52 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:29:52 --> Form Validation Class Initialized
+DEBUG - 2013-12-05 20:29:52 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:29:52 --> File loaded: application/views/schedules/create.php
+DEBUG - 2013-12-05 20:29:52 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:29:52 --> Final output sent to browser
+DEBUG - 2013-12-05 20:29:52 --> Total execution time: 0.0568
+DEBUG - 2013-12-05 20:30:00 --> Config Class Initialized
+DEBUG - 2013-12-05 20:30:00 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:30:00 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:30:00 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:30:00 --> URI Class Initialized
+DEBUG - 2013-12-05 20:30:00 --> Router Class Initialized
+DEBUG - 2013-12-05 20:30:00 --> Output Class Initialized
+DEBUG - 2013-12-05 20:30:00 --> Security Class Initialized
+DEBUG - 2013-12-05 20:30:00 --> Input Class Initialized
+DEBUG - 2013-12-05 20:30:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:30:00 --> Language Class Initialized
+DEBUG - 2013-12-05 20:30:00 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:30:00 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:30:00 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:30:00 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:30:00 --> Model Class Initialized
+DEBUG - 2013-12-05 20:30:00 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:30:00 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:30:00 --> Form Validation Class Initialized
+DEBUG - 2013-12-05 20:30:00 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-12-05 20:30:00 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:30:00 --> File loaded: application/views/schedules/success.php
+DEBUG - 2013-12-05 20:30:00 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:30:00 --> Final output sent to browser
+DEBUG - 2013-12-05 20:30:00 --> Total execution time: 0.4541
+DEBUG - 2013-12-05 20:30:02 --> Config Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:30:02 --> URI Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Router Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Output Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Security Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Input Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:30:02 --> Language Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:30:02 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:30:02 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Model Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:30:02 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:30:02 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:30:02 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:30:02 --> Final output sent to browser
+DEBUG - 2013-12-05 20:30:02 --> Total execution time: 0.0521
+DEBUG - 2013-12-05 20:30:02 --> Config Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:30:02 --> URI Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Router Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Output Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Security Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Input Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:30:02 --> Language Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:30:02 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:30:02 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Model Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:30:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:30:02 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:30:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:30:02 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:30:02 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:30:02 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:30:02 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:30:02 --> Final output sent to browser
+DEBUG - 2013-12-05 20:30:02 --> Total execution time: 0.0704
+DEBUG - 2013-12-05 20:30:02 --> Config Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:30:02 --> URI Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Router Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Output Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Security Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Input Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:30:02 --> Language Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:30:02 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:30:02 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Model Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:30:02 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:30:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:30:02 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:30:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:30:02 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:30:02 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:30:02 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:30:02 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:30:02 --> Final output sent to browser
+DEBUG - 2013-12-05 20:30:02 --> Total execution time: 0.0543
+DEBUG - 2013-12-05 20:30:07 --> Config Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:30:07 --> URI Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Router Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Output Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Security Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Input Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:30:07 --> Language Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:30:07 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:30:07 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Model Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:30:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:30:07 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:30:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:30:07 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:30:07 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:30:07 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:30:07 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:30:07 --> Final output sent to browser
+DEBUG - 2013-12-05 20:30:07 --> Total execution time: 0.0645
+DEBUG - 2013-12-05 20:30:07 --> Config Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:30:07 --> URI Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Router Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Output Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Security Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Input Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:30:07 --> Language Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:30:07 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:30:07 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Model Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:30:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:30:07 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:30:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:30:07 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:30:07 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:30:07 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:30:07 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:30:07 --> Final output sent to browser
+DEBUG - 2013-12-05 20:30:07 --> Total execution time: 0.0524
+DEBUG - 2013-12-05 20:30:07 --> Config Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:30:07 --> URI Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Router Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Output Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Security Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Input Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:30:07 --> Language Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:30:07 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:30:07 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Model Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:30:07 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:30:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:30:07 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:30:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:30:07 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:30:07 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:30:07 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:30:07 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:30:07 --> Final output sent to browser
+DEBUG - 2013-12-05 20:30:07 --> Total execution time: 0.0668
+DEBUG - 2013-12-05 20:30:16 --> Config Class Initialized
+DEBUG - 2013-12-05 20:30:16 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:30:16 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:30:16 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:30:16 --> URI Class Initialized
+DEBUG - 2013-12-05 20:30:16 --> Router Class Initialized
+DEBUG - 2013-12-05 20:30:16 --> Output Class Initialized
+DEBUG - 2013-12-05 20:30:16 --> Security Class Initialized
+DEBUG - 2013-12-05 20:30:16 --> Input Class Initialized
+DEBUG - 2013-12-05 20:30:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:30:16 --> Language Class Initialized
+DEBUG - 2013-12-05 20:30:16 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:30:16 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:30:16 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:30:16 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:30:16 --> Model Class Initialized
+DEBUG - 2013-12-05 20:30:16 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:30:16 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:30:16 --> Severity: Warning  --> Missing argument 1 for schedule_model::set_user_for_schedule(), called in C:\wamp\www\application\controllers\schedules.php on line 114 and defined C:\wamp\www\application\models\schedule_model.php 68
+DEBUG - 2013-12-05 20:30:16 --> DB Transaction Failure
+ERROR - 2013-12-05 20:30:16 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`melt_db`.`user`, CONSTRAINT `fk_user_schedule_id` FOREIGN KEY (`schedule_id`) REFERENCES `schedule` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+DEBUG - 2013-12-05 20:30:16 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-05 20:33:11 --> Config Class Initialized
+DEBUG - 2013-12-05 20:33:11 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:33:11 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:33:11 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:33:11 --> URI Class Initialized
+DEBUG - 2013-12-05 20:33:11 --> Router Class Initialized
+DEBUG - 2013-12-05 20:33:11 --> Output Class Initialized
+DEBUG - 2013-12-05 20:33:11 --> Security Class Initialized
+DEBUG - 2013-12-05 20:33:11 --> Input Class Initialized
+DEBUG - 2013-12-05 20:33:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:33:11 --> Language Class Initialized
+DEBUG - 2013-12-05 20:33:11 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:33:11 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:33:11 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:33:11 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:33:11 --> Model Class Initialized
+DEBUG - 2013-12-05 20:33:16 --> Config Class Initialized
+DEBUG - 2013-12-05 20:33:16 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:33:16 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:33:16 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:33:16 --> URI Class Initialized
+DEBUG - 2013-12-05 20:33:16 --> Router Class Initialized
+DEBUG - 2013-12-05 20:33:16 --> Output Class Initialized
+DEBUG - 2013-12-05 20:33:16 --> Security Class Initialized
+DEBUG - 2013-12-05 20:33:16 --> Input Class Initialized
+DEBUG - 2013-12-05 20:33:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:33:16 --> Language Class Initialized
+DEBUG - 2013-12-05 20:33:16 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:33:16 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:33:16 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:33:16 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:33:16 --> Model Class Initialized
+DEBUG - 2013-12-05 20:33:16 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:33:16 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:33:16 --> Form Validation Class Initialized
+DEBUG - 2013-12-05 20:33:16 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:33:16 --> File loaded: application/views/schedules/create.php
+DEBUG - 2013-12-05 20:33:16 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:33:16 --> Final output sent to browser
+DEBUG - 2013-12-05 20:33:16 --> Total execution time: 0.0678
+DEBUG - 2013-12-05 20:33:26 --> Config Class Initialized
+DEBUG - 2013-12-05 20:33:26 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:33:26 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:33:26 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:33:26 --> URI Class Initialized
+DEBUG - 2013-12-05 20:33:26 --> Router Class Initialized
+DEBUG - 2013-12-05 20:33:26 --> Output Class Initialized
+DEBUG - 2013-12-05 20:33:26 --> Security Class Initialized
+DEBUG - 2013-12-05 20:33:26 --> Input Class Initialized
+DEBUG - 2013-12-05 20:33:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:33:26 --> Language Class Initialized
+DEBUG - 2013-12-05 20:33:26 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:33:26 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:33:26 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:33:26 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:33:26 --> Model Class Initialized
+DEBUG - 2013-12-05 20:33:26 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:33:26 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:33:26 --> Form Validation Class Initialized
+DEBUG - 2013-12-05 20:33:26 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-12-05 20:33:27 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:33:27 --> File loaded: application/views/schedules/success.php
+DEBUG - 2013-12-05 20:33:27 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:33:27 --> Final output sent to browser
+DEBUG - 2013-12-05 20:33:27 --> Total execution time: 0.5502
+DEBUG - 2013-12-05 20:33:28 --> Config Class Initialized
+DEBUG - 2013-12-05 20:33:28 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:33:28 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:33:28 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:33:28 --> URI Class Initialized
+DEBUG - 2013-12-05 20:33:28 --> Router Class Initialized
+DEBUG - 2013-12-05 20:33:28 --> Output Class Initialized
+DEBUG - 2013-12-05 20:33:28 --> Security Class Initialized
+DEBUG - 2013-12-05 20:33:28 --> Input Class Initialized
+DEBUG - 2013-12-05 20:33:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:33:28 --> Language Class Initialized
+DEBUG - 2013-12-05 20:33:28 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:33:28 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:33:28 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:33:28 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:33:28 --> Model Class Initialized
+DEBUG - 2013-12-05 20:33:28 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:33:28 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:33:28 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:33:28 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:33:28 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:33:28 --> Final output sent to browser
+DEBUG - 2013-12-05 20:33:28 --> Total execution time: 0.0532
+DEBUG - 2013-12-05 20:33:29 --> Config Class Initialized
+DEBUG - 2013-12-05 20:33:29 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:33:29 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:33:29 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:33:29 --> URI Class Initialized
+DEBUG - 2013-12-05 20:33:29 --> Router Class Initialized
+DEBUG - 2013-12-05 20:33:29 --> Output Class Initialized
+DEBUG - 2013-12-05 20:33:29 --> Security Class Initialized
+DEBUG - 2013-12-05 20:33:29 --> Input Class Initialized
+DEBUG - 2013-12-05 20:33:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:33:29 --> Language Class Initialized
+DEBUG - 2013-12-05 20:33:29 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:33:29 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:33:29 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:33:29 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:33:29 --> Model Class Initialized
+DEBUG - 2013-12-05 20:33:29 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:33:29 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:33:29 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:33:29 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:33:29 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:33:29 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:33:29 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:33:30 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:33:30 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:33:30 --> Final output sent to browser
+DEBUG - 2013-12-05 20:33:30 --> Total execution time: 0.0593
+DEBUG - 2013-12-05 20:33:30 --> Config Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:33:30 --> URI Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> Router Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> Output Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> Security Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> Input Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:33:30 --> Language Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:33:30 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:33:30 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> Model Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:33:30 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:33:30 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:33:30 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:33:30 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:33:30 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:33:30 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:33:30 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:33:30 --> Final output sent to browser
+DEBUG - 2013-12-05 20:33:30 --> Total execution time: 0.0577
+DEBUG - 2013-12-05 20:33:30 --> Config Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:33:30 --> URI Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> Router Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> Output Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> Security Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> Input Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:33:30 --> Language Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:33:30 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:33:30 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> Model Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:33:30 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:33:30 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:33:30 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:33:30 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:33:30 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:33:30 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:33:30 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:33:30 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:33:30 --> Final output sent to browser
+DEBUG - 2013-12-05 20:33:30 --> Total execution time: 0.0551
+DEBUG - 2013-12-05 20:33:31 --> Config Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:33:31 --> URI Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> Router Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> Output Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> Security Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> Input Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:33:31 --> Language Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:33:31 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:33:31 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> Model Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:33:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:33:31 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:33:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:33:31 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:33:31 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:33:31 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:33:31 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:33:31 --> Final output sent to browser
+DEBUG - 2013-12-05 20:33:31 --> Total execution time: 0.0585
+DEBUG - 2013-12-05 20:33:31 --> Config Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:33:31 --> URI Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> Router Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> Output Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> Security Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> Input Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:33:31 --> Language Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:33:31 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:33:31 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> Model Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:33:31 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:33:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:33:31 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:33:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:33:31 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:33:31 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:33:31 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:33:31 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:33:31 --> Final output sent to browser
+DEBUG - 2013-12-05 20:33:31 --> Total execution time: 0.0660
+DEBUG - 2013-12-05 20:33:35 --> Config Class Initialized
+DEBUG - 2013-12-05 20:33:35 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:33:35 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:33:35 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:33:35 --> URI Class Initialized
+DEBUG - 2013-12-05 20:33:35 --> Router Class Initialized
+DEBUG - 2013-12-05 20:33:35 --> Output Class Initialized
+DEBUG - 2013-12-05 20:33:35 --> Security Class Initialized
+DEBUG - 2013-12-05 20:33:35 --> Input Class Initialized
+DEBUG - 2013-12-05 20:33:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:33:35 --> Language Class Initialized
+DEBUG - 2013-12-05 20:33:35 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:33:35 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:33:35 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:33:35 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:33:35 --> Model Class Initialized
+DEBUG - 2013-12-05 20:33:35 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:33:35 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:33:35 --> DB Transaction Failure
+ERROR - 2013-12-05 20:33:35 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`melt_db`.`user`, CONSTRAINT `fk_user_schedule_id` FOREIGN KEY (`schedule_id`) REFERENCES `schedule` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+DEBUG - 2013-12-05 20:33:35 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-05 20:34:21 --> Config Class Initialized
+DEBUG - 2013-12-05 20:34:21 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:34:21 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:34:21 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:34:21 --> URI Class Initialized
+DEBUG - 2013-12-05 20:34:21 --> Router Class Initialized
+DEBUG - 2013-12-05 20:34:21 --> Output Class Initialized
+DEBUG - 2013-12-05 20:34:21 --> Security Class Initialized
+DEBUG - 2013-12-05 20:34:21 --> Input Class Initialized
+DEBUG - 2013-12-05 20:34:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:34:21 --> Language Class Initialized
+DEBUG - 2013-12-05 20:34:21 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:34:21 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:34:21 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:34:21 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:34:21 --> Model Class Initialized
+DEBUG - 2013-12-05 20:34:21 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:34:21 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:34:21 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:34:21 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:34:21 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:34:21 --> Final output sent to browser
+DEBUG - 2013-12-05 20:34:21 --> Total execution time: 0.0524
+DEBUG - 2013-12-05 20:34:23 --> Config Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:34:23 --> URI Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Router Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Output Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Security Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Input Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:34:23 --> Language Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:34:23 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:34:23 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Model Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:34:23 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:34:23 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:34:23 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:34:23 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:34:23 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:34:23 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:34:23 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:34:23 --> Final output sent to browser
+DEBUG - 2013-12-05 20:34:23 --> Total execution time: 0.0587
+DEBUG - 2013-12-05 20:34:23 --> Config Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:34:23 --> URI Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Router Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Output Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Security Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Input Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:34:23 --> Language Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:34:23 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:34:23 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Model Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:34:23 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:34:23 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:34:23 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:34:23 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:34:23 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:34:23 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:34:23 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:34:23 --> Final output sent to browser
+DEBUG - 2013-12-05 20:34:23 --> Total execution time: 0.0571
+DEBUG - 2013-12-05 20:34:23 --> Config Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:34:23 --> URI Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Router Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Output Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Security Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Input Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:34:23 --> Language Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:34:23 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:34:23 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Model Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:34:23 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:34:23 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:34:23 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:34:23 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:34:23 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:34:24 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:34:24 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:34:24 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:34:24 --> Final output sent to browser
+DEBUG - 2013-12-05 20:34:24 --> Total execution time: 0.0555
+DEBUG - 2013-12-05 20:34:24 --> Config Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:34:24 --> URI Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> Router Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> Output Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> Security Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> Input Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:34:24 --> Language Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:34:24 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:34:24 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> Model Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:34:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:34:24 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:34:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:34:24 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:34:24 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:34:24 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:34:24 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:34:24 --> Final output sent to browser
+DEBUG - 2013-12-05 20:34:24 --> Total execution time: 0.0570
+DEBUG - 2013-12-05 20:34:24 --> Config Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:34:24 --> URI Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> Router Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> Output Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> Security Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> Input Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:34:24 --> Language Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:34:24 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:34:24 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> Model Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:34:24 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:34:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:34:24 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:34:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:34:24 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:34:24 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:34:24 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:34:24 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:34:24 --> Final output sent to browser
+DEBUG - 2013-12-05 20:34:24 --> Total execution time: 0.0548
+DEBUG - 2013-12-05 20:34:27 --> Config Class Initialized
+DEBUG - 2013-12-05 20:34:27 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:34:27 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:34:27 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:34:27 --> URI Class Initialized
+DEBUG - 2013-12-05 20:34:27 --> Router Class Initialized
+DEBUG - 2013-12-05 20:34:27 --> Output Class Initialized
+DEBUG - 2013-12-05 20:34:27 --> Security Class Initialized
+DEBUG - 2013-12-05 20:34:27 --> Input Class Initialized
+DEBUG - 2013-12-05 20:34:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:34:27 --> Language Class Initialized
+DEBUG - 2013-12-05 20:34:27 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:34:27 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:34:27 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:34:27 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:34:27 --> Model Class Initialized
+DEBUG - 2013-12-05 20:34:27 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:34:27 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:34:27 --> DB Transaction Failure
+ERROR - 2013-12-05 20:34:27 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`melt_db`.`user`, CONSTRAINT `fk_user_schedule_id` FOREIGN KEY (`schedule_id`) REFERENCES `schedule` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+DEBUG - 2013-12-05 20:34:27 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-05 20:36:18 --> Config Class Initialized
+DEBUG - 2013-12-05 20:36:18 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:36:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:36:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:36:18 --> URI Class Initialized
+DEBUG - 2013-12-05 20:36:18 --> Router Class Initialized
+DEBUG - 2013-12-05 20:36:18 --> Output Class Initialized
+DEBUG - 2013-12-05 20:36:18 --> Security Class Initialized
+DEBUG - 2013-12-05 20:36:18 --> Input Class Initialized
+DEBUG - 2013-12-05 20:36:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:36:18 --> Language Class Initialized
+DEBUG - 2013-12-05 20:36:18 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:36:18 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:36:18 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:36:18 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:36:18 --> Model Class Initialized
+DEBUG - 2013-12-05 20:36:18 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:36:18 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:36:18 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:36:18 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:36:18 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:36:18 --> Final output sent to browser
+DEBUG - 2013-12-05 20:36:18 --> Total execution time: 0.0517
+DEBUG - 2013-12-05 20:36:20 --> Config Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:36:20 --> URI Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> Router Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> Output Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> Security Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> Input Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:36:20 --> Language Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:36:20 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:36:20 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> Model Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:36:20 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:36:20 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:36:20 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:36:20 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:36:20 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:36:20 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:36:20 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:36:20 --> Final output sent to browser
+DEBUG - 2013-12-05 20:36:20 --> Total execution time: 0.0645
+DEBUG - 2013-12-05 20:36:20 --> Config Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:36:20 --> URI Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> Router Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> Output Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> Security Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> Input Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:36:20 --> Language Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:36:20 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:36:20 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> Model Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:36:20 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:36:20 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:36:20 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:36:20 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:36:20 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:36:20 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:36:20 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:36:20 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:36:20 --> Final output sent to browser
+DEBUG - 2013-12-05 20:36:20 --> Total execution time: 0.0535
+DEBUG - 2013-12-05 20:36:21 --> Config Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:36:21 --> URI Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Router Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Output Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Security Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Input Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:36:21 --> Language Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:36:21 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:36:21 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Model Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:36:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:36:21 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:36:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:36:21 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:36:21 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:36:21 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:36:21 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:36:21 --> Final output sent to browser
+DEBUG - 2013-12-05 20:36:21 --> Total execution time: 0.0540
+DEBUG - 2013-12-05 20:36:21 --> Config Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:36:21 --> URI Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Router Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Output Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Security Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Input Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:36:21 --> Language Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:36:21 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:36:21 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Model Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:36:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:36:21 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:36:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:36:21 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:36:21 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:36:21 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:36:21 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:36:21 --> Final output sent to browser
+DEBUG - 2013-12-05 20:36:21 --> Total execution time: 0.0632
+DEBUG - 2013-12-05 20:36:21 --> Config Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:36:21 --> URI Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Router Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Output Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Security Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Input Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:36:21 --> Language Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:36:21 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:36:21 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Model Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:36:21 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:36:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:36:21 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:36:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:36:21 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:36:21 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:36:21 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:36:21 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:36:21 --> Final output sent to browser
+DEBUG - 2013-12-05 20:36:21 --> Total execution time: 0.0610
+DEBUG - 2013-12-05 20:36:23 --> Config Class Initialized
+DEBUG - 2013-12-05 20:36:23 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:36:23 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:36:23 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:36:23 --> URI Class Initialized
+DEBUG - 2013-12-05 20:36:23 --> Router Class Initialized
+DEBUG - 2013-12-05 20:36:23 --> Output Class Initialized
+DEBUG - 2013-12-05 20:36:23 --> Security Class Initialized
+DEBUG - 2013-12-05 20:36:23 --> Input Class Initialized
+DEBUG - 2013-12-05 20:36:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:36:23 --> Language Class Initialized
+DEBUG - 2013-12-05 20:36:23 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:36:23 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:36:23 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:36:23 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:36:23 --> Model Class Initialized
+DEBUG - 2013-12-05 20:36:23 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:36:23 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:36:23 --> DB Transaction Failure
+ERROR - 2013-12-05 20:36:23 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`melt_db`.`user`, CONSTRAINT `fk_user_schedule_id` FOREIGN KEY (`schedule_id`) REFERENCES `schedule` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+DEBUG - 2013-12-05 20:36:23 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-05 20:36:49 --> Config Class Initialized
+DEBUG - 2013-12-05 20:36:49 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:36:49 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:36:49 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:36:49 --> URI Class Initialized
+DEBUG - 2013-12-05 20:36:49 --> Router Class Initialized
+DEBUG - 2013-12-05 20:36:49 --> Output Class Initialized
+DEBUG - 2013-12-05 20:36:49 --> Security Class Initialized
+DEBUG - 2013-12-05 20:36:49 --> Input Class Initialized
+DEBUG - 2013-12-05 20:36:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:36:49 --> Language Class Initialized
+DEBUG - 2013-12-05 20:36:49 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:36:49 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:36:49 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:36:49 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:36:49 --> Model Class Initialized
+DEBUG - 2013-12-05 20:36:49 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:36:49 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:36:49 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:36:49 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:36:49 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:36:49 --> Final output sent to browser
+DEBUG - 2013-12-05 20:36:49 --> Total execution time: 0.0524
+DEBUG - 2013-12-05 20:36:52 --> Config Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:36:52 --> URI Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> Router Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> Output Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> Security Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> Input Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:36:52 --> Language Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:36:52 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:36:52 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> Model Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:36:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:36:52 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:36:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:36:52 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:36:52 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:36:52 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:36:52 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:36:52 --> Final output sent to browser
+DEBUG - 2013-12-05 20:36:52 --> Total execution time: 0.0582
+DEBUG - 2013-12-05 20:36:52 --> Config Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:36:52 --> URI Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> Router Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> Output Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> Security Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> Input Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:36:52 --> Language Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:36:52 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:36:52 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> Model Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:36:52 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:36:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:36:52 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:36:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:36:52 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:36:52 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:36:52 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:36:52 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:36:52 --> Final output sent to browser
+DEBUG - 2013-12-05 20:36:52 --> Total execution time: 0.0572
+DEBUG - 2013-12-05 20:36:53 --> Config Class Initialized
+DEBUG - 2013-12-05 20:36:53 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:36:53 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:36:53 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:36:53 --> URI Class Initialized
+DEBUG - 2013-12-05 20:36:53 --> Router Class Initialized
+DEBUG - 2013-12-05 20:36:53 --> Output Class Initialized
+DEBUG - 2013-12-05 20:36:53 --> Security Class Initialized
+DEBUG - 2013-12-05 20:36:53 --> Input Class Initialized
+DEBUG - 2013-12-05 20:36:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:36:53 --> Language Class Initialized
+DEBUG - 2013-12-05 20:36:53 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:36:53 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:36:53 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:36:53 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:36:53 --> Model Class Initialized
+DEBUG - 2013-12-05 20:36:53 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:36:53 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:36:53 --> DB Transaction Failure
+ERROR - 2013-12-05 20:36:53 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`melt_db`.`user`, CONSTRAINT `fk_user_schedule_id` FOREIGN KEY (`schedule_id`) REFERENCES `schedule` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+DEBUG - 2013-12-05 20:36:53 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-05 20:36:54 --> Config Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:36:54 --> URI Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Router Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Output Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Security Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Input Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:36:54 --> Language Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:36:54 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:36:54 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Model Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:36:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:36:54 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:36:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:36:54 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:36:54 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:36:54 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:36:54 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:36:54 --> Final output sent to browser
+DEBUG - 2013-12-05 20:36:54 --> Total execution time: 0.0563
+DEBUG - 2013-12-05 20:36:54 --> Config Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:36:54 --> URI Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Router Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Output Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Security Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Input Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:36:54 --> Language Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:36:54 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:36:54 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Model Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:36:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:36:54 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:36:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:36:54 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:36:54 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:36:54 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:36:54 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:36:54 --> Final output sent to browser
+DEBUG - 2013-12-05 20:36:54 --> Total execution time: 0.0595
+DEBUG - 2013-12-05 20:36:54 --> Config Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:36:54 --> URI Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Router Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Output Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Security Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Input Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:36:54 --> Language Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:36:54 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:36:54 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Model Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:36:54 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:36:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:36:54 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:36:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:36:54 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:36:54 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:36:54 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:36:54 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:36:54 --> Final output sent to browser
+DEBUG - 2013-12-05 20:36:54 --> Total execution time: 0.0596
+DEBUG - 2013-12-05 20:37:50 --> Config Class Initialized
+DEBUG - 2013-12-05 20:37:50 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:37:50 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:37:50 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:37:50 --> URI Class Initialized
+DEBUG - 2013-12-05 20:37:50 --> Router Class Initialized
+DEBUG - 2013-12-05 20:37:50 --> Output Class Initialized
+DEBUG - 2013-12-05 20:37:50 --> Security Class Initialized
+DEBUG - 2013-12-05 20:37:50 --> Input Class Initialized
+DEBUG - 2013-12-05 20:37:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:37:50 --> Language Class Initialized
+DEBUG - 2013-12-05 20:37:50 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:37:50 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:37:50 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:37:50 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:37:50 --> Model Class Initialized
+DEBUG - 2013-12-05 20:37:50 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:37:50 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:37:50 --> Form Validation Class Initialized
+DEBUG - 2013-12-05 20:37:50 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:37:50 --> File loaded: application/views/schedules/create.php
+DEBUG - 2013-12-05 20:37:50 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:37:50 --> Final output sent to browser
+DEBUG - 2013-12-05 20:37:50 --> Total execution time: 0.0486
+DEBUG - 2013-12-05 20:38:03 --> Config Class Initialized
+DEBUG - 2013-12-05 20:38:03 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:38:03 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:38:03 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:38:03 --> URI Class Initialized
+DEBUG - 2013-12-05 20:38:03 --> Router Class Initialized
+DEBUG - 2013-12-05 20:38:03 --> No URI present. Default controller set.
+DEBUG - 2013-12-05 20:38:03 --> Output Class Initialized
+DEBUG - 2013-12-05 20:38:03 --> Security Class Initialized
+DEBUG - 2013-12-05 20:38:03 --> Input Class Initialized
+DEBUG - 2013-12-05 20:38:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:38:03 --> Language Class Initialized
+DEBUG - 2013-12-05 20:38:03 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:38:03 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:38:03 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:38:03 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:38:03 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:38:03 --> File loaded: application/views/pages/home.php
+DEBUG - 2013-12-05 20:38:03 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:38:03 --> Final output sent to browser
+DEBUG - 2013-12-05 20:38:03 --> Total execution time: 0.0349
+DEBUG - 2013-12-05 20:38:05 --> Config Class Initialized
+DEBUG - 2013-12-05 20:38:05 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:38:05 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:38:05 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:38:05 --> URI Class Initialized
+DEBUG - 2013-12-05 20:38:05 --> Router Class Initialized
+DEBUG - 2013-12-05 20:38:05 --> Output Class Initialized
+DEBUG - 2013-12-05 20:38:05 --> Security Class Initialized
+DEBUG - 2013-12-05 20:38:05 --> Input Class Initialized
+DEBUG - 2013-12-05 20:38:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:38:05 --> Language Class Initialized
+DEBUG - 2013-12-05 20:38:05 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:38:05 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:38:05 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:38:05 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:38:05 --> Model Class Initialized
+DEBUG - 2013-12-05 20:38:05 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:38:05 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:38:05 --> Form Validation Class Initialized
+DEBUG - 2013-12-05 20:38:05 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:38:05 --> File loaded: application/views/schedules/create.php
+DEBUG - 2013-12-05 20:38:05 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:38:05 --> Final output sent to browser
+DEBUG - 2013-12-05 20:38:05 --> Total execution time: 0.0505
+DEBUG - 2013-12-05 20:38:10 --> Config Class Initialized
+DEBUG - 2013-12-05 20:38:10 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:38:10 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:38:10 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:38:10 --> URI Class Initialized
+DEBUG - 2013-12-05 20:38:10 --> Router Class Initialized
+DEBUG - 2013-12-05 20:38:10 --> Output Class Initialized
+DEBUG - 2013-12-05 20:38:10 --> Security Class Initialized
+DEBUG - 2013-12-05 20:38:10 --> Input Class Initialized
+DEBUG - 2013-12-05 20:38:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:38:10 --> Language Class Initialized
+DEBUG - 2013-12-05 20:38:10 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:38:10 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:38:10 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:38:10 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:38:10 --> Model Class Initialized
+DEBUG - 2013-12-05 20:38:10 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:38:10 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:38:10 --> Form Validation Class Initialized
+DEBUG - 2013-12-05 20:38:10 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-12-05 20:38:10 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:38:10 --> File loaded: application/views/schedules/success.php
+DEBUG - 2013-12-05 20:38:10 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:38:10 --> Final output sent to browser
+DEBUG - 2013-12-05 20:38:10 --> Total execution time: 0.2922
+DEBUG - 2013-12-05 20:38:11 --> Config Class Initialized
+DEBUG - 2013-12-05 20:38:11 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:38:11 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:38:11 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:38:11 --> URI Class Initialized
+DEBUG - 2013-12-05 20:38:11 --> Router Class Initialized
+DEBUG - 2013-12-05 20:38:11 --> Output Class Initialized
+DEBUG - 2013-12-05 20:38:11 --> Security Class Initialized
+DEBUG - 2013-12-05 20:38:11 --> Input Class Initialized
+DEBUG - 2013-12-05 20:38:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:38:11 --> Language Class Initialized
+DEBUG - 2013-12-05 20:38:11 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:38:11 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:38:11 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:38:11 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:38:11 --> Model Class Initialized
+DEBUG - 2013-12-05 20:38:11 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:38:11 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:38:11 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:38:11 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:38:11 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:38:11 --> Final output sent to browser
+DEBUG - 2013-12-05 20:38:11 --> Total execution time: 0.0489
+DEBUG - 2013-12-05 20:38:12 --> Config Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:38:12 --> URI Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> Router Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> Output Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> Security Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> Input Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:38:12 --> Language Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:38:12 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:38:12 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> Model Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:38:12 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:38:12 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:38:12 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:38:12 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:38:12 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:38:12 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:38:12 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:38:12 --> Final output sent to browser
+DEBUG - 2013-12-05 20:38:12 --> Total execution time: 0.0723
+DEBUG - 2013-12-05 20:38:12 --> Config Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:38:12 --> URI Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> Router Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> Output Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> Security Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> Input Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:38:12 --> Language Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:38:12 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:38:12 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> Model Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:38:12 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:38:12 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:38:12 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:38:12 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:38:12 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:38:12 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:38:12 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:38:12 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:38:12 --> Final output sent to browser
+DEBUG - 2013-12-05 20:38:12 --> Total execution time: 0.0560
+DEBUG - 2013-12-05 20:38:13 --> Config Class Initialized
+DEBUG - 2013-12-05 20:38:13 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:38:13 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:38:13 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:38:13 --> URI Class Initialized
+DEBUG - 2013-12-05 20:38:13 --> Router Class Initialized
+DEBUG - 2013-12-05 20:38:13 --> Output Class Initialized
+DEBUG - 2013-12-05 20:38:13 --> Security Class Initialized
+DEBUG - 2013-12-05 20:38:13 --> Input Class Initialized
+DEBUG - 2013-12-05 20:38:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:38:13 --> Language Class Initialized
+DEBUG - 2013-12-05 20:38:13 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:38:13 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:38:13 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:38:13 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:38:13 --> Model Class Initialized
+DEBUG - 2013-12-05 20:38:13 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:38:13 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:38:13 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:38:13 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:38:13 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:38:13 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:38:13 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:38:13 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:38:13 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:38:13 --> Final output sent to browser
+DEBUG - 2013-12-05 20:38:13 --> Total execution time: 0.0551
+DEBUG - 2013-12-05 20:38:14 --> Config Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:38:14 --> URI Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Router Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Output Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Security Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Input Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:38:14 --> Language Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:38:14 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:38:14 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Model Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:38:14 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:38:14 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:38:14 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:38:14 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:38:14 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:38:14 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:38:14 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:38:14 --> Final output sent to browser
+DEBUG - 2013-12-05 20:38:14 --> Total execution time: 0.0549
+DEBUG - 2013-12-05 20:38:14 --> Config Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:38:14 --> URI Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Router Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Output Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Security Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Input Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:38:14 --> Language Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:38:14 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:38:14 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Model Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:38:14 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:38:14 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:38:14 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:38:14 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:38:14 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:38:14 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:38:14 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:38:14 --> Final output sent to browser
+DEBUG - 2013-12-05 20:38:14 --> Total execution time: 0.0572
+DEBUG - 2013-12-05 20:38:14 --> Config Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:38:14 --> URI Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Router Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Output Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Security Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Input Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:38:14 --> Language Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:38:14 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:38:14 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Model Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:38:14 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:38:14 --> DB Transaction Failure
+ERROR - 2013-12-05 20:38:14 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`melt_db`.`user`, CONSTRAINT `fk_user_schedule_id` FOREIGN KEY (`schedule_id`) REFERENCES `schedule` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+DEBUG - 2013-12-05 20:38:14 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-05 20:39:12 --> Config Class Initialized
+DEBUG - 2013-12-05 20:39:12 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:39:12 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:39:12 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:39:12 --> URI Class Initialized
+DEBUG - 2013-12-05 20:39:12 --> Router Class Initialized
+DEBUG - 2013-12-05 20:39:12 --> Output Class Initialized
+DEBUG - 2013-12-05 20:39:12 --> Security Class Initialized
+DEBUG - 2013-12-05 20:39:12 --> Input Class Initialized
+DEBUG - 2013-12-05 20:39:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:39:12 --> Language Class Initialized
+DEBUG - 2013-12-05 20:39:12 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:39:12 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:39:12 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:39:12 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:39:12 --> Model Class Initialized
+DEBUG - 2013-12-05 20:39:12 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:39:12 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:39:12 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:39:12 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:39:12 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:39:12 --> Final output sent to browser
+DEBUG - 2013-12-05 20:39:12 --> Total execution time: 0.0510
+DEBUG - 2013-12-05 20:39:14 --> Config Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:39:14 --> URI Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> Router Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> Output Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> Security Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> Input Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:39:14 --> Language Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:39:14 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:39:14 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> Model Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:39:14 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:39:14 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:39:14 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:39:14 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:39:14 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+ERROR - 2013-12-05 20:39:14 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 19
+DEBUG - 2013-12-05 20:39:14 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:39:14 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:39:14 --> Final output sent to browser
+DEBUG - 2013-12-05 20:39:14 --> Total execution time: 0.0688
+DEBUG - 2013-12-05 20:39:14 --> Config Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:39:14 --> URI Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> Router Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> Output Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> Security Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> Input Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:39:14 --> Language Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:39:14 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:39:14 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> Model Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:39:14 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:39:14 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:39:14 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:39:14 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:39:14 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:39:14 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+ERROR - 2013-12-05 20:39:14 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 19
+DEBUG - 2013-12-05 20:39:14 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:39:14 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:39:14 --> Final output sent to browser
+DEBUG - 2013-12-05 20:39:14 --> Total execution time: 0.0569
+DEBUG - 2013-12-05 20:39:15 --> Config Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:39:15 --> URI Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Router Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Output Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Security Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Input Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:39:15 --> Language Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:39:15 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:39:15 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Model Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:39:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:39:15 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:39:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:39:15 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:39:15 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+ERROR - 2013-12-05 20:39:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 19
+DEBUG - 2013-12-05 20:39:15 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:39:15 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:39:15 --> Final output sent to browser
+DEBUG - 2013-12-05 20:39:15 --> Total execution time: 0.0558
+DEBUG - 2013-12-05 20:39:15 --> Config Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:39:15 --> URI Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Router Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Output Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Security Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Input Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:39:15 --> Language Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:39:15 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:39:15 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Model Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:39:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:39:15 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:39:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:39:15 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:39:15 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+ERROR - 2013-12-05 20:39:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 19
+DEBUG - 2013-12-05 20:39:15 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:39:15 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:39:15 --> Final output sent to browser
+DEBUG - 2013-12-05 20:39:15 --> Total execution time: 0.0984
+DEBUG - 2013-12-05 20:39:15 --> Config Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:39:15 --> URI Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Router Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Output Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Security Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Input Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:39:15 --> Language Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:39:15 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:39:15 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Model Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:39:15 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:39:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:39:15 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:39:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:39:15 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:39:15 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+ERROR - 2013-12-05 20:39:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 19
+DEBUG - 2013-12-05 20:39:15 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:39:15 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:39:15 --> Final output sent to browser
+DEBUG - 2013-12-05 20:39:15 --> Total execution time: 0.0691
+DEBUG - 2013-12-05 20:39:53 --> Config Class Initialized
+DEBUG - 2013-12-05 20:39:53 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:39:53 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:39:53 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:39:53 --> URI Class Initialized
+DEBUG - 2013-12-05 20:39:53 --> Router Class Initialized
+DEBUG - 2013-12-05 20:39:53 --> Output Class Initialized
+DEBUG - 2013-12-05 20:39:53 --> Security Class Initialized
+DEBUG - 2013-12-05 20:39:53 --> Input Class Initialized
+DEBUG - 2013-12-05 20:39:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:39:53 --> Language Class Initialized
+DEBUG - 2013-12-05 20:39:53 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:39:53 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:39:53 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:39:53 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:39:53 --> Model Class Initialized
+DEBUG - 2013-12-05 20:39:53 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:39:53 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:39:53 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:39:53 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:39:53 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:39:53 --> Final output sent to browser
+DEBUG - 2013-12-05 20:39:53 --> Total execution time: 0.0522
+DEBUG - 2013-12-05 20:39:54 --> Config Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:39:54 --> URI Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> Router Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> Output Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> Security Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> Input Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:39:54 --> Language Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:39:54 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:39:54 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> Model Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:39:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:39:54 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:39:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:39:54 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:39:54 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:39:54 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:39:54 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:39:54 --> Final output sent to browser
+DEBUG - 2013-12-05 20:39:54 --> Total execution time: 0.0569
+DEBUG - 2013-12-05 20:39:54 --> Config Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:39:54 --> URI Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> Router Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> Output Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> Security Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> Input Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:39:54 --> Language Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:39:54 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:39:54 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> Model Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:39:54 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:39:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:39:54 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:39:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:39:54 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:39:54 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:39:54 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:39:54 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:39:54 --> Final output sent to browser
+DEBUG - 2013-12-05 20:39:54 --> Total execution time: 0.0556
+DEBUG - 2013-12-05 20:39:55 --> Config Class Initialized
+DEBUG - 2013-12-05 20:39:55 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:39:55 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:39:55 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:39:55 --> URI Class Initialized
+DEBUG - 2013-12-05 20:39:55 --> Router Class Initialized
+DEBUG - 2013-12-05 20:39:55 --> Output Class Initialized
+DEBUG - 2013-12-05 20:39:55 --> Security Class Initialized
+DEBUG - 2013-12-05 20:39:55 --> Input Class Initialized
+DEBUG - 2013-12-05 20:39:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:39:55 --> Language Class Initialized
+DEBUG - 2013-12-05 20:39:55 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:39:55 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:39:55 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:39:55 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:39:55 --> Model Class Initialized
+DEBUG - 2013-12-05 20:39:55 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:39:55 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:39:55 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:39:55 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:39:55 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:39:55 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:39:55 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:39:55 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:39:55 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:39:55 --> Final output sent to browser
+DEBUG - 2013-12-05 20:39:55 --> Total execution time: 0.1049
+DEBUG - 2013-12-05 20:39:56 --> Config Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:39:56 --> URI Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> Router Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> Output Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> Security Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> Input Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:39:56 --> Language Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:39:56 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:39:56 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> Model Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:39:56 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:39:56 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:39:56 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:39:56 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:39:56 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:39:56 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:39:56 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:39:56 --> Final output sent to browser
+DEBUG - 2013-12-05 20:39:56 --> Total execution time: 0.0615
+DEBUG - 2013-12-05 20:39:56 --> Config Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:39:56 --> URI Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> Router Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> Output Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> Security Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> Input Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:39:56 --> Language Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:39:56 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:39:56 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> Model Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:39:56 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:39:56 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:39:56 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:39:56 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:39:56 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:39:56 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:39:56 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:39:56 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:39:56 --> Final output sent to browser
+DEBUG - 2013-12-05 20:39:56 --> Total execution time: 0.0622
+DEBUG - 2013-12-05 20:40:18 --> Config Class Initialized
+DEBUG - 2013-12-05 20:40:18 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:40:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:40:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:40:18 --> URI Class Initialized
+DEBUG - 2013-12-05 20:40:18 --> Router Class Initialized
+DEBUG - 2013-12-05 20:40:18 --> Output Class Initialized
+DEBUG - 2013-12-05 20:40:18 --> Security Class Initialized
+DEBUG - 2013-12-05 20:40:18 --> Input Class Initialized
+DEBUG - 2013-12-05 20:40:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:40:18 --> Language Class Initialized
+DEBUG - 2013-12-05 20:40:18 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:40:18 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:40:18 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:40:18 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:40:18 --> Model Class Initialized
+DEBUG - 2013-12-05 20:40:18 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:40:18 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:40:18 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:40:18 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:40:18 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:40:18 --> Final output sent to browser
+DEBUG - 2013-12-05 20:40:18 --> Total execution time: 0.0494
+DEBUG - 2013-12-05 20:40:19 --> Config Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:40:19 --> URI Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> Router Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> Output Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> Security Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> Input Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:40:19 --> Language Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:40:19 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:40:19 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> Model Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:40:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:40:19 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:40:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:40:19 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:40:19 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:40:19 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:40:19 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:40:19 --> Final output sent to browser
+DEBUG - 2013-12-05 20:40:19 --> Total execution time: 0.0621
+DEBUG - 2013-12-05 20:40:19 --> Config Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:40:19 --> URI Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> Router Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> Output Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> Security Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> Input Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:40:19 --> Language Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:40:19 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:40:19 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> Model Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:40:19 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:40:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:40:19 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:40:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:40:19 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:40:19 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:40:19 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:40:19 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:40:19 --> Final output sent to browser
+DEBUG - 2013-12-05 20:40:19 --> Total execution time: 0.0671
+DEBUG - 2013-12-05 20:40:20 --> Config Class Initialized
+DEBUG - 2013-12-05 20:40:20 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:40:20 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:40:20 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:40:20 --> URI Class Initialized
+DEBUG - 2013-12-05 20:40:20 --> Router Class Initialized
+DEBUG - 2013-12-05 20:40:20 --> Output Class Initialized
+DEBUG - 2013-12-05 20:40:20 --> Security Class Initialized
+DEBUG - 2013-12-05 20:40:20 --> Input Class Initialized
+DEBUG - 2013-12-05 20:40:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:40:20 --> Language Class Initialized
+DEBUG - 2013-12-05 20:40:20 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:40:20 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:40:20 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:40:20 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:40:20 --> Model Class Initialized
+DEBUG - 2013-12-05 20:40:20 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:40:20 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:40:20 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:40:20 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:40:20 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:40:20 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:40:20 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:40:20 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:40:20 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:40:20 --> Final output sent to browser
+DEBUG - 2013-12-05 20:40:20 --> Total execution time: 0.0550
+DEBUG - 2013-12-05 20:40:21 --> Config Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:40:21 --> URI Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> Router Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> Output Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> Security Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> Input Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:40:21 --> Language Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:40:21 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:40:21 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> Model Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:40:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:40:21 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:40:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:40:21 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:40:21 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:40:21 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:40:21 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:40:21 --> Final output sent to browser
+DEBUG - 2013-12-05 20:40:21 --> Total execution time: 0.0549
+DEBUG - 2013-12-05 20:40:21 --> Config Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:40:21 --> URI Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> Router Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> Output Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> Security Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> Input Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:40:21 --> Language Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:40:21 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:40:21 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> Model Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:40:21 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:40:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:40:21 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:40:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:40:21 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 16
+ERROR - 2013-12-05 20:40:21 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 17
+DEBUG - 2013-12-05 20:40:21 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:40:21 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:40:21 --> Final output sent to browser
+DEBUG - 2013-12-05 20:40:21 --> Total execution time: 0.0595
+DEBUG - 2013-12-05 20:40:34 --> Config Class Initialized
+DEBUG - 2013-12-05 20:40:34 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:40:34 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:40:34 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:40:34 --> URI Class Initialized
+DEBUG - 2013-12-05 20:40:34 --> Router Class Initialized
+DEBUG - 2013-12-05 20:40:34 --> Output Class Initialized
+DEBUG - 2013-12-05 20:40:34 --> Security Class Initialized
+DEBUG - 2013-12-05 20:40:34 --> Input Class Initialized
+DEBUG - 2013-12-05 20:40:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:40:34 --> Language Class Initialized
+DEBUG - 2013-12-05 20:40:34 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:40:34 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:40:34 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:40:34 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:40:34 --> Model Class Initialized
+DEBUG - 2013-12-05 20:40:34 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:40:34 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:40:35 --> DB Transaction Failure
+ERROR - 2013-12-05 20:40:35 --> Query error: Cannot add or update a child row: a foreign key constraint fails (`melt_db`.`user`, CONSTRAINT `fk_user_schedule_id` FOREIGN KEY (`schedule_id`) REFERENCES `schedule` (`id`) ON DELETE CASCADE ON UPDATE CASCADE)
+DEBUG - 2013-12-05 20:40:35 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-05 20:43:13 --> Config Class Initialized
+DEBUG - 2013-12-05 20:43:13 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:43:13 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:43:13 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:43:13 --> URI Class Initialized
+DEBUG - 2013-12-05 20:43:13 --> Router Class Initialized
+DEBUG - 2013-12-05 20:43:13 --> Output Class Initialized
+DEBUG - 2013-12-05 20:43:13 --> Security Class Initialized
+DEBUG - 2013-12-05 20:43:13 --> Input Class Initialized
+DEBUG - 2013-12-05 20:43:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:43:13 --> Language Class Initialized
+DEBUG - 2013-12-05 20:43:13 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:43:13 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:43:13 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:43:13 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:43:13 --> Model Class Initialized
+DEBUG - 2013-12-05 20:43:13 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:43:13 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:43:13 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:43:13 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:43:13 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:43:13 --> Final output sent to browser
+DEBUG - 2013-12-05 20:43:13 --> Total execution time: 0.0505
+DEBUG - 2013-12-05 20:43:17 --> Config Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:43:17 --> URI Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> Router Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> Output Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> Security Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> Input Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:43:17 --> Language Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:43:17 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:43:17 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> Model Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:43:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:43:17 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:43:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:43:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 8
+ERROR - 2013-12-05 20:43:17 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 17
+ERROR - 2013-12-05 20:43:17 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 18
+DEBUG - 2013-12-05 20:43:17 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:43:17 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:43:17 --> Final output sent to browser
+DEBUG - 2013-12-05 20:43:17 --> Total execution time: 0.0650
+DEBUG - 2013-12-05 20:43:17 --> Config Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:43:17 --> URI Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> Router Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> Output Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> Security Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> Input Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:43:17 --> Language Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:43:17 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:43:17 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> Model Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:43:17 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:43:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:43:17 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:43:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:43:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 8
+ERROR - 2013-12-05 20:43:17 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 17
+ERROR - 2013-12-05 20:43:17 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 18
+DEBUG - 2013-12-05 20:43:17 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:43:17 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:43:17 --> Final output sent to browser
+DEBUG - 2013-12-05 20:43:17 --> Total execution time: 0.0595
+DEBUG - 2013-12-05 20:43:18 --> Config Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:43:18 --> URI Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> Router Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> Output Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> Security Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> Input Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:43:18 --> Language Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:43:18 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:43:18 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> Model Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:43:18 --> Final output sent to browser
+DEBUG - 2013-12-05 20:43:18 --> Total execution time: 0.1215
+DEBUG - 2013-12-05 20:43:18 --> Config Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:43:18 --> URI Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> Router Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> Output Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> Security Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> Input Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:43:18 --> Language Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:43:18 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:43:18 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> Model Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:43:18 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:43:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:43:18 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:43:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:43:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 8
+ERROR - 2013-12-05 20:43:18 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 17
+ERROR - 2013-12-05 20:43:18 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 18
+DEBUG - 2013-12-05 20:43:18 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:43:18 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:43:18 --> Final output sent to browser
+DEBUG - 2013-12-05 20:43:18 --> Total execution time: 0.0586
+DEBUG - 2013-12-05 20:43:19 --> Config Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:43:19 --> URI Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> Router Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> Output Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> Security Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> Input Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:43:19 --> Language Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:43:19 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:43:19 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> Model Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:43:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:43:19 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:43:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:43:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 8
+ERROR - 2013-12-05 20:43:19 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 17
+ERROR - 2013-12-05 20:43:19 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 18
+DEBUG - 2013-12-05 20:43:19 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:43:19 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:43:19 --> Final output sent to browser
+DEBUG - 2013-12-05 20:43:19 --> Total execution time: 0.0594
+DEBUG - 2013-12-05 20:43:19 --> Config Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:43:19 --> URI Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> Router Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> Output Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> Security Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> Input Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:43:19 --> Language Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:43:19 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:43:19 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> Model Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:43:19 --> Helper loaded: form_helper
+ERROR - 2013-12-05 20:43:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-05 20:43:19 --> File loaded: application/views/templates/header.php
+ERROR - 2013-12-05 20:43:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 4
+ERROR - 2013-12-05 20:43:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\views\schedules\vote.php 8
+ERROR - 2013-12-05 20:43:19 --> Severity: Notice  --> Undefined index: name C:\wamp\www\application\views\schedules\vote.php 17
+ERROR - 2013-12-05 20:43:19 --> Severity: Notice  --> Undefined index: description C:\wamp\www\application\views\schedules\vote.php 18
+DEBUG - 2013-12-05 20:43:19 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:43:19 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:43:19 --> Final output sent to browser
+DEBUG - 2013-12-05 20:43:19 --> Total execution time: 0.0548
+DEBUG - 2013-12-05 20:44:04 --> Config Class Initialized
+DEBUG - 2013-12-05 20:44:04 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:44:04 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:44:04 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:44:04 --> URI Class Initialized
+DEBUG - 2013-12-05 20:44:05 --> Router Class Initialized
+DEBUG - 2013-12-05 20:44:05 --> Output Class Initialized
+DEBUG - 2013-12-05 20:44:05 --> Security Class Initialized
+DEBUG - 2013-12-05 20:44:05 --> Input Class Initialized
+DEBUG - 2013-12-05 20:44:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:44:05 --> Language Class Initialized
+DEBUG - 2013-12-05 20:44:05 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:44:05 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:44:05 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:44:05 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:44:05 --> Model Class Initialized
+DEBUG - 2013-12-05 20:44:05 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:44:05 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:44:05 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:44:05 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:44:05 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:44:05 --> Final output sent to browser
+DEBUG - 2013-12-05 20:44:05 --> Total execution time: 0.0532
+DEBUG - 2013-12-05 20:44:57 --> Config Class Initialized
+DEBUG - 2013-12-05 20:44:57 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:44:57 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:44:57 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:44:57 --> URI Class Initialized
+DEBUG - 2013-12-05 20:44:57 --> Router Class Initialized
+DEBUG - 2013-12-05 20:44:57 --> Output Class Initialized
+DEBUG - 2013-12-05 20:44:57 --> Security Class Initialized
+DEBUG - 2013-12-05 20:44:57 --> Input Class Initialized
+DEBUG - 2013-12-05 20:44:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:44:57 --> Language Class Initialized
+DEBUG - 2013-12-05 20:44:57 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:44:57 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:44:57 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:44:57 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:44:57 --> Model Class Initialized
+DEBUG - 2013-12-05 20:44:57 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:44:57 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:44:57 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:44:57 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:44:57 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:44:57 --> Final output sent to browser
+DEBUG - 2013-12-05 20:44:57 --> Total execution time: 0.0560
+DEBUG - 2013-12-05 20:45:04 --> Config Class Initialized
+DEBUG - 2013-12-05 20:45:04 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:45:04 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:45:04 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:45:04 --> URI Class Initialized
+DEBUG - 2013-12-05 20:45:04 --> Router Class Initialized
+DEBUG - 2013-12-05 20:45:04 --> Output Class Initialized
+DEBUG - 2013-12-05 20:45:04 --> Security Class Initialized
+DEBUG - 2013-12-05 20:45:04 --> Input Class Initialized
+DEBUG - 2013-12-05 20:45:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:45:04 --> Language Class Initialized
+DEBUG - 2013-12-05 20:45:04 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:45:04 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:45:04 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:45:04 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:45:04 --> Model Class Initialized
+DEBUG - 2013-12-05 20:45:04 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:45:04 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:45:05 --> Final output sent to browser
+DEBUG - 2013-12-05 20:45:05 --> Total execution time: 0.4516
+DEBUG - 2013-12-05 20:45:06 --> Config Class Initialized
+DEBUG - 2013-12-05 20:45:06 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:45:06 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:45:06 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:45:06 --> URI Class Initialized
+DEBUG - 2013-12-05 20:45:06 --> Router Class Initialized
+DEBUG - 2013-12-05 20:45:06 --> Output Class Initialized
+DEBUG - 2013-12-05 20:45:06 --> Security Class Initialized
+DEBUG - 2013-12-05 20:45:06 --> Input Class Initialized
+DEBUG - 2013-12-05 20:45:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:45:06 --> Language Class Initialized
+DEBUG - 2013-12-05 20:45:06 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:45:06 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:45:06 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:45:06 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:45:06 --> Model Class Initialized
+DEBUG - 2013-12-05 20:45:06 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:45:06 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:45:06 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:45:06 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:45:06 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:45:06 --> Final output sent to browser
+DEBUG - 2013-12-05 20:45:06 --> Total execution time: 0.0577
+DEBUG - 2013-12-05 20:45:17 --> Config Class Initialized
+DEBUG - 2013-12-05 20:45:17 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:45:17 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:45:17 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:45:17 --> URI Class Initialized
+DEBUG - 2013-12-05 20:45:17 --> Router Class Initialized
+DEBUG - 2013-12-05 20:45:17 --> Output Class Initialized
+DEBUG - 2013-12-05 20:45:17 --> Security Class Initialized
+DEBUG - 2013-12-05 20:45:17 --> Input Class Initialized
+DEBUG - 2013-12-05 20:45:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:45:17 --> Language Class Initialized
+DEBUG - 2013-12-05 20:45:17 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:45:17 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:45:17 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:45:17 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:45:17 --> Model Class Initialized
+DEBUG - 2013-12-05 20:45:17 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:45:17 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:45:17 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:45:17 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:45:17 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:45:17 --> Final output sent to browser
+DEBUG - 2013-12-05 20:45:17 --> Total execution time: 0.0596
+DEBUG - 2013-12-05 20:46:04 --> Config Class Initialized
+DEBUG - 2013-12-05 20:46:04 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:46:04 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:46:04 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:46:04 --> URI Class Initialized
+DEBUG - 2013-12-05 20:46:04 --> Router Class Initialized
+DEBUG - 2013-12-05 20:46:04 --> Output Class Initialized
+DEBUG - 2013-12-05 20:46:04 --> Security Class Initialized
+DEBUG - 2013-12-05 20:46:04 --> Input Class Initialized
+DEBUG - 2013-12-05 20:46:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:46:04 --> Language Class Initialized
+DEBUG - 2013-12-05 20:46:04 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:46:04 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:46:04 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:46:04 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:46:04 --> Model Class Initialized
+DEBUG - 2013-12-05 20:46:04 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:46:04 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:46:04 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:46:04 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:46:04 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:46:04 --> Final output sent to browser
+DEBUG - 2013-12-05 20:46:04 --> Total execution time: 0.0582
+DEBUG - 2013-12-05 20:46:14 --> Config Class Initialized
+DEBUG - 2013-12-05 20:46:14 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:46:14 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:46:14 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:46:14 --> URI Class Initialized
+DEBUG - 2013-12-05 20:46:14 --> Router Class Initialized
+DEBUG - 2013-12-05 20:46:14 --> Output Class Initialized
+DEBUG - 2013-12-05 20:46:14 --> Security Class Initialized
+DEBUG - 2013-12-05 20:46:14 --> Input Class Initialized
+DEBUG - 2013-12-05 20:46:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:46:14 --> Language Class Initialized
+DEBUG - 2013-12-05 20:46:14 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:46:14 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:46:14 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:46:14 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:46:14 --> Model Class Initialized
+DEBUG - 2013-12-05 20:46:14 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:46:14 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:46:14 --> DB Transaction Failure
+ERROR - 2013-12-05 20:46:14 --> Query error: Unknown column 'name' in 'field list'
+DEBUG - 2013-12-05 20:46:14 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-05 20:46:18 --> Config Class Initialized
+DEBUG - 2013-12-05 20:46:18 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:46:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:46:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:46:18 --> URI Class Initialized
+DEBUG - 2013-12-05 20:46:18 --> Router Class Initialized
+DEBUG - 2013-12-05 20:46:18 --> Output Class Initialized
+DEBUG - 2013-12-05 20:46:18 --> Security Class Initialized
+DEBUG - 2013-12-05 20:46:18 --> Input Class Initialized
+DEBUG - 2013-12-05 20:46:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:46:18 --> Language Class Initialized
+DEBUG - 2013-12-05 20:46:18 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:46:18 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:46:18 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:46:18 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:46:18 --> Model Class Initialized
+DEBUG - 2013-12-05 20:46:18 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:46:18 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:46:18 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:46:18 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:46:18 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:46:18 --> Final output sent to browser
+DEBUG - 2013-12-05 20:46:18 --> Total execution time: 0.0587
+DEBUG - 2013-12-05 20:46:23 --> Config Class Initialized
+DEBUG - 2013-12-05 20:46:23 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:46:23 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:46:23 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:46:23 --> URI Class Initialized
+DEBUG - 2013-12-05 20:46:23 --> Router Class Initialized
+DEBUG - 2013-12-05 20:46:23 --> Output Class Initialized
+DEBUG - 2013-12-05 20:46:23 --> Security Class Initialized
+DEBUG - 2013-12-05 20:46:23 --> Input Class Initialized
+DEBUG - 2013-12-05 20:46:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:46:23 --> Language Class Initialized
+DEBUG - 2013-12-05 20:46:23 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:46:23 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:46:23 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:46:23 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:46:23 --> Model Class Initialized
+DEBUG - 2013-12-05 20:46:23 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:46:23 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:46:23 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:46:23 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:46:23 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:46:23 --> Final output sent to browser
+DEBUG - 2013-12-05 20:46:23 --> Total execution time: 0.0580
+DEBUG - 2013-12-05 20:46:35 --> Config Class Initialized
+DEBUG - 2013-12-05 20:46:35 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:46:35 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:46:35 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:46:35 --> URI Class Initialized
+DEBUG - 2013-12-05 20:46:35 --> Router Class Initialized
+DEBUG - 2013-12-05 20:46:35 --> Output Class Initialized
+DEBUG - 2013-12-05 20:46:35 --> Security Class Initialized
+DEBUG - 2013-12-05 20:46:35 --> Input Class Initialized
+DEBUG - 2013-12-05 20:46:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:46:35 --> Language Class Initialized
+DEBUG - 2013-12-05 20:46:35 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:46:35 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:46:35 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:46:35 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:46:35 --> Model Class Initialized
+DEBUG - 2013-12-05 20:46:35 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:46:35 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:46:35 --> DB Transaction Failure
+ERROR - 2013-12-05 20:46:35 --> Query error: Unknown column 'name' in 'field list'
+DEBUG - 2013-12-05 20:46:35 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-05 20:47:04 --> Config Class Initialized
+DEBUG - 2013-12-05 20:47:04 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:47:04 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:47:04 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:47:04 --> URI Class Initialized
+DEBUG - 2013-12-05 20:47:04 --> Router Class Initialized
+DEBUG - 2013-12-05 20:47:04 --> Output Class Initialized
+DEBUG - 2013-12-05 20:47:04 --> Security Class Initialized
+DEBUG - 2013-12-05 20:47:04 --> Input Class Initialized
+DEBUG - 2013-12-05 20:47:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:47:04 --> Language Class Initialized
+DEBUG - 2013-12-05 20:47:04 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:47:04 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:47:04 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:47:04 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:47:04 --> Model Class Initialized
+DEBUG - 2013-12-05 20:47:04 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:47:04 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:47:04 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:47:04 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:47:04 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:47:04 --> Final output sent to browser
+DEBUG - 2013-12-05 20:47:04 --> Total execution time: 0.0598
+DEBUG - 2013-12-05 20:47:14 --> Config Class Initialized
+DEBUG - 2013-12-05 20:47:14 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:47:14 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:47:14 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:47:14 --> URI Class Initialized
+DEBUG - 2013-12-05 20:47:14 --> Router Class Initialized
+DEBUG - 2013-12-05 20:47:14 --> Output Class Initialized
+DEBUG - 2013-12-05 20:47:14 --> Security Class Initialized
+DEBUG - 2013-12-05 20:47:14 --> Input Class Initialized
+DEBUG - 2013-12-05 20:47:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:47:14 --> Language Class Initialized
+DEBUG - 2013-12-05 20:47:14 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:47:14 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:47:14 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:47:14 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:47:14 --> Model Class Initialized
+DEBUG - 2013-12-05 20:47:14 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:47:14 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:47:14 --> Final output sent to browser
+DEBUG - 2013-12-05 20:47:14 --> Total execution time: 0.3285
+DEBUG - 2013-12-05 20:47:16 --> Config Class Initialized
+DEBUG - 2013-12-05 20:47:16 --> Hooks Class Initialized
+DEBUG - 2013-12-05 20:47:16 --> Utf8 Class Initialized
+DEBUG - 2013-12-05 20:47:16 --> UTF-8 Support Enabled
+DEBUG - 2013-12-05 20:47:16 --> URI Class Initialized
+DEBUG - 2013-12-05 20:47:16 --> Router Class Initialized
+DEBUG - 2013-12-05 20:47:16 --> Output Class Initialized
+DEBUG - 2013-12-05 20:47:16 --> Security Class Initialized
+DEBUG - 2013-12-05 20:47:16 --> Input Class Initialized
+DEBUG - 2013-12-05 20:47:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-05 20:47:16 --> Language Class Initialized
+DEBUG - 2013-12-05 20:47:16 --> Loader Class Initialized
+DEBUG - 2013-12-05 20:47:16 --> Helper loaded: url_helper
+DEBUG - 2013-12-05 20:47:16 --> Helper loaded: utility_helper
+DEBUG - 2013-12-05 20:47:16 --> Controller Class Initialized
+DEBUG - 2013-12-05 20:47:16 --> Model Class Initialized
+DEBUG - 2013-12-05 20:47:16 --> Database Driver Class Initialized
+DEBUG - 2013-12-05 20:47:16 --> Helper loaded: form_helper
+DEBUG - 2013-12-05 20:47:16 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-05 20:47:16 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-05 20:47:16 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-05 20:47:16 --> Final output sent to browser
+DEBUG - 2013-12-05 20:47:16 --> Total execution time: 0.0555

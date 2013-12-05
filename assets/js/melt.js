@@ -1,7 +1,8 @@
 
-function Poll(pollName,pollDates){
+function Poll(pollName,pollDates,schedule){
     this.name = pollName;
     this.data = pollDates;
+    this.scheduleID = schedule;
     this.getInfo = getPollInfo;
     this.displayPoll = displayPollInTarget;
     this.generateHeaders = generateHeaders;
@@ -11,13 +12,14 @@ function Poll(pollName,pollDates){
     this.attachForm = attachForm;
     this.table = $('<table></table>').addClass('polling-table');
     this.form;
+
+    console.log(this.scheduleID);
+
 }
 
 function getPollInfo() {
     return 'Poll name: ' + this.name;
 }
-
-
 
 function generateHeaders(){
     //addding the header
@@ -131,7 +133,7 @@ function addRowToPoll(){
     this.table.append(row);
 }
 
-function attachForm(targetForm){
+function attachForm(targetForm,scheduleID){
     this.form =targetForm;
     $(this.form).submit(function( event ) {
 
@@ -144,7 +146,6 @@ function attachForm(targetForm){
             postingUrl = $(this).attr( "action" );
 
         var checkboxes = [];
-
         $(this).find( "input[name^='check-']" ).each(function (index, element) {
 
             var dict = {
@@ -159,11 +160,12 @@ function attachForm(targetForm){
         console.log(userName);
         console.log(checkboxes);
         console.log(postingUrl);
-
+        console.log(scheduleID);
 
         // Send the data using post
         var posting = $.post( postingUrl,
             {
+                scheduleID : scheduleID,
                 name: userName,
                 data : checkboxes
             });

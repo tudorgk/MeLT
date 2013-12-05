@@ -69,7 +69,8 @@ class schedule_model extends CI_Model {
         $this->load->helper('url');
 
         $user = array(
-           'name' => $this->input->post('name')
+           'firstname' => $this->input->post('name'),
+            'schedule_id' => $this->input->post('scheduleID')
         );
         $this->db->insert('user',$user);
         $userID = mysql_insert_id();
@@ -96,16 +97,18 @@ class schedule_model extends CI_Model {
     }
 
     //gets all the users for populating the table
-    public function get_all_users_for_schedule(){
+    public function get_all_users_for_schedule($scheduleID){
+
+        $query = $this->db->get_where('schedule',array('id' => $scheduleID));
+        $schedule = $query->row_array();
+        var_dump($schedule);
 
         $query = $this->db->query(
             "select *
-from user U
-inner join user_intervals UI
-  on U.id = UI.user_id
-inner join date_interval I
-  on UI.interval_id = I.id
- where I.date = 62");
+            from user U
+            inner join user_intervals UI on U.id = UI.user_id
+            inner join date_interval I on UI.interval_id = I.id
+            where U.schedule_id=".$schedule['id']);
 
         return $query->result_array();
     }
