@@ -13750,3 +13750,12152 @@ DEBUG - 2013-12-11 20:48:54 --> Database Driver Class Initialized
 DEBUG - 2013-12-11 20:48:54 --> Helper loaded: form_helper
 DEBUG - 2013-12-11 20:48:54 --> Final output sent to browser
 DEBUG - 2013-12-11 20:48:54 --> Total execution time: 0.0974
+DEBUG - 2013-12-11 20:51:32 --> Config Class Initialized
+DEBUG - 2013-12-11 20:51:32 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:51:32 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:51:32 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:51:32 --> URI Class Initialized
+DEBUG - 2013-12-11 20:51:32 --> Router Class Initialized
+DEBUG - 2013-12-11 20:51:32 --> Output Class Initialized
+DEBUG - 2013-12-11 20:51:32 --> Security Class Initialized
+DEBUG - 2013-12-11 20:51:32 --> Input Class Initialized
+DEBUG - 2013-12-11 20:51:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:51:32 --> Language Class Initialized
+DEBUG - 2013-12-11 20:51:32 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:51:32 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:51:32 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:51:32 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:51:32 --> Model Class Initialized
+DEBUG - 2013-12-11 20:51:32 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:51:32 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 20:51:32 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 20:51:32 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 20:51:32 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 20:51:32 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 20:51:32 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 20:51:32 --> Final output sent to browser
+DEBUG - 2013-12-11 20:51:32 --> Total execution time: 0.0567
+DEBUG - 2013-12-11 20:51:34 --> Config Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:51:34 --> URI Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> Router Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> Output Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> Security Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> Input Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:51:34 --> Language Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:51:34 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:51:34 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> Model Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> Helper loaded: form_helper
+ERROR - 2013-12-11 20:51:34 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 20:51:34 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 20:51:34 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 20:51:34 --> DB Transaction Failure
+ERROR - 2013-12-11 20:51:34 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 20:51:34 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 20:51:34 --> Config Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:51:34 --> URI Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> Router Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> Output Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> Security Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> Input Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:51:34 --> Language Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:51:34 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:51:34 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> Model Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:51:34 --> Helper loaded: form_helper
+ERROR - 2013-12-11 20:51:34 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 20:51:34 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 20:51:34 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 20:51:34 --> DB Transaction Failure
+ERROR - 2013-12-11 20:51:34 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 20:51:34 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 20:51:36 --> Config Class Initialized
+DEBUG - 2013-12-11 20:51:36 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:51:36 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:51:36 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:51:36 --> URI Class Initialized
+DEBUG - 2013-12-11 20:51:36 --> Router Class Initialized
+DEBUG - 2013-12-11 20:51:36 --> Output Class Initialized
+DEBUG - 2013-12-11 20:51:36 --> Security Class Initialized
+DEBUG - 2013-12-11 20:51:36 --> Input Class Initialized
+DEBUG - 2013-12-11 20:51:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:51:36 --> Language Class Initialized
+DEBUG - 2013-12-11 20:51:36 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:51:36 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:51:36 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:51:36 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:51:36 --> Model Class Initialized
+DEBUG - 2013-12-11 20:51:36 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:51:36 --> Helper loaded: form_helper
+ERROR - 2013-12-11 20:51:36 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 20:51:36 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 20:51:36 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 20:51:36 --> DB Transaction Failure
+ERROR - 2013-12-11 20:51:36 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 20:51:36 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 20:51:37 --> Config Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:51:37 --> URI Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> Router Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> Output Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> Security Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> Input Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:51:37 --> Language Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:51:37 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:51:37 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> Model Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> Helper loaded: form_helper
+ERROR - 2013-12-11 20:51:37 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 20:51:37 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 20:51:37 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 20:51:37 --> DB Transaction Failure
+ERROR - 2013-12-11 20:51:37 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 20:51:37 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 20:51:37 --> Config Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:51:37 --> URI Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> Router Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> Output Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> Security Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> Input Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:51:37 --> Language Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:51:37 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:51:37 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> Model Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:51:37 --> Helper loaded: form_helper
+ERROR - 2013-12-11 20:51:37 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 20:51:37 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 20:51:37 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 20:51:37 --> DB Transaction Failure
+ERROR - 2013-12-11 20:51:37 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 20:51:37 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 20:51:45 --> Config Class Initialized
+DEBUG - 2013-12-11 20:51:45 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:51:45 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:51:45 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:51:45 --> URI Class Initialized
+DEBUG - 2013-12-11 20:51:45 --> Router Class Initialized
+DEBUG - 2013-12-11 20:51:45 --> No URI present. Default controller set.
+DEBUG - 2013-12-11 20:51:45 --> Output Class Initialized
+DEBUG - 2013-12-11 20:51:45 --> Security Class Initialized
+DEBUG - 2013-12-11 20:51:45 --> Input Class Initialized
+DEBUG - 2013-12-11 20:51:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:51:45 --> Language Class Initialized
+DEBUG - 2013-12-11 20:51:45 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:51:45 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:51:45 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:51:45 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:51:45 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 20:51:45 --> File loaded: application/views/pages/home.php
+DEBUG - 2013-12-11 20:51:45 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 20:51:45 --> Final output sent to browser
+DEBUG - 2013-12-11 20:51:45 --> Total execution time: 0.0367
+DEBUG - 2013-12-11 20:51:47 --> Config Class Initialized
+DEBUG - 2013-12-11 20:51:47 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:51:47 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:51:47 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:51:47 --> URI Class Initialized
+DEBUG - 2013-12-11 20:51:47 --> Router Class Initialized
+DEBUG - 2013-12-11 20:51:47 --> Output Class Initialized
+DEBUG - 2013-12-11 20:51:47 --> Security Class Initialized
+DEBUG - 2013-12-11 20:51:47 --> Input Class Initialized
+DEBUG - 2013-12-11 20:51:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:51:47 --> Language Class Initialized
+DEBUG - 2013-12-11 20:51:47 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:51:47 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:51:47 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:51:47 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:51:47 --> Model Class Initialized
+DEBUG - 2013-12-11 20:51:47 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:51:47 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 20:51:47 --> Form Validation Class Initialized
+DEBUG - 2013-12-11 20:51:47 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 20:51:47 --> File loaded: application/views/schedules/create.php
+DEBUG - 2013-12-11 20:51:47 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 20:51:47 --> Final output sent to browser
+DEBUG - 2013-12-11 20:51:47 --> Total execution time: 0.0676
+DEBUG - 2013-12-11 20:51:58 --> Config Class Initialized
+DEBUG - 2013-12-11 20:51:58 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:51:58 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:51:58 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:51:58 --> URI Class Initialized
+DEBUG - 2013-12-11 20:51:58 --> Router Class Initialized
+DEBUG - 2013-12-11 20:51:58 --> Output Class Initialized
+DEBUG - 2013-12-11 20:51:58 --> Security Class Initialized
+DEBUG - 2013-12-11 20:51:58 --> Input Class Initialized
+DEBUG - 2013-12-11 20:51:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:51:58 --> Language Class Initialized
+DEBUG - 2013-12-11 20:51:58 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:51:58 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:51:58 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:51:58 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:51:58 --> Model Class Initialized
+DEBUG - 2013-12-11 20:51:58 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:51:58 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 20:51:58 --> Form Validation Class Initialized
+DEBUG - 2013-12-11 20:51:58 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-12-11 20:51:59 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 20:51:59 --> File loaded: application/views/schedules/success.php
+DEBUG - 2013-12-11 20:51:59 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 20:51:59 --> Final output sent to browser
+DEBUG - 2013-12-11 20:51:59 --> Total execution time: 0.5966
+DEBUG - 2013-12-11 20:52:01 --> Config Class Initialized
+DEBUG - 2013-12-11 20:52:01 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:52:01 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:52:01 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:52:01 --> URI Class Initialized
+DEBUG - 2013-12-11 20:52:01 --> Router Class Initialized
+DEBUG - 2013-12-11 20:52:01 --> Output Class Initialized
+DEBUG - 2013-12-11 20:52:01 --> Security Class Initialized
+DEBUG - 2013-12-11 20:52:01 --> Input Class Initialized
+DEBUG - 2013-12-11 20:52:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:52:01 --> Language Class Initialized
+DEBUG - 2013-12-11 20:52:01 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:52:01 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:52:01 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:52:01 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:52:01 --> Model Class Initialized
+DEBUG - 2013-12-11 20:52:01 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:52:01 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 20:52:01 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 20:52:01 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 20:52:01 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 20:52:01 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 20:52:01 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 20:52:01 --> Final output sent to browser
+DEBUG - 2013-12-11 20:52:01 --> Total execution time: 0.0652
+DEBUG - 2013-12-11 20:52:03 --> Config Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:52:03 --> URI Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> Router Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> Output Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> Security Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> Input Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:52:03 --> Language Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:52:03 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:52:03 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> Model Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> Helper loaded: form_helper
+ERROR - 2013-12-11 20:52:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 20:52:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 20:52:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 20:52:03 --> DB Transaction Failure
+ERROR - 2013-12-11 20:52:03 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 20:52:03 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 20:52:03 --> Config Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:52:03 --> URI Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> Router Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> Output Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> Security Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> Input Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:52:03 --> Language Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:52:03 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:52:03 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> Model Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:52:03 --> Helper loaded: form_helper
+ERROR - 2013-12-11 20:52:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 20:52:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 20:52:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 20:52:03 --> DB Transaction Failure
+ERROR - 2013-12-11 20:52:03 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 20:52:03 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 20:52:04 --> Config Class Initialized
+DEBUG - 2013-12-11 20:52:04 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:52:04 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:52:04 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:52:04 --> URI Class Initialized
+DEBUG - 2013-12-11 20:52:04 --> Router Class Initialized
+DEBUG - 2013-12-11 20:52:04 --> Output Class Initialized
+DEBUG - 2013-12-11 20:52:04 --> Security Class Initialized
+DEBUG - 2013-12-11 20:52:04 --> Input Class Initialized
+DEBUG - 2013-12-11 20:52:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:52:04 --> Language Class Initialized
+DEBUG - 2013-12-11 20:52:04 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:52:04 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:52:04 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:52:04 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:52:04 --> Model Class Initialized
+DEBUG - 2013-12-11 20:52:04 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:52:04 --> Helper loaded: form_helper
+ERROR - 2013-12-11 20:52:04 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 20:52:04 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 20:52:04 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 20:52:04 --> DB Transaction Failure
+ERROR - 2013-12-11 20:52:04 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 20:52:04 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 20:52:05 --> Config Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:52:05 --> URI Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> Router Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> Output Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> Security Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> Input Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:52:05 --> Language Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:52:05 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:52:05 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> Model Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> Helper loaded: form_helper
+ERROR - 2013-12-11 20:52:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 20:52:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 20:52:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 20:52:05 --> DB Transaction Failure
+ERROR - 2013-12-11 20:52:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 20:52:05 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 20:52:05 --> Config Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:52:05 --> URI Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> Router Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> Output Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> Security Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> Input Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:52:05 --> Language Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:52:05 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:52:05 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> Model Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:52:05 --> Helper loaded: form_helper
+ERROR - 2013-12-11 20:52:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 20:52:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 20:52:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 20:52:05 --> DB Transaction Failure
+ERROR - 2013-12-11 20:52:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 20:52:05 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 20:52:27 --> Config Class Initialized
+DEBUG - 2013-12-11 20:52:27 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:52:27 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:52:27 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:52:27 --> URI Class Initialized
+DEBUG - 2013-12-11 20:52:27 --> Router Class Initialized
+DEBUG - 2013-12-11 20:52:27 --> Output Class Initialized
+DEBUG - 2013-12-11 20:52:27 --> Security Class Initialized
+DEBUG - 2013-12-11 20:52:27 --> Input Class Initialized
+DEBUG - 2013-12-11 20:52:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:52:27 --> Language Class Initialized
+DEBUG - 2013-12-11 20:52:27 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:52:27 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:52:27 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:52:27 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:52:27 --> Model Class Initialized
+DEBUG - 2013-12-11 20:52:27 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:52:27 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 20:52:27 --> Final output sent to browser
+DEBUG - 2013-12-11 20:52:27 --> Total execution time: 0.1171
+DEBUG - 2013-12-11 20:52:31 --> Config Class Initialized
+DEBUG - 2013-12-11 20:52:31 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:52:31 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:52:31 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:52:31 --> URI Class Initialized
+DEBUG - 2013-12-11 20:52:31 --> Router Class Initialized
+DEBUG - 2013-12-11 20:52:31 --> Output Class Initialized
+DEBUG - 2013-12-11 20:52:31 --> Security Class Initialized
+DEBUG - 2013-12-11 20:52:31 --> Input Class Initialized
+DEBUG - 2013-12-11 20:52:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:52:31 --> Language Class Initialized
+DEBUG - 2013-12-11 20:52:31 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:52:31 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:52:31 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:52:31 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:52:31 --> Model Class Initialized
+DEBUG - 2013-12-11 20:52:31 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:52:31 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 20:52:31 --> Final output sent to browser
+DEBUG - 2013-12-11 20:52:31 --> Total execution time: 0.1182
+DEBUG - 2013-12-11 20:52:35 --> Config Class Initialized
+DEBUG - 2013-12-11 20:52:35 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:52:35 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:52:35 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:52:35 --> URI Class Initialized
+DEBUG - 2013-12-11 20:52:35 --> Router Class Initialized
+DEBUG - 2013-12-11 20:52:35 --> Output Class Initialized
+DEBUG - 2013-12-11 20:52:35 --> Security Class Initialized
+DEBUG - 2013-12-11 20:52:35 --> Input Class Initialized
+DEBUG - 2013-12-11 20:52:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:52:35 --> Language Class Initialized
+DEBUG - 2013-12-11 20:52:35 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:52:35 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:52:35 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:52:35 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:52:35 --> Model Class Initialized
+DEBUG - 2013-12-11 20:52:35 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:52:35 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 20:52:35 --> Final output sent to browser
+DEBUG - 2013-12-11 20:52:35 --> Total execution time: 0.1200
+DEBUG - 2013-12-11 20:53:53 --> Config Class Initialized
+DEBUG - 2013-12-11 20:53:53 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:53:53 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:53:53 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:53:53 --> URI Class Initialized
+DEBUG - 2013-12-11 20:53:53 --> Router Class Initialized
+DEBUG - 2013-12-11 20:53:53 --> Output Class Initialized
+DEBUG - 2013-12-11 20:53:53 --> Security Class Initialized
+DEBUG - 2013-12-11 20:53:53 --> Input Class Initialized
+DEBUG - 2013-12-11 20:53:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:53:53 --> Language Class Initialized
+DEBUG - 2013-12-11 20:53:53 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:53:53 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:53:53 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:53:53 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:53:53 --> Model Class Initialized
+DEBUG - 2013-12-11 20:53:53 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:53:53 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 20:53:53 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 20:53:53 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 20:53:53 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 20:53:53 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 20:53:53 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 20:53:53 --> Final output sent to browser
+DEBUG - 2013-12-11 20:53:53 --> Total execution time: 0.0564
+DEBUG - 2013-12-11 20:53:55 --> Config Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:53:55 --> URI Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> Router Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> Output Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> Security Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> Input Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:53:55 --> Language Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:53:55 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:53:55 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> Model Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> Helper loaded: form_helper
+ERROR - 2013-12-11 20:53:55 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 20:53:55 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 20:53:55 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 20:53:55 --> DB Transaction Failure
+ERROR - 2013-12-11 20:53:55 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 20:53:55 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 20:53:55 --> Config Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:53:55 --> URI Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> Router Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> Output Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> Security Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> Input Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:53:55 --> Language Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:53:55 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:53:55 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> Model Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:53:55 --> Helper loaded: form_helper
+ERROR - 2013-12-11 20:53:55 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 20:53:55 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 20:53:55 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 20:53:55 --> DB Transaction Failure
+ERROR - 2013-12-11 20:53:55 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 20:53:55 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 20:53:58 --> Config Class Initialized
+DEBUG - 2013-12-11 20:53:58 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:53:58 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:53:58 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:53:58 --> URI Class Initialized
+DEBUG - 2013-12-11 20:53:58 --> Router Class Initialized
+DEBUG - 2013-12-11 20:53:58 --> Output Class Initialized
+DEBUG - 2013-12-11 20:53:58 --> Security Class Initialized
+DEBUG - 2013-12-11 20:53:58 --> Input Class Initialized
+DEBUG - 2013-12-11 20:53:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:53:58 --> Language Class Initialized
+DEBUG - 2013-12-11 20:53:58 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:53:58 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:53:58 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:53:58 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:53:58 --> Model Class Initialized
+DEBUG - 2013-12-11 20:53:58 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:53:58 --> Helper loaded: form_helper
+ERROR - 2013-12-11 20:53:58 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 20:53:58 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 20:53:58 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 20:53:58 --> DB Transaction Failure
+ERROR - 2013-12-11 20:53:58 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 20:53:58 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 20:53:59 --> Config Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:53:59 --> URI Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> Router Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> Output Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> Security Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> Input Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:53:59 --> Language Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:53:59 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:53:59 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> Model Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> Helper loaded: form_helper
+ERROR - 2013-12-11 20:53:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 20:53:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 20:53:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 20:53:59 --> DB Transaction Failure
+ERROR - 2013-12-11 20:53:59 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 20:53:59 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 20:53:59 --> Config Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:53:59 --> URI Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> Router Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> Output Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> Security Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> Input Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:53:59 --> Language Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:53:59 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:53:59 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> Model Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:53:59 --> Helper loaded: form_helper
+ERROR - 2013-12-11 20:53:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 20:53:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 20:53:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 20:53:59 --> DB Transaction Failure
+ERROR - 2013-12-11 20:53:59 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 20:53:59 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 20:54:53 --> Config Class Initialized
+DEBUG - 2013-12-11 20:54:53 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:54:53 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:54:53 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:54:53 --> URI Class Initialized
+DEBUG - 2013-12-11 20:54:53 --> Router Class Initialized
+DEBUG - 2013-12-11 20:54:53 --> Output Class Initialized
+DEBUG - 2013-12-11 20:54:53 --> Security Class Initialized
+DEBUG - 2013-12-11 20:54:53 --> Input Class Initialized
+DEBUG - 2013-12-11 20:54:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:54:53 --> Language Class Initialized
+DEBUG - 2013-12-11 20:54:53 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:54:53 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:54:53 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:54:53 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:54:53 --> Model Class Initialized
+DEBUG - 2013-12-11 20:54:53 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:54:53 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 20:54:53 --> Final output sent to browser
+DEBUG - 2013-12-11 20:54:53 --> Total execution time: 0.1127
+DEBUG - 2013-12-11 20:56:32 --> Config Class Initialized
+DEBUG - 2013-12-11 20:56:32 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:56:32 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:56:32 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:56:32 --> URI Class Initialized
+DEBUG - 2013-12-11 20:56:32 --> Router Class Initialized
+DEBUG - 2013-12-11 20:56:32 --> Output Class Initialized
+DEBUG - 2013-12-11 20:56:32 --> Security Class Initialized
+DEBUG - 2013-12-11 20:56:32 --> Input Class Initialized
+DEBUG - 2013-12-11 20:56:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:56:32 --> Language Class Initialized
+DEBUG - 2013-12-11 20:56:32 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:56:32 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:56:32 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:56:32 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:56:32 --> Model Class Initialized
+DEBUG - 2013-12-11 20:56:32 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:56:32 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 20:56:32 --> Final output sent to browser
+DEBUG - 2013-12-11 20:56:32 --> Total execution time: 0.0933
+DEBUG - 2013-12-11 20:56:44 --> Config Class Initialized
+DEBUG - 2013-12-11 20:56:44 --> Hooks Class Initialized
+DEBUG - 2013-12-11 20:56:44 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 20:56:44 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 20:56:44 --> URI Class Initialized
+DEBUG - 2013-12-11 20:56:44 --> Router Class Initialized
+DEBUG - 2013-12-11 20:56:44 --> Output Class Initialized
+DEBUG - 2013-12-11 20:56:44 --> Security Class Initialized
+DEBUG - 2013-12-11 20:56:44 --> Input Class Initialized
+DEBUG - 2013-12-11 20:56:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 20:56:44 --> Language Class Initialized
+DEBUG - 2013-12-11 20:56:44 --> Loader Class Initialized
+DEBUG - 2013-12-11 20:56:44 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 20:56:44 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 20:56:44 --> Controller Class Initialized
+DEBUG - 2013-12-11 20:56:44 --> Model Class Initialized
+DEBUG - 2013-12-11 20:56:44 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 20:56:44 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 20:56:44 --> Final output sent to browser
+DEBUG - 2013-12-11 20:56:44 --> Total execution time: 0.1165
+DEBUG - 2013-12-11 21:11:52 --> Config Class Initialized
+DEBUG - 2013-12-11 21:11:52 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:11:52 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:11:52 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:11:52 --> URI Class Initialized
+DEBUG - 2013-12-11 21:11:52 --> Router Class Initialized
+DEBUG - 2013-12-11 21:11:52 --> Output Class Initialized
+DEBUG - 2013-12-11 21:11:52 --> Security Class Initialized
+DEBUG - 2013-12-11 21:11:52 --> Input Class Initialized
+DEBUG - 2013-12-11 21:11:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:11:52 --> Language Class Initialized
+DEBUG - 2013-12-11 21:11:52 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:11:52 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:11:52 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:11:52 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:11:52 --> Model Class Initialized
+DEBUG - 2013-12-11 21:11:52 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:11:52 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:11:52 --> Final output sent to browser
+DEBUG - 2013-12-11 21:11:52 --> Total execution time: 0.2581
+DEBUG - 2013-12-11 21:11:57 --> Config Class Initialized
+DEBUG - 2013-12-11 21:11:57 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:11:57 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:11:57 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:11:57 --> URI Class Initialized
+DEBUG - 2013-12-11 21:11:57 --> Router Class Initialized
+DEBUG - 2013-12-11 21:11:57 --> Output Class Initialized
+DEBUG - 2013-12-11 21:11:57 --> Security Class Initialized
+DEBUG - 2013-12-11 21:11:57 --> Input Class Initialized
+DEBUG - 2013-12-11 21:11:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:11:57 --> Language Class Initialized
+DEBUG - 2013-12-11 21:11:57 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:11:57 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:11:57 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:11:57 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:11:57 --> Model Class Initialized
+DEBUG - 2013-12-11 21:11:57 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:11:57 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:11:57 --> Final output sent to browser
+DEBUG - 2013-12-11 21:11:57 --> Total execution time: 0.0769
+DEBUG - 2013-12-11 21:12:00 --> Config Class Initialized
+DEBUG - 2013-12-11 21:12:00 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:12:00 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:12:00 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:12:00 --> URI Class Initialized
+DEBUG - 2013-12-11 21:12:00 --> Router Class Initialized
+DEBUG - 2013-12-11 21:12:00 --> Output Class Initialized
+DEBUG - 2013-12-11 21:12:00 --> Security Class Initialized
+DEBUG - 2013-12-11 21:12:00 --> Input Class Initialized
+DEBUG - 2013-12-11 21:12:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:12:00 --> Language Class Initialized
+DEBUG - 2013-12-11 21:12:00 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:12:00 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:12:00 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:12:00 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:12:00 --> Model Class Initialized
+DEBUG - 2013-12-11 21:12:00 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:12:00 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:12:00 --> Final output sent to browser
+DEBUG - 2013-12-11 21:12:00 --> Total execution time: 0.0691
+DEBUG - 2013-12-11 21:12:02 --> Config Class Initialized
+DEBUG - 2013-12-11 21:12:02 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:12:02 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:12:02 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:12:02 --> URI Class Initialized
+DEBUG - 2013-12-11 21:12:02 --> Router Class Initialized
+DEBUG - 2013-12-11 21:12:02 --> Output Class Initialized
+DEBUG - 2013-12-11 21:12:02 --> Security Class Initialized
+DEBUG - 2013-12-11 21:12:02 --> Input Class Initialized
+DEBUG - 2013-12-11 21:12:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:12:02 --> Language Class Initialized
+DEBUG - 2013-12-11 21:12:02 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:12:02 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:12:02 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:12:02 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:12:02 --> Model Class Initialized
+DEBUG - 2013-12-11 21:12:02 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:12:02 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:12:02 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:12:02 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:12:02 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:12:02 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:12:02 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:12:02 --> Final output sent to browser
+DEBUG - 2013-12-11 21:12:02 --> Total execution time: 0.0641
+DEBUG - 2013-12-11 21:12:04 --> Config Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:12:04 --> URI Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> Router Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> Output Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> Security Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> Input Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:12:04 --> Language Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:12:04 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:12:04 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> Model Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:12:04 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:12:04 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:12:04 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:12:04 --> DB Transaction Failure
+ERROR - 2013-12-11 21:12:04 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:12:04 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:12:04 --> Config Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:12:04 --> URI Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> Router Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> Output Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> Security Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> Input Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:12:04 --> Language Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:12:04 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:12:04 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> Model Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:12:04 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:12:04 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:12:04 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:12:04 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:12:04 --> DB Transaction Failure
+ERROR - 2013-12-11 21:12:04 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:12:04 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:12:05 --> Config Class Initialized
+DEBUG - 2013-12-11 21:12:05 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:12:05 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:12:05 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:12:05 --> URI Class Initialized
+DEBUG - 2013-12-11 21:12:05 --> Router Class Initialized
+DEBUG - 2013-12-11 21:12:05 --> Output Class Initialized
+DEBUG - 2013-12-11 21:12:05 --> Security Class Initialized
+DEBUG - 2013-12-11 21:12:05 --> Input Class Initialized
+DEBUG - 2013-12-11 21:12:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:12:05 --> Language Class Initialized
+DEBUG - 2013-12-11 21:12:05 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:12:05 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:12:05 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:12:05 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:12:05 --> Model Class Initialized
+DEBUG - 2013-12-11 21:12:05 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:12:05 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:12:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:12:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:12:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:12:05 --> DB Transaction Failure
+ERROR - 2013-12-11 21:12:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:12:05 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:12:07 --> Config Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:12:07 --> URI Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> Router Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> Output Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> Security Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> Input Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:12:07 --> Language Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:12:07 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:12:07 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> Model Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:12:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:12:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:12:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:12:07 --> DB Transaction Failure
+ERROR - 2013-12-11 21:12:07 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:12:07 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:12:07 --> Config Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:12:07 --> URI Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> Router Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> Output Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> Security Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> Input Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:12:07 --> Language Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:12:07 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:12:07 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> Model Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:12:07 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:12:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:12:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:12:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:12:07 --> DB Transaction Failure
+ERROR - 2013-12-11 21:12:07 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:12:07 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:16:56 --> Config Class Initialized
+DEBUG - 2013-12-11 21:16:56 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:16:56 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:16:56 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:16:56 --> URI Class Initialized
+DEBUG - 2013-12-11 21:16:56 --> Router Class Initialized
+DEBUG - 2013-12-11 21:16:56 --> Output Class Initialized
+DEBUG - 2013-12-11 21:16:56 --> Security Class Initialized
+DEBUG - 2013-12-11 21:16:56 --> Input Class Initialized
+DEBUG - 2013-12-11 21:16:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:16:56 --> Language Class Initialized
+DEBUG - 2013-12-11 21:16:56 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:16:56 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:16:56 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:16:56 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:16:56 --> Model Class Initialized
+DEBUG - 2013-12-11 21:16:56 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:16:56 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:16:56 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:16:56 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:16:56 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:16:56 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:16:56 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:16:56 --> Final output sent to browser
+DEBUG - 2013-12-11 21:16:56 --> Total execution time: 0.0591
+DEBUG - 2013-12-11 21:16:58 --> Config Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:16:58 --> URI Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> Router Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> Output Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> Security Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> Input Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:16:58 --> Language Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:16:58 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:16:58 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> Model Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:16:58 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:16:58 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:16:58 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:16:58 --> DB Transaction Failure
+ERROR - 2013-12-11 21:16:58 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:16:58 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:16:58 --> Config Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:16:58 --> URI Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> Router Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> Output Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> Security Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> Input Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:16:58 --> Language Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:16:58 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:16:58 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> Model Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:16:58 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:16:58 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:16:58 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:16:58 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:16:58 --> DB Transaction Failure
+ERROR - 2013-12-11 21:16:58 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:16:58 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:16:59 --> Config Class Initialized
+DEBUG - 2013-12-11 21:16:59 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:16:59 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:16:59 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:16:59 --> URI Class Initialized
+DEBUG - 2013-12-11 21:16:59 --> Router Class Initialized
+DEBUG - 2013-12-11 21:16:59 --> Output Class Initialized
+DEBUG - 2013-12-11 21:16:59 --> Security Class Initialized
+DEBUG - 2013-12-11 21:16:59 --> Input Class Initialized
+DEBUG - 2013-12-11 21:16:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:16:59 --> Language Class Initialized
+DEBUG - 2013-12-11 21:16:59 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:16:59 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:16:59 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:16:59 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:16:59 --> Model Class Initialized
+DEBUG - 2013-12-11 21:16:59 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:16:59 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:17:00 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:17:00 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:17:00 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:17:00 --> DB Transaction Failure
+ERROR - 2013-12-11 21:17:00 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:17:00 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:17:03 --> Config Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:17:03 --> URI Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> Router Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> Output Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> Security Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> Input Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:17:03 --> Language Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:17:03 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:17:03 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> Model Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:17:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:17:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:17:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:17:03 --> DB Transaction Failure
+ERROR - 2013-12-11 21:17:03 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:17:03 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:17:03 --> Config Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:17:03 --> URI Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> Router Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> Output Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> Security Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> Input Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:17:03 --> Language Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:17:03 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:17:03 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> Model Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:17:03 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:17:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:17:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:17:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:17:03 --> DB Transaction Failure
+ERROR - 2013-12-11 21:17:03 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:17:03 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:17:30 --> Config Class Initialized
+DEBUG - 2013-12-11 21:17:30 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:17:30 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:17:30 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:17:30 --> URI Class Initialized
+DEBUG - 2013-12-11 21:17:30 --> Router Class Initialized
+DEBUG - 2013-12-11 21:17:30 --> Output Class Initialized
+DEBUG - 2013-12-11 21:17:30 --> Security Class Initialized
+DEBUG - 2013-12-11 21:17:30 --> Input Class Initialized
+DEBUG - 2013-12-11 21:17:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:17:30 --> Language Class Initialized
+DEBUG - 2013-12-11 21:17:30 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:17:30 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:17:30 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:17:30 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:17:30 --> Model Class Initialized
+DEBUG - 2013-12-11 21:17:30 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:17:30 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:17:30 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:17:30 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:17:30 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:17:30 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:17:30 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:17:30 --> Final output sent to browser
+DEBUG - 2013-12-11 21:17:30 --> Total execution time: 0.0588
+DEBUG - 2013-12-11 21:17:32 --> Config Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:17:32 --> URI Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> Router Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> Output Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> Security Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> Input Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:17:32 --> Language Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:17:32 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:17:32 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> Model Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:17:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:17:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:17:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:17:32 --> DB Transaction Failure
+ERROR - 2013-12-11 21:17:32 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:17:32 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:17:32 --> Config Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:17:32 --> URI Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> Router Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> Output Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> Security Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> Input Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:17:32 --> Language Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:17:32 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:17:32 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> Model Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:17:32 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:17:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:17:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:17:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:17:32 --> DB Transaction Failure
+ERROR - 2013-12-11 21:17:32 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:17:32 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:17:34 --> Config Class Initialized
+DEBUG - 2013-12-11 21:17:34 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:17:34 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:17:34 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:17:34 --> URI Class Initialized
+DEBUG - 2013-12-11 21:17:34 --> Router Class Initialized
+DEBUG - 2013-12-11 21:17:34 --> Output Class Initialized
+DEBUG - 2013-12-11 21:17:34 --> Security Class Initialized
+DEBUG - 2013-12-11 21:17:34 --> Input Class Initialized
+DEBUG - 2013-12-11 21:17:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:17:34 --> Language Class Initialized
+DEBUG - 2013-12-11 21:17:34 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:17:34 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:17:34 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:17:34 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:17:34 --> Model Class Initialized
+DEBUG - 2013-12-11 21:17:34 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:17:34 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:17:34 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:17:34 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:17:34 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:17:34 --> DB Transaction Failure
+ERROR - 2013-12-11 21:17:34 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:17:34 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:17:35 --> Config Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:17:35 --> URI Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> Router Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> Output Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> Security Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> Input Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:17:35 --> Language Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:17:35 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:17:35 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> Model Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:17:35 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:17:35 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:17:35 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:17:35 --> DB Transaction Failure
+ERROR - 2013-12-11 21:17:35 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:17:35 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:17:35 --> Config Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:17:35 --> URI Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> Router Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> Output Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> Security Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> Input Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:17:35 --> Language Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:17:35 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:17:35 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> Model Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:17:35 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:17:35 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:17:35 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:17:35 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:17:35 --> DB Transaction Failure
+ERROR - 2013-12-11 21:17:35 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:17:35 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:19:17 --> Config Class Initialized
+DEBUG - 2013-12-11 21:19:17 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:19:17 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:19:17 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:19:17 --> URI Class Initialized
+DEBUG - 2013-12-11 21:19:17 --> Router Class Initialized
+DEBUG - 2013-12-11 21:19:17 --> Output Class Initialized
+DEBUG - 2013-12-11 21:19:17 --> Security Class Initialized
+DEBUG - 2013-12-11 21:19:17 --> Input Class Initialized
+DEBUG - 2013-12-11 21:19:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:19:17 --> Language Class Initialized
+DEBUG - 2013-12-11 21:19:17 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:19:17 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:19:17 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:19:17 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:19:17 --> Model Class Initialized
+DEBUG - 2013-12-11 21:19:17 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:19:17 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:19:17 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:19:17 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:19:17 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:19:17 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:19:17 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:19:17 --> Final output sent to browser
+DEBUG - 2013-12-11 21:19:17 --> Total execution time: 0.0657
+DEBUG - 2013-12-11 21:19:19 --> Config Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:19:19 --> URI Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> Router Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> Output Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> Security Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> Input Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:19:19 --> Language Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:19:19 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:19:19 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> Model Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:19:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:19:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:19:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:19:19 --> DB Transaction Failure
+ERROR - 2013-12-11 21:19:19 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:19:19 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:19:19 --> Config Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:19:19 --> URI Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> Router Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> Output Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> Security Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> Input Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:19:19 --> Language Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:19:19 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:19:19 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> Model Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:19:19 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:19:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:19:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:19:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:19:19 --> DB Transaction Failure
+ERROR - 2013-12-11 21:19:19 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:19:19 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:19:21 --> Config Class Initialized
+DEBUG - 2013-12-11 21:19:21 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:19:21 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:19:21 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:19:21 --> URI Class Initialized
+DEBUG - 2013-12-11 21:19:21 --> Router Class Initialized
+DEBUG - 2013-12-11 21:19:21 --> Output Class Initialized
+DEBUG - 2013-12-11 21:19:21 --> Security Class Initialized
+DEBUG - 2013-12-11 21:19:21 --> Input Class Initialized
+DEBUG - 2013-12-11 21:19:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:19:21 --> Language Class Initialized
+DEBUG - 2013-12-11 21:19:21 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:19:21 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:19:21 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:19:21 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:19:21 --> Model Class Initialized
+DEBUG - 2013-12-11 21:19:21 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:19:21 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:19:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:19:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:19:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:19:21 --> DB Transaction Failure
+ERROR - 2013-12-11 21:19:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:19:21 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:19:22 --> Config Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:19:22 --> URI Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> Router Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> Output Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> Security Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> Input Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:19:22 --> Language Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:19:22 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:19:22 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> Model Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:19:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:19:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:19:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:19:22 --> DB Transaction Failure
+ERROR - 2013-12-11 21:19:22 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:19:22 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:19:22 --> Config Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:19:22 --> URI Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> Router Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> Output Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> Security Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> Input Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:19:22 --> Language Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:19:22 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:19:22 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> Model Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:19:22 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:19:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:19:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:19:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:19:22 --> DB Transaction Failure
+ERROR - 2013-12-11 21:19:22 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:19:22 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:20:15 --> Config Class Initialized
+DEBUG - 2013-12-11 21:20:15 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:20:15 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:20:15 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:20:15 --> URI Class Initialized
+DEBUG - 2013-12-11 21:20:15 --> Router Class Initialized
+DEBUG - 2013-12-11 21:20:15 --> Output Class Initialized
+DEBUG - 2013-12-11 21:20:15 --> Security Class Initialized
+DEBUG - 2013-12-11 21:20:15 --> Input Class Initialized
+DEBUG - 2013-12-11 21:20:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:20:15 --> Language Class Initialized
+DEBUG - 2013-12-11 21:20:15 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:20:15 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:20:15 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:20:15 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:20:15 --> Model Class Initialized
+DEBUG - 2013-12-11 21:20:15 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:20:15 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:20:15 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:20:15 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:20:15 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:20:15 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:20:15 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:20:15 --> Final output sent to browser
+DEBUG - 2013-12-11 21:20:15 --> Total execution time: 0.0607
+DEBUG - 2013-12-11 21:20:17 --> Config Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:20:17 --> URI Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> Router Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> Output Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> Security Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> Input Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:20:17 --> Language Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:20:17 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:20:17 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> Model Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:20:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:20:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:20:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:20:17 --> DB Transaction Failure
+ERROR - 2013-12-11 21:20:17 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:20:17 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:20:17 --> Config Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:20:17 --> URI Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> Router Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> Output Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> Security Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> Input Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:20:17 --> Language Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:20:17 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:20:17 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> Model Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:20:17 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:20:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:20:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:20:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:20:17 --> DB Transaction Failure
+ERROR - 2013-12-11 21:20:17 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:20:17 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:20:18 --> Config Class Initialized
+DEBUG - 2013-12-11 21:20:18 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:20:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:20:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:20:18 --> URI Class Initialized
+DEBUG - 2013-12-11 21:20:18 --> Router Class Initialized
+DEBUG - 2013-12-11 21:20:18 --> Output Class Initialized
+DEBUG - 2013-12-11 21:20:18 --> Security Class Initialized
+DEBUG - 2013-12-11 21:20:18 --> Input Class Initialized
+DEBUG - 2013-12-11 21:20:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:20:18 --> Language Class Initialized
+DEBUG - 2013-12-11 21:20:18 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:20:18 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:20:18 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:20:18 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:20:18 --> Model Class Initialized
+DEBUG - 2013-12-11 21:20:18 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:20:18 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:20:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:20:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:20:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:20:18 --> DB Transaction Failure
+ERROR - 2013-12-11 21:20:18 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:20:18 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:20:20 --> Config Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:20:20 --> URI Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> Router Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> Output Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> Security Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> Input Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:20:20 --> Language Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:20:20 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:20:20 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> Model Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:20:20 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:20:20 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:20:20 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:20:20 --> DB Transaction Failure
+ERROR - 2013-12-11 21:20:20 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:20:20 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:20:20 --> Config Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:20:20 --> URI Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> Router Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> Output Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> Security Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> Input Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:20:20 --> Language Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:20:20 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:20:20 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> Model Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:20:20 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:20:20 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:20:20 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:20:20 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:20:20 --> DB Transaction Failure
+ERROR - 2013-12-11 21:20:20 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:20:20 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:20:44 --> Config Class Initialized
+DEBUG - 2013-12-11 21:20:44 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:20:44 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:20:44 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:20:44 --> URI Class Initialized
+DEBUG - 2013-12-11 21:20:44 --> Router Class Initialized
+DEBUG - 2013-12-11 21:20:44 --> Output Class Initialized
+DEBUG - 2013-12-11 21:20:44 --> Security Class Initialized
+DEBUG - 2013-12-11 21:20:44 --> Input Class Initialized
+DEBUG - 2013-12-11 21:20:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:20:44 --> Language Class Initialized
+DEBUG - 2013-12-11 21:20:44 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:20:44 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:20:44 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:20:44 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:20:44 --> Model Class Initialized
+DEBUG - 2013-12-11 21:20:44 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:20:44 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:20:44 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:20:44 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:20:44 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:20:44 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:20:44 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:20:44 --> Final output sent to browser
+DEBUG - 2013-12-11 21:20:44 --> Total execution time: 0.0570
+DEBUG - 2013-12-11 21:20:45 --> Config Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:20:45 --> URI Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> Router Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> Output Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> Security Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> Input Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:20:45 --> Language Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:20:45 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:20:45 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> Model Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:20:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:20:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:20:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:20:45 --> DB Transaction Failure
+ERROR - 2013-12-11 21:20:45 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:20:45 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:20:45 --> Config Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:20:45 --> URI Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> Router Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> Output Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> Security Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> Input Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:20:45 --> Language Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:20:45 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:20:45 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> Model Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:20:45 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:20:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:20:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:20:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:20:46 --> DB Transaction Failure
+ERROR - 2013-12-11 21:20:46 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:20:46 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:20:47 --> Config Class Initialized
+DEBUG - 2013-12-11 21:20:47 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:20:47 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:20:47 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:20:47 --> URI Class Initialized
+DEBUG - 2013-12-11 21:20:47 --> Router Class Initialized
+DEBUG - 2013-12-11 21:20:47 --> Output Class Initialized
+DEBUG - 2013-12-11 21:20:47 --> Security Class Initialized
+DEBUG - 2013-12-11 21:20:47 --> Input Class Initialized
+DEBUG - 2013-12-11 21:20:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:20:47 --> Language Class Initialized
+DEBUG - 2013-12-11 21:20:47 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:20:47 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:20:47 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:20:47 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:20:47 --> Model Class Initialized
+DEBUG - 2013-12-11 21:20:47 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:20:47 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:20:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:20:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:20:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:20:47 --> DB Transaction Failure
+ERROR - 2013-12-11 21:20:47 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:20:47 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:20:48 --> Config Class Initialized
+DEBUG - 2013-12-11 21:20:48 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:20:48 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:20:48 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:20:48 --> URI Class Initialized
+DEBUG - 2013-12-11 21:20:48 --> Router Class Initialized
+DEBUG - 2013-12-11 21:20:48 --> Output Class Initialized
+DEBUG - 2013-12-11 21:20:48 --> Security Class Initialized
+DEBUG - 2013-12-11 21:20:48 --> Input Class Initialized
+DEBUG - 2013-12-11 21:20:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:20:48 --> Language Class Initialized
+DEBUG - 2013-12-11 21:20:48 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:20:48 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:20:48 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:20:48 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:20:48 --> Model Class Initialized
+DEBUG - 2013-12-11 21:20:48 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:20:48 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:20:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:20:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:20:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:20:49 --> DB Transaction Failure
+ERROR - 2013-12-11 21:20:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:20:49 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:20:49 --> Config Class Initialized
+DEBUG - 2013-12-11 21:20:49 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:20:49 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:20:49 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:20:49 --> URI Class Initialized
+DEBUG - 2013-12-11 21:20:49 --> Router Class Initialized
+DEBUG - 2013-12-11 21:20:49 --> Output Class Initialized
+DEBUG - 2013-12-11 21:20:49 --> Security Class Initialized
+DEBUG - 2013-12-11 21:20:49 --> Input Class Initialized
+DEBUG - 2013-12-11 21:20:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:20:49 --> Language Class Initialized
+DEBUG - 2013-12-11 21:20:49 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:20:49 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:20:49 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:20:49 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:20:49 --> Model Class Initialized
+DEBUG - 2013-12-11 21:20:49 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:20:49 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:20:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:20:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:20:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:20:49 --> DB Transaction Failure
+ERROR - 2013-12-11 21:20:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:20:49 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:20:54 --> Config Class Initialized
+DEBUG - 2013-12-11 21:20:54 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:20:54 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:20:54 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:20:54 --> URI Class Initialized
+DEBUG - 2013-12-11 21:20:54 --> Router Class Initialized
+DEBUG - 2013-12-11 21:20:54 --> Output Class Initialized
+DEBUG - 2013-12-11 21:20:54 --> Security Class Initialized
+DEBUG - 2013-12-11 21:20:54 --> Input Class Initialized
+DEBUG - 2013-12-11 21:20:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:20:54 --> Language Class Initialized
+DEBUG - 2013-12-11 21:20:54 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:20:54 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:20:54 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:20:54 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:20:54 --> Model Class Initialized
+DEBUG - 2013-12-11 21:20:54 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:20:54 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:20:54 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:20:54 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:20:54 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:20:54 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:20:54 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:20:54 --> Final output sent to browser
+DEBUG - 2013-12-11 21:20:54 --> Total execution time: 0.0728
+DEBUG - 2013-12-11 21:20:56 --> Config Class Initialized
+DEBUG - 2013-12-11 21:20:56 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:20:56 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:20:56 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:20:56 --> URI Class Initialized
+DEBUG - 2013-12-11 21:20:56 --> Router Class Initialized
+DEBUG - 2013-12-11 21:20:56 --> Output Class Initialized
+DEBUG - 2013-12-11 21:20:56 --> Security Class Initialized
+DEBUG - 2013-12-11 21:20:56 --> Input Class Initialized
+DEBUG - 2013-12-11 21:20:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:20:56 --> Language Class Initialized
+DEBUG - 2013-12-11 21:20:56 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:20:56 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:20:56 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:20:56 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:20:56 --> Model Class Initialized
+DEBUG - 2013-12-11 21:20:56 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:20:56 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:20:56 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:20:56 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:20:56 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:20:56 --> DB Transaction Failure
+ERROR - 2013-12-11 21:20:56 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:20:56 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:20:56 --> Config Class Initialized
+DEBUG - 2013-12-11 21:20:56 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:20:56 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:20:56 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:20:56 --> URI Class Initialized
+DEBUG - 2013-12-11 21:20:56 --> Router Class Initialized
+DEBUG - 2013-12-11 21:20:56 --> Output Class Initialized
+DEBUG - 2013-12-11 21:20:56 --> Security Class Initialized
+DEBUG - 2013-12-11 21:20:56 --> Input Class Initialized
+DEBUG - 2013-12-11 21:20:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:20:56 --> Language Class Initialized
+DEBUG - 2013-12-11 21:20:56 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:20:57 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:20:57 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:20:57 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:20:57 --> Model Class Initialized
+DEBUG - 2013-12-11 21:20:57 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:20:57 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:20:57 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:20:57 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:20:57 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:20:57 --> DB Transaction Failure
+ERROR - 2013-12-11 21:20:57 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:20:57 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:20:58 --> Config Class Initialized
+DEBUG - 2013-12-11 21:20:58 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:20:58 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:20:58 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:20:58 --> URI Class Initialized
+DEBUG - 2013-12-11 21:20:58 --> Router Class Initialized
+DEBUG - 2013-12-11 21:20:58 --> Output Class Initialized
+DEBUG - 2013-12-11 21:20:58 --> Security Class Initialized
+DEBUG - 2013-12-11 21:20:58 --> Input Class Initialized
+DEBUG - 2013-12-11 21:20:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:20:58 --> Language Class Initialized
+DEBUG - 2013-12-11 21:20:58 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:20:58 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:20:58 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:20:58 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:20:58 --> Model Class Initialized
+DEBUG - 2013-12-11 21:20:58 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:20:58 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:20:58 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:20:58 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:20:58 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:20:58 --> DB Transaction Failure
+ERROR - 2013-12-11 21:20:58 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:20:58 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:20:59 --> Config Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:20:59 --> URI Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> Router Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> Output Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> Security Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> Input Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:20:59 --> Language Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:20:59 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:20:59 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> Model Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:20:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:20:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:20:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:20:59 --> DB Transaction Failure
+ERROR - 2013-12-11 21:20:59 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:20:59 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:20:59 --> Config Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:20:59 --> URI Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> Router Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> Output Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> Security Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> Input Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:20:59 --> Language Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:20:59 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:20:59 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> Model Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:20:59 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:20:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:20:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:20:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:20:59 --> DB Transaction Failure
+ERROR - 2013-12-11 21:20:59 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:20:59 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:21:27 --> Config Class Initialized
+DEBUG - 2013-12-11 21:21:27 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:21:27 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:21:27 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:21:27 --> URI Class Initialized
+DEBUG - 2013-12-11 21:21:27 --> Router Class Initialized
+DEBUG - 2013-12-11 21:21:27 --> Output Class Initialized
+DEBUG - 2013-12-11 21:21:27 --> Security Class Initialized
+DEBUG - 2013-12-11 21:21:27 --> Input Class Initialized
+DEBUG - 2013-12-11 21:21:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:21:27 --> Language Class Initialized
+DEBUG - 2013-12-11 21:21:27 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:21:27 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:21:27 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:21:27 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:21:27 --> Model Class Initialized
+DEBUG - 2013-12-11 21:21:27 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:21:27 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:21:27 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:21:27 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:21:27 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:21:27 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:21:27 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:21:27 --> Final output sent to browser
+DEBUG - 2013-12-11 21:21:27 --> Total execution time: 0.0585
+DEBUG - 2013-12-11 21:21:29 --> Config Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:21:29 --> URI Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> Router Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> Output Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> Security Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> Input Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:21:29 --> Language Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:21:29 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:21:29 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> Model Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:21:29 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:21:29 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:21:29 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:21:29 --> DB Transaction Failure
+ERROR - 2013-12-11 21:21:29 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:21:29 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:21:29 --> Config Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:21:29 --> URI Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> Router Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> Output Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> Security Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> Input Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:21:29 --> Language Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:21:29 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:21:29 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> Model Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:21:29 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:21:29 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:21:29 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:21:29 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:21:29 --> DB Transaction Failure
+ERROR - 2013-12-11 21:21:29 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:21:29 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:21:31 --> Config Class Initialized
+DEBUG - 2013-12-11 21:21:31 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:21:31 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:21:31 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:21:31 --> URI Class Initialized
+DEBUG - 2013-12-11 21:21:31 --> Router Class Initialized
+DEBUG - 2013-12-11 21:21:31 --> Output Class Initialized
+DEBUG - 2013-12-11 21:21:31 --> Security Class Initialized
+DEBUG - 2013-12-11 21:21:31 --> Input Class Initialized
+DEBUG - 2013-12-11 21:21:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:21:31 --> Language Class Initialized
+DEBUG - 2013-12-11 21:21:31 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:21:31 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:21:31 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:21:31 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:21:31 --> Model Class Initialized
+DEBUG - 2013-12-11 21:21:31 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:21:31 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:21:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:21:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:21:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:21:31 --> DB Transaction Failure
+ERROR - 2013-12-11 21:21:31 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:21:31 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:21:32 --> Config Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:21:32 --> URI Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> Router Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> Output Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> Security Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> Input Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:21:32 --> Language Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:21:32 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:21:32 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> Model Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:21:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:21:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:21:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:21:32 --> DB Transaction Failure
+ERROR - 2013-12-11 21:21:32 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:21:32 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:21:32 --> Config Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:21:32 --> URI Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> Router Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> Output Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> Security Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> Input Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:21:32 --> Language Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:21:32 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:21:32 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> Model Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:21:32 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:21:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:21:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:21:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:21:32 --> DB Transaction Failure
+ERROR - 2013-12-11 21:21:32 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:21:32 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:21:45 --> Config Class Initialized
+DEBUG - 2013-12-11 21:21:45 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:21:45 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:21:45 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:21:45 --> URI Class Initialized
+DEBUG - 2013-12-11 21:21:45 --> Router Class Initialized
+DEBUG - 2013-12-11 21:21:45 --> Output Class Initialized
+DEBUG - 2013-12-11 21:21:45 --> Security Class Initialized
+DEBUG - 2013-12-11 21:21:45 --> Input Class Initialized
+DEBUG - 2013-12-11 21:21:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:21:45 --> Language Class Initialized
+DEBUG - 2013-12-11 21:21:45 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:21:45 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:21:45 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:21:45 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:21:45 --> Model Class Initialized
+DEBUG - 2013-12-11 21:21:45 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:21:45 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:21:45 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:21:45 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:21:45 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:21:45 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:21:45 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:21:45 --> Final output sent to browser
+DEBUG - 2013-12-11 21:21:45 --> Total execution time: 0.0641
+DEBUG - 2013-12-11 21:21:47 --> Config Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:21:47 --> URI Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> Router Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> Output Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> Security Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> Input Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:21:47 --> Language Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:21:47 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:21:47 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> Model Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:21:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:21:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:21:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:21:47 --> DB Transaction Failure
+ERROR - 2013-12-11 21:21:47 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:21:47 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:21:47 --> Config Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:21:47 --> URI Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> Router Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> Output Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> Security Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> Input Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:21:47 --> Language Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:21:47 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:21:47 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> Model Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:21:47 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:21:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:21:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:21:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:21:47 --> DB Transaction Failure
+ERROR - 2013-12-11 21:21:47 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:21:47 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:21:48 --> Config Class Initialized
+DEBUG - 2013-12-11 21:21:48 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:21:48 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:21:48 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:21:48 --> URI Class Initialized
+DEBUG - 2013-12-11 21:21:48 --> Router Class Initialized
+DEBUG - 2013-12-11 21:21:48 --> Output Class Initialized
+DEBUG - 2013-12-11 21:21:48 --> Security Class Initialized
+DEBUG - 2013-12-11 21:21:48 --> Input Class Initialized
+DEBUG - 2013-12-11 21:21:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:21:48 --> Language Class Initialized
+DEBUG - 2013-12-11 21:21:48 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:21:48 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:21:48 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:21:48 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:21:48 --> Model Class Initialized
+DEBUG - 2013-12-11 21:21:48 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:21:48 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:21:48 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:21:48 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:21:48 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:21:48 --> DB Transaction Failure
+ERROR - 2013-12-11 21:21:48 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:21:48 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:21:49 --> Config Class Initialized
+DEBUG - 2013-12-11 21:21:49 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:21:49 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:21:49 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:21:49 --> URI Class Initialized
+DEBUG - 2013-12-11 21:21:49 --> Router Class Initialized
+DEBUG - 2013-12-11 21:21:49 --> Output Class Initialized
+DEBUG - 2013-12-11 21:21:49 --> Security Class Initialized
+DEBUG - 2013-12-11 21:21:49 --> Input Class Initialized
+DEBUG - 2013-12-11 21:21:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:21:49 --> Language Class Initialized
+DEBUG - 2013-12-11 21:21:49 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:21:49 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:21:49 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:21:49 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:21:49 --> Model Class Initialized
+DEBUG - 2013-12-11 21:21:49 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:21:49 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:21:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:21:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:21:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:21:49 --> DB Transaction Failure
+ERROR - 2013-12-11 21:21:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:21:49 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:21:49 --> Config Class Initialized
+DEBUG - 2013-12-11 21:21:49 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:21:49 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:21:49 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:21:50 --> URI Class Initialized
+DEBUG - 2013-12-11 21:21:50 --> Router Class Initialized
+DEBUG - 2013-12-11 21:21:50 --> Output Class Initialized
+DEBUG - 2013-12-11 21:21:50 --> Security Class Initialized
+DEBUG - 2013-12-11 21:21:50 --> Input Class Initialized
+DEBUG - 2013-12-11 21:21:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:21:50 --> Language Class Initialized
+DEBUG - 2013-12-11 21:21:50 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:21:50 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:21:50 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:21:50 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:21:50 --> Model Class Initialized
+DEBUG - 2013-12-11 21:21:50 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:21:50 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:21:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:21:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:21:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:21:50 --> DB Transaction Failure
+ERROR - 2013-12-11 21:21:50 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:21:50 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:21:57 --> Config Class Initialized
+DEBUG - 2013-12-11 21:21:57 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:21:57 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:21:57 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:21:57 --> URI Class Initialized
+DEBUG - 2013-12-11 21:21:57 --> Router Class Initialized
+DEBUG - 2013-12-11 21:21:57 --> Output Class Initialized
+DEBUG - 2013-12-11 21:21:57 --> Security Class Initialized
+DEBUG - 2013-12-11 21:21:57 --> Input Class Initialized
+DEBUG - 2013-12-11 21:21:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:21:57 --> Language Class Initialized
+DEBUG - 2013-12-11 21:21:57 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:21:57 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:21:57 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:21:57 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:21:57 --> Model Class Initialized
+DEBUG - 2013-12-11 21:21:57 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:21:57 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:21:57 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:21:57 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:21:57 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:21:57 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:21:57 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:21:57 --> Final output sent to browser
+DEBUG - 2013-12-11 21:21:57 --> Total execution time: 0.0753
+DEBUG - 2013-12-11 21:21:59 --> Config Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:21:59 --> URI Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> Router Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> Output Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> Security Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> Input Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:21:59 --> Language Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:21:59 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:21:59 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> Model Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:21:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:21:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:21:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:21:59 --> DB Transaction Failure
+ERROR - 2013-12-11 21:21:59 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:21:59 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:21:59 --> Config Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:21:59 --> URI Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> Router Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> Output Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> Security Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> Input Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:21:59 --> Language Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:21:59 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:21:59 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> Model Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:21:59 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:21:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:21:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:21:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:21:59 --> DB Transaction Failure
+ERROR - 2013-12-11 21:21:59 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:21:59 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:22:01 --> Config Class Initialized
+DEBUG - 2013-12-11 21:22:01 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:22:01 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:22:01 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:22:01 --> URI Class Initialized
+DEBUG - 2013-12-11 21:22:01 --> Router Class Initialized
+DEBUG - 2013-12-11 21:22:01 --> Output Class Initialized
+DEBUG - 2013-12-11 21:22:01 --> Security Class Initialized
+DEBUG - 2013-12-11 21:22:01 --> Input Class Initialized
+DEBUG - 2013-12-11 21:22:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:22:01 --> Language Class Initialized
+DEBUG - 2013-12-11 21:22:01 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:22:01 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:22:01 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:22:01 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:22:01 --> Model Class Initialized
+DEBUG - 2013-12-11 21:22:01 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:22:01 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:22:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:22:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:22:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:22:01 --> DB Transaction Failure
+ERROR - 2013-12-11 21:22:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:22:01 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:22:02 --> Config Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:22:02 --> URI Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> Router Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> Output Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> Security Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> Input Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:22:02 --> Language Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:22:02 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:22:02 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> Model Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:22:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:22:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:22:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:22:02 --> DB Transaction Failure
+ERROR - 2013-12-11 21:22:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:22:02 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:22:02 --> Config Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:22:02 --> URI Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> Router Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> Output Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> Security Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> Input Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:22:02 --> Language Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:22:02 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:22:02 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> Model Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:22:02 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:22:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:22:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:22:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:22:02 --> DB Transaction Failure
+ERROR - 2013-12-11 21:22:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:22:02 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:22:21 --> Config Class Initialized
+DEBUG - 2013-12-11 21:22:21 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:22:21 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:22:21 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:22:21 --> URI Class Initialized
+DEBUG - 2013-12-11 21:22:21 --> Router Class Initialized
+DEBUG - 2013-12-11 21:22:21 --> Output Class Initialized
+DEBUG - 2013-12-11 21:22:21 --> Security Class Initialized
+DEBUG - 2013-12-11 21:22:21 --> Input Class Initialized
+DEBUG - 2013-12-11 21:22:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:22:21 --> Language Class Initialized
+DEBUG - 2013-12-11 21:22:21 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:22:21 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:22:21 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:22:21 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:22:21 --> Model Class Initialized
+DEBUG - 2013-12-11 21:22:21 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:22:21 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:22:21 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:22:21 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:22:21 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:22:21 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:22:21 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:22:21 --> Final output sent to browser
+DEBUG - 2013-12-11 21:22:21 --> Total execution time: 0.0601
+DEBUG - 2013-12-11 21:22:23 --> Config Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:22:23 --> URI Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> Router Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> Output Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> Security Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> Input Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:22:23 --> Language Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:22:23 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:22:23 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> Model Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:22:23 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:22:23 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:22:23 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:22:23 --> DB Transaction Failure
+ERROR - 2013-12-11 21:22:23 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:22:23 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:22:23 --> Config Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:22:23 --> URI Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> Router Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> Output Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> Security Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> Input Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:22:23 --> Language Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:22:23 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:22:23 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> Model Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:22:23 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:22:23 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:22:23 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:22:23 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:22:23 --> DB Transaction Failure
+ERROR - 2013-12-11 21:22:23 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:22:23 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:22:24 --> Config Class Initialized
+DEBUG - 2013-12-11 21:22:24 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:22:24 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:22:24 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:22:24 --> URI Class Initialized
+DEBUG - 2013-12-11 21:22:24 --> Router Class Initialized
+DEBUG - 2013-12-11 21:22:24 --> Output Class Initialized
+DEBUG - 2013-12-11 21:22:24 --> Security Class Initialized
+DEBUG - 2013-12-11 21:22:24 --> Input Class Initialized
+DEBUG - 2013-12-11 21:22:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:22:24 --> Language Class Initialized
+DEBUG - 2013-12-11 21:22:24 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:22:24 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:22:24 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:22:24 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:22:24 --> Model Class Initialized
+DEBUG - 2013-12-11 21:22:24 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:22:24 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:22:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:22:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:22:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:22:24 --> DB Transaction Failure
+ERROR - 2013-12-11 21:22:24 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:22:24 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:22:25 --> Config Class Initialized
+DEBUG - 2013-12-11 21:22:25 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:22:25 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:22:25 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:22:25 --> URI Class Initialized
+DEBUG - 2013-12-11 21:22:25 --> Router Class Initialized
+DEBUG - 2013-12-11 21:22:25 --> Output Class Initialized
+DEBUG - 2013-12-11 21:22:25 --> Security Class Initialized
+DEBUG - 2013-12-11 21:22:25 --> Input Class Initialized
+DEBUG - 2013-12-11 21:22:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:22:25 --> Language Class Initialized
+DEBUG - 2013-12-11 21:22:25 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:22:25 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:22:25 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:22:25 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:22:25 --> Model Class Initialized
+DEBUG - 2013-12-11 21:22:25 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:22:25 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:22:25 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:22:25 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:22:25 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:22:25 --> DB Transaction Failure
+ERROR - 2013-12-11 21:22:25 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:22:25 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:22:25 --> Config Class Initialized
+DEBUG - 2013-12-11 21:22:25 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:22:25 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:22:25 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:22:25 --> URI Class Initialized
+DEBUG - 2013-12-11 21:22:25 --> Router Class Initialized
+DEBUG - 2013-12-11 21:22:25 --> Output Class Initialized
+DEBUG - 2013-12-11 21:22:25 --> Security Class Initialized
+DEBUG - 2013-12-11 21:22:25 --> Input Class Initialized
+DEBUG - 2013-12-11 21:22:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:22:25 --> Language Class Initialized
+DEBUG - 2013-12-11 21:22:25 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:22:25 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:22:25 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:22:25 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:22:25 --> Model Class Initialized
+DEBUG - 2013-12-11 21:22:26 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:22:26 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:22:26 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:22:26 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:22:26 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:22:26 --> DB Transaction Failure
+ERROR - 2013-12-11 21:22:26 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:22:26 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:22:32 --> Config Class Initialized
+DEBUG - 2013-12-11 21:22:32 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:22:32 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:22:32 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:22:32 --> URI Class Initialized
+DEBUG - 2013-12-11 21:22:32 --> Router Class Initialized
+DEBUG - 2013-12-11 21:22:32 --> Output Class Initialized
+DEBUG - 2013-12-11 21:22:32 --> Security Class Initialized
+DEBUG - 2013-12-11 21:22:32 --> Input Class Initialized
+DEBUG - 2013-12-11 21:22:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:22:32 --> Language Class Initialized
+DEBUG - 2013-12-11 21:22:32 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:22:32 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:22:32 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:22:32 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:22:32 --> Model Class Initialized
+DEBUG - 2013-12-11 21:22:32 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:22:32 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:22:32 --> Final output sent to browser
+DEBUG - 2013-12-11 21:22:32 --> Total execution time: 0.1225
+DEBUG - 2013-12-11 21:23:30 --> Config Class Initialized
+DEBUG - 2013-12-11 21:23:30 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:23:30 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:23:30 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:23:30 --> URI Class Initialized
+DEBUG - 2013-12-11 21:23:30 --> Router Class Initialized
+DEBUG - 2013-12-11 21:23:30 --> Output Class Initialized
+DEBUG - 2013-12-11 21:23:30 --> Security Class Initialized
+DEBUG - 2013-12-11 21:23:30 --> Input Class Initialized
+DEBUG - 2013-12-11 21:23:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:23:30 --> Language Class Initialized
+DEBUG - 2013-12-11 21:23:30 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:23:30 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:23:30 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:23:30 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:23:30 --> Model Class Initialized
+DEBUG - 2013-12-11 21:23:30 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:23:30 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:23:30 --> Final output sent to browser
+DEBUG - 2013-12-11 21:23:30 --> Total execution time: 0.1624
+DEBUG - 2013-12-11 21:23:55 --> Config Class Initialized
+DEBUG - 2013-12-11 21:23:55 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:23:55 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:23:55 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:23:55 --> URI Class Initialized
+DEBUG - 2013-12-11 21:23:55 --> Router Class Initialized
+DEBUG - 2013-12-11 21:23:55 --> Output Class Initialized
+DEBUG - 2013-12-11 21:23:55 --> Security Class Initialized
+DEBUG - 2013-12-11 21:23:55 --> Input Class Initialized
+DEBUG - 2013-12-11 21:23:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:23:55 --> Language Class Initialized
+DEBUG - 2013-12-11 21:23:55 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:23:55 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:23:55 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:23:55 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:23:55 --> Model Class Initialized
+DEBUG - 2013-12-11 21:23:55 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:23:55 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:23:55 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:23:55 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:23:55 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:23:55 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:23:55 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:23:55 --> Final output sent to browser
+DEBUG - 2013-12-11 21:23:55 --> Total execution time: 0.0617
+DEBUG - 2013-12-11 21:23:57 --> Config Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:23:57 --> URI Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> Router Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> Output Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> Security Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> Input Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:23:57 --> Language Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:23:57 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:23:57 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> Model Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:23:57 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:23:57 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:23:57 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:23:57 --> DB Transaction Failure
+ERROR - 2013-12-11 21:23:57 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:23:57 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:23:57 --> Config Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:23:57 --> URI Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> Router Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> Output Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> Security Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> Input Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:23:57 --> Language Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:23:57 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:23:57 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> Model Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:23:57 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:23:57 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:23:57 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:23:57 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:23:57 --> DB Transaction Failure
+ERROR - 2013-12-11 21:23:57 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:23:57 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:23:58 --> Config Class Initialized
+DEBUG - 2013-12-11 21:23:58 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:23:58 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:23:58 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:23:58 --> URI Class Initialized
+DEBUG - 2013-12-11 21:23:58 --> Router Class Initialized
+DEBUG - 2013-12-11 21:23:58 --> Output Class Initialized
+DEBUG - 2013-12-11 21:23:58 --> Security Class Initialized
+DEBUG - 2013-12-11 21:23:58 --> Input Class Initialized
+DEBUG - 2013-12-11 21:23:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:23:58 --> Language Class Initialized
+DEBUG - 2013-12-11 21:23:58 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:23:58 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:23:58 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:23:58 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:23:58 --> Model Class Initialized
+DEBUG - 2013-12-11 21:23:58 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:23:58 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:23:58 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:23:58 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:23:58 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:23:58 --> DB Transaction Failure
+ERROR - 2013-12-11 21:23:58 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:23:58 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:23:59 --> Config Class Initialized
+DEBUG - 2013-12-11 21:23:59 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:23:59 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:23:59 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:23:59 --> URI Class Initialized
+DEBUG - 2013-12-11 21:23:59 --> Router Class Initialized
+DEBUG - 2013-12-11 21:23:59 --> Output Class Initialized
+DEBUG - 2013-12-11 21:23:59 --> Security Class Initialized
+DEBUG - 2013-12-11 21:23:59 --> Input Class Initialized
+DEBUG - 2013-12-11 21:23:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:23:59 --> Language Class Initialized
+DEBUG - 2013-12-11 21:23:59 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:23:59 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:23:59 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:23:59 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:23:59 --> Model Class Initialized
+DEBUG - 2013-12-11 21:23:59 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:23:59 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:23:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:24:00 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:24:00 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:24:00 --> DB Transaction Failure
+ERROR - 2013-12-11 21:24:00 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:24:00 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:24:00 --> Config Class Initialized
+DEBUG - 2013-12-11 21:24:00 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:24:00 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:24:00 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:24:00 --> URI Class Initialized
+DEBUG - 2013-12-11 21:24:00 --> Router Class Initialized
+DEBUG - 2013-12-11 21:24:00 --> Output Class Initialized
+DEBUG - 2013-12-11 21:24:00 --> Security Class Initialized
+DEBUG - 2013-12-11 21:24:00 --> Input Class Initialized
+DEBUG - 2013-12-11 21:24:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:24:00 --> Language Class Initialized
+DEBUG - 2013-12-11 21:24:00 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:24:00 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:24:00 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:24:00 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:24:00 --> Model Class Initialized
+DEBUG - 2013-12-11 21:24:00 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:24:00 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:24:00 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:24:00 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:24:00 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:24:00 --> DB Transaction Failure
+ERROR - 2013-12-11 21:24:00 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:24:00 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:25:45 --> Config Class Initialized
+DEBUG - 2013-12-11 21:25:45 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:25:45 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:25:45 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:25:45 --> URI Class Initialized
+DEBUG - 2013-12-11 21:25:45 --> Router Class Initialized
+DEBUG - 2013-12-11 21:25:45 --> Output Class Initialized
+DEBUG - 2013-12-11 21:25:45 --> Security Class Initialized
+DEBUG - 2013-12-11 21:25:45 --> Input Class Initialized
+DEBUG - 2013-12-11 21:25:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:25:45 --> Language Class Initialized
+DEBUG - 2013-12-11 21:25:45 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:25:45 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:25:45 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:25:45 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:25:45 --> Model Class Initialized
+DEBUG - 2013-12-11 21:25:45 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:25:45 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:25:45 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:25:45 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:25:45 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:25:45 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:25:45 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:25:45 --> Final output sent to browser
+DEBUG - 2013-12-11 21:25:45 --> Total execution time: 0.0634
+DEBUG - 2013-12-11 21:25:46 --> Config Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:25:46 --> URI Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> Router Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> Output Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> Security Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> Input Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:25:46 --> Language Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:25:46 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:25:46 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> Model Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:25:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:25:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:25:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:25:46 --> DB Transaction Failure
+ERROR - 2013-12-11 21:25:46 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:25:46 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:25:46 --> Config Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:25:46 --> URI Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> Router Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> Output Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> Security Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> Input Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:25:46 --> Language Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:25:46 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:25:46 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> Model Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:25:46 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:25:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:25:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:25:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:25:46 --> DB Transaction Failure
+ERROR - 2013-12-11 21:25:46 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:25:46 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:25:47 --> Config Class Initialized
+DEBUG - 2013-12-11 21:25:47 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:25:47 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:25:47 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:25:47 --> URI Class Initialized
+DEBUG - 2013-12-11 21:25:47 --> Router Class Initialized
+DEBUG - 2013-12-11 21:25:47 --> Output Class Initialized
+DEBUG - 2013-12-11 21:25:47 --> Security Class Initialized
+DEBUG - 2013-12-11 21:25:47 --> Input Class Initialized
+DEBUG - 2013-12-11 21:25:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:25:47 --> Language Class Initialized
+DEBUG - 2013-12-11 21:25:47 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:25:47 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:25:47 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:25:47 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:25:47 --> Model Class Initialized
+DEBUG - 2013-12-11 21:25:47 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:25:47 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:25:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:25:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:25:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:25:47 --> DB Transaction Failure
+ERROR - 2013-12-11 21:25:47 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:25:47 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:25:48 --> Config Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:25:48 --> URI Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> Router Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> Output Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> Security Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> Input Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:25:48 --> Language Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:25:48 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:25:48 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> Model Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:25:48 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:25:48 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:25:48 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:25:48 --> DB Transaction Failure
+ERROR - 2013-12-11 21:25:48 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:25:48 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:25:48 --> Config Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:25:48 --> URI Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> Router Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> Output Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> Security Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> Input Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:25:48 --> Language Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:25:48 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:25:48 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> Model Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:25:48 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:25:48 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:25:48 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:25:48 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:25:48 --> DB Transaction Failure
+ERROR - 2013-12-11 21:25:48 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:25:48 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:26:00 --> Config Class Initialized
+DEBUG - 2013-12-11 21:26:00 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:26:00 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:26:00 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:26:00 --> URI Class Initialized
+DEBUG - 2013-12-11 21:26:00 --> Router Class Initialized
+DEBUG - 2013-12-11 21:26:00 --> Output Class Initialized
+DEBUG - 2013-12-11 21:26:00 --> Security Class Initialized
+DEBUG - 2013-12-11 21:26:00 --> Input Class Initialized
+DEBUG - 2013-12-11 21:26:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:26:00 --> Language Class Initialized
+DEBUG - 2013-12-11 21:26:00 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:26:00 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:26:00 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:26:00 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:26:00 --> Model Class Initialized
+DEBUG - 2013-12-11 21:26:00 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:26:00 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:26:00 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:26:00 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:26:00 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:26:00 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:26:00 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:26:00 --> Final output sent to browser
+DEBUG - 2013-12-11 21:26:00 --> Total execution time: 0.0582
+DEBUG - 2013-12-11 21:26:01 --> Config Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:26:01 --> URI Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> Router Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> Output Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> Security Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> Input Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:26:01 --> Language Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:26:01 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:26:01 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> Model Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:26:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:26:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:26:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:26:01 --> DB Transaction Failure
+ERROR - 2013-12-11 21:26:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:26:01 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:26:01 --> Config Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:26:01 --> URI Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> Router Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> Output Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> Security Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> Input Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:26:01 --> Language Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:26:01 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:26:01 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> Model Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:26:01 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:26:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:26:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:26:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:26:01 --> DB Transaction Failure
+ERROR - 2013-12-11 21:26:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:26:01 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:26:02 --> Config Class Initialized
+DEBUG - 2013-12-11 21:26:02 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:26:02 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:26:02 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:26:02 --> URI Class Initialized
+DEBUG - 2013-12-11 21:26:02 --> Router Class Initialized
+DEBUG - 2013-12-11 21:26:02 --> Output Class Initialized
+DEBUG - 2013-12-11 21:26:02 --> Security Class Initialized
+DEBUG - 2013-12-11 21:26:02 --> Input Class Initialized
+DEBUG - 2013-12-11 21:26:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:26:02 --> Language Class Initialized
+DEBUG - 2013-12-11 21:26:02 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:26:02 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:26:02 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:26:02 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:26:02 --> Model Class Initialized
+DEBUG - 2013-12-11 21:26:02 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:26:02 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:26:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:26:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:26:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:26:02 --> DB Transaction Failure
+ERROR - 2013-12-11 21:26:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:26:02 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:26:03 --> Config Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:26:03 --> URI Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> Router Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> Output Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> Security Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> Input Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:26:03 --> Language Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:26:03 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:26:03 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> Model Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:26:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:26:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:26:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:26:03 --> DB Transaction Failure
+ERROR - 2013-12-11 21:26:03 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:26:03 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:26:03 --> Config Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:26:03 --> URI Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> Router Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> Output Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> Security Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> Input Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:26:03 --> Language Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:26:03 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:26:03 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> Model Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:26:03 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:26:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:26:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:26:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:26:03 --> DB Transaction Failure
+ERROR - 2013-12-11 21:26:03 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:26:03 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:26:20 --> Config Class Initialized
+DEBUG - 2013-12-11 21:26:20 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:26:20 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:26:20 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:26:20 --> URI Class Initialized
+DEBUG - 2013-12-11 21:26:20 --> Router Class Initialized
+DEBUG - 2013-12-11 21:26:20 --> Output Class Initialized
+DEBUG - 2013-12-11 21:26:20 --> Security Class Initialized
+DEBUG - 2013-12-11 21:26:20 --> Input Class Initialized
+DEBUG - 2013-12-11 21:26:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:26:20 --> Language Class Initialized
+DEBUG - 2013-12-11 21:26:20 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:26:20 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:26:20 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:26:20 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:26:20 --> Model Class Initialized
+DEBUG - 2013-12-11 21:26:20 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:26:20 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:26:20 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:26:20 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:26:20 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:26:20 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:26:20 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:26:20 --> Final output sent to browser
+DEBUG - 2013-12-11 21:26:21 --> Total execution time: 0.0600
+DEBUG - 2013-12-11 21:26:22 --> Config Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:26:22 --> URI Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Router Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Output Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Security Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Input Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:26:22 --> Language Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:26:22 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:26:22 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Model Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:26:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:26:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:26:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:26:22 --> DB Transaction Failure
+ERROR - 2013-12-11 21:26:22 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:26:22 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:26:22 --> Config Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:26:22 --> URI Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Router Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Output Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Security Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Input Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:26:22 --> Language Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:26:22 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:26:22 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Model Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:26:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:26:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:26:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:26:22 --> DB Transaction Failure
+ERROR - 2013-12-11 21:26:22 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:26:22 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:26:22 --> Config Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:26:22 --> URI Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Router Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Output Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Security Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Input Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:26:22 --> Language Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:26:22 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:26:22 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Model Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:26:22 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:26:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:26:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:26:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:26:22 --> DB Transaction Failure
+ERROR - 2013-12-11 21:26:23 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:26:23 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:26:23 --> Config Class Initialized
+DEBUG - 2013-12-11 21:26:23 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:26:23 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:26:23 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:26:23 --> URI Class Initialized
+DEBUG - 2013-12-11 21:26:23 --> Router Class Initialized
+DEBUG - 2013-12-11 21:26:23 --> Output Class Initialized
+DEBUG - 2013-12-11 21:26:23 --> Security Class Initialized
+DEBUG - 2013-12-11 21:26:23 --> Input Class Initialized
+DEBUG - 2013-12-11 21:26:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:26:23 --> Language Class Initialized
+DEBUG - 2013-12-11 21:26:23 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:26:23 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:26:23 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:26:23 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:26:23 --> Model Class Initialized
+DEBUG - 2013-12-11 21:26:23 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:26:23 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:26:23 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:26:23 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:26:23 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:26:23 --> DB Transaction Failure
+ERROR - 2013-12-11 21:26:23 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:26:23 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:26:23 --> Config Class Initialized
+DEBUG - 2013-12-11 21:26:23 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:26:23 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:26:23 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:26:23 --> URI Class Initialized
+DEBUG - 2013-12-11 21:26:23 --> Router Class Initialized
+DEBUG - 2013-12-11 21:26:23 --> Output Class Initialized
+DEBUG - 2013-12-11 21:26:23 --> Security Class Initialized
+DEBUG - 2013-12-11 21:26:23 --> Input Class Initialized
+DEBUG - 2013-12-11 21:26:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:26:23 --> Language Class Initialized
+DEBUG - 2013-12-11 21:26:23 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:26:23 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:26:24 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:26:24 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:26:24 --> Model Class Initialized
+DEBUG - 2013-12-11 21:26:24 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:26:24 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:26:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:26:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:26:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:26:24 --> DB Transaction Failure
+ERROR - 2013-12-11 21:26:24 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:26:24 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:26:43 --> Config Class Initialized
+DEBUG - 2013-12-11 21:26:43 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:26:43 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:26:43 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:26:43 --> URI Class Initialized
+DEBUG - 2013-12-11 21:26:43 --> Router Class Initialized
+DEBUG - 2013-12-11 21:26:43 --> Output Class Initialized
+DEBUG - 2013-12-11 21:26:43 --> Security Class Initialized
+DEBUG - 2013-12-11 21:26:43 --> Input Class Initialized
+DEBUG - 2013-12-11 21:26:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:26:43 --> Language Class Initialized
+DEBUG - 2013-12-11 21:26:43 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:26:43 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:26:43 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:26:43 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:26:43 --> Model Class Initialized
+DEBUG - 2013-12-11 21:26:43 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:26:43 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:26:43 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:26:43 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:26:43 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:26:43 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:26:43 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:26:43 --> Final output sent to browser
+DEBUG - 2013-12-11 21:26:43 --> Total execution time: 0.0578
+DEBUG - 2013-12-11 21:26:45 --> Config Class Initialized
+DEBUG - 2013-12-11 21:26:45 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:26:45 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:26:45 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:26:45 --> URI Class Initialized
+DEBUG - 2013-12-11 21:26:45 --> Router Class Initialized
+DEBUG - 2013-12-11 21:26:45 --> Output Class Initialized
+DEBUG - 2013-12-11 21:26:45 --> Security Class Initialized
+DEBUG - 2013-12-11 21:26:45 --> Input Class Initialized
+DEBUG - 2013-12-11 21:26:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:26:45 --> Language Class Initialized
+DEBUG - 2013-12-11 21:26:45 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:26:45 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:26:45 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:26:45 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:26:45 --> Model Class Initialized
+DEBUG - 2013-12-11 21:26:45 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:26:45 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:26:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:26:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:26:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:26:45 --> DB Transaction Failure
+ERROR - 2013-12-11 21:26:45 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:26:45 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:26:46 --> Config Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:26:46 --> URI Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> Router Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> Output Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> Security Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> Input Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:26:46 --> Language Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:26:46 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:26:46 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> Model Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:26:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:26:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:26:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:26:46 --> DB Transaction Failure
+ERROR - 2013-12-11 21:26:46 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:26:46 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:26:46 --> Config Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:26:46 --> URI Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> Router Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> Output Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> Security Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> Input Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:26:46 --> Language Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:26:46 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:26:46 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> Model Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:26:46 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:26:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:26:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:26:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:26:46 --> DB Transaction Failure
+ERROR - 2013-12-11 21:26:46 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:26:46 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:27:03 --> Config Class Initialized
+DEBUG - 2013-12-11 21:27:03 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:27:03 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:27:03 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:27:03 --> URI Class Initialized
+DEBUG - 2013-12-11 21:27:03 --> Router Class Initialized
+DEBUG - 2013-12-11 21:27:03 --> Output Class Initialized
+DEBUG - 2013-12-11 21:27:03 --> Security Class Initialized
+DEBUG - 2013-12-11 21:27:03 --> Input Class Initialized
+DEBUG - 2013-12-11 21:27:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:27:03 --> Language Class Initialized
+DEBUG - 2013-12-11 21:27:03 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:27:03 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:27:03 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:27:03 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:27:03 --> Model Class Initialized
+DEBUG - 2013-12-11 21:27:03 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:27:03 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:27:03 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:27:03 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:27:03 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:27:03 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:27:03 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:27:03 --> Final output sent to browser
+DEBUG - 2013-12-11 21:27:03 --> Total execution time: 0.0556
+DEBUG - 2013-12-11 21:27:04 --> Config Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:27:04 --> URI Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Router Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Output Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Security Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Input Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:27:04 --> Language Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:27:04 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:27:04 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Model Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:27:04 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:27:04 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:27:04 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:27:04 --> DB Transaction Failure
+ERROR - 2013-12-11 21:27:04 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:27:04 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:27:04 --> Config Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:27:04 --> URI Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Router Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Output Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Security Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Input Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:27:04 --> Language Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:27:04 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:27:04 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Model Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:27:04 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:27:04 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:27:04 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:27:04 --> DB Transaction Failure
+ERROR - 2013-12-11 21:27:04 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:27:04 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:27:04 --> Config Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:27:04 --> URI Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Router Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Output Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Security Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Input Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:27:04 --> Language Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:27:04 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:27:04 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Model Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:27:04 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:27:04 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:27:04 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:27:04 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:27:04 --> DB Transaction Failure
+ERROR - 2013-12-11 21:27:04 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:27:04 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:27:05 --> Config Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:27:05 --> URI Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> Router Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> Output Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> Security Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> Input Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:27:05 --> Language Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:27:05 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:27:05 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> Model Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:27:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:27:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:27:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:27:05 --> DB Transaction Failure
+ERROR - 2013-12-11 21:27:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:27:05 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:27:05 --> Config Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:27:05 --> URI Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> Router Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> Output Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> Security Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> Input Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:27:05 --> Language Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:27:05 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:27:05 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> Model Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:27:05 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:27:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:27:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:27:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:27:05 --> DB Transaction Failure
+ERROR - 2013-12-11 21:27:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:27:05 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:27:24 --> Config Class Initialized
+DEBUG - 2013-12-11 21:27:24 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:27:24 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:27:24 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:27:24 --> URI Class Initialized
+DEBUG - 2013-12-11 21:27:24 --> Router Class Initialized
+DEBUG - 2013-12-11 21:27:24 --> Output Class Initialized
+DEBUG - 2013-12-11 21:27:24 --> Security Class Initialized
+DEBUG - 2013-12-11 21:27:24 --> Input Class Initialized
+DEBUG - 2013-12-11 21:27:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:27:24 --> Language Class Initialized
+DEBUG - 2013-12-11 21:27:24 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:27:24 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:27:24 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:27:24 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:27:24 --> Model Class Initialized
+DEBUG - 2013-12-11 21:27:24 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:27:24 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:27:24 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:27:24 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:27:24 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:27:24 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:27:24 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:27:24 --> Final output sent to browser
+DEBUG - 2013-12-11 21:27:24 --> Total execution time: 0.0555
+DEBUG - 2013-12-11 21:27:25 --> Config Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:27:25 --> URI Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> Router Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> Output Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> Security Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> Input Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:27:25 --> Language Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:27:25 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:27:25 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> Model Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:27:25 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:27:25 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:27:25 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:27:25 --> DB Transaction Failure
+ERROR - 2013-12-11 21:27:25 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:27:25 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:27:25 --> Config Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:27:25 --> URI Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> Router Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> Output Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> Security Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> Input Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:27:25 --> Language Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:27:25 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:27:25 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> Model Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:27:25 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:27:25 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:27:25 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:27:25 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:27:25 --> DB Transaction Failure
+ERROR - 2013-12-11 21:27:25 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:27:25 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:27:26 --> Config Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:27:26 --> URI Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> Router Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> Output Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> Security Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> Input Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:27:26 --> Language Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:27:26 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:27:26 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> Model Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:27:26 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:27:26 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:27:26 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:27:26 --> DB Transaction Failure
+ERROR - 2013-12-11 21:27:26 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:27:26 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:27:26 --> Config Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:27:26 --> URI Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> Router Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> Output Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> Security Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> Input Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:27:26 --> Language Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:27:26 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:27:26 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> Model Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:27:26 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:27:26 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:27:26 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:27:26 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:27:26 --> DB Transaction Failure
+ERROR - 2013-12-11 21:27:26 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:27:26 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:27:27 --> Config Class Initialized
+DEBUG - 2013-12-11 21:27:27 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:27:27 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:27:27 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:27:27 --> URI Class Initialized
+DEBUG - 2013-12-11 21:27:27 --> Router Class Initialized
+DEBUG - 2013-12-11 21:27:27 --> Output Class Initialized
+DEBUG - 2013-12-11 21:27:27 --> Security Class Initialized
+DEBUG - 2013-12-11 21:27:27 --> Input Class Initialized
+DEBUG - 2013-12-11 21:27:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:27:27 --> Language Class Initialized
+DEBUG - 2013-12-11 21:27:27 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:27:27 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:27:27 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:27:27 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:27:27 --> Model Class Initialized
+DEBUG - 2013-12-11 21:27:27 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:27:27 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:27:27 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:27:27 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:27:27 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:27:27 --> DB Transaction Failure
+ERROR - 2013-12-11 21:27:27 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:27:27 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:28:03 --> Config Class Initialized
+DEBUG - 2013-12-11 21:28:03 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:28:03 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:28:03 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:28:03 --> URI Class Initialized
+DEBUG - 2013-12-11 21:28:03 --> Router Class Initialized
+DEBUG - 2013-12-11 21:28:03 --> Output Class Initialized
+DEBUG - 2013-12-11 21:28:03 --> Security Class Initialized
+DEBUG - 2013-12-11 21:28:03 --> Input Class Initialized
+DEBUG - 2013-12-11 21:28:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:28:03 --> Language Class Initialized
+DEBUG - 2013-12-11 21:28:03 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:28:03 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:28:03 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:28:03 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:28:03 --> Model Class Initialized
+DEBUG - 2013-12-11 21:28:03 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:28:03 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:28:03 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:28:03 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:28:03 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:28:03 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:28:03 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:28:03 --> Final output sent to browser
+DEBUG - 2013-12-11 21:28:03 --> Total execution time: 0.0565
+DEBUG - 2013-12-11 21:28:04 --> Config Class Initialized
+DEBUG - 2013-12-11 21:28:04 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:28:04 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:28:04 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:28:04 --> URI Class Initialized
+DEBUG - 2013-12-11 21:28:04 --> Router Class Initialized
+DEBUG - 2013-12-11 21:28:04 --> Output Class Initialized
+DEBUG - 2013-12-11 21:28:04 --> Security Class Initialized
+DEBUG - 2013-12-11 21:28:04 --> Input Class Initialized
+DEBUG - 2013-12-11 21:28:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:28:04 --> Language Class Initialized
+DEBUG - 2013-12-11 21:28:04 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:28:04 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:28:04 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:28:04 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:28:04 --> Model Class Initialized
+DEBUG - 2013-12-11 21:28:04 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:28:04 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:28:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:28:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:28:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:28:05 --> DB Transaction Failure
+ERROR - 2013-12-11 21:28:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:28:05 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:28:05 --> Config Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:28:05 --> URI Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> Router Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> Output Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> Security Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> Input Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:28:05 --> Language Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:28:05 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:28:05 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> Model Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:28:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:28:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:28:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:28:05 --> DB Transaction Failure
+ERROR - 2013-12-11 21:28:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:28:05 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:28:05 --> Config Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:28:05 --> URI Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> Router Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> Output Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> Security Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> Input Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:28:05 --> Language Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:28:05 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:28:05 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> Model Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:28:05 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:28:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:28:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:28:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:28:05 --> DB Transaction Failure
+ERROR - 2013-12-11 21:28:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:28:05 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:28:06 --> Config Class Initialized
+DEBUG - 2013-12-11 21:28:06 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:28:06 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:28:06 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:28:06 --> URI Class Initialized
+DEBUG - 2013-12-11 21:28:06 --> Router Class Initialized
+DEBUG - 2013-12-11 21:28:06 --> Output Class Initialized
+DEBUG - 2013-12-11 21:28:06 --> Security Class Initialized
+DEBUG - 2013-12-11 21:28:06 --> Input Class Initialized
+DEBUG - 2013-12-11 21:28:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:28:06 --> Language Class Initialized
+DEBUG - 2013-12-11 21:28:06 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:28:06 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:28:06 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:28:06 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:28:06 --> Model Class Initialized
+DEBUG - 2013-12-11 21:28:06 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:28:06 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:28:06 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:28:06 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:28:06 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:28:06 --> DB Transaction Failure
+ERROR - 2013-12-11 21:28:06 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:28:06 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:28:06 --> Config Class Initialized
+DEBUG - 2013-12-11 21:28:06 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:28:06 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:28:06 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:28:06 --> URI Class Initialized
+DEBUG - 2013-12-11 21:28:06 --> Router Class Initialized
+DEBUG - 2013-12-11 21:28:06 --> Output Class Initialized
+DEBUG - 2013-12-11 21:28:06 --> Security Class Initialized
+DEBUG - 2013-12-11 21:28:06 --> Input Class Initialized
+DEBUG - 2013-12-11 21:28:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:28:07 --> Language Class Initialized
+DEBUG - 2013-12-11 21:28:07 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:28:07 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:28:07 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:28:07 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:28:07 --> Model Class Initialized
+DEBUG - 2013-12-11 21:28:07 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:28:07 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:28:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:28:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:28:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:28:07 --> DB Transaction Failure
+ERROR - 2013-12-11 21:28:07 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:28:07 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:28:10 --> Config Class Initialized
+DEBUG - 2013-12-11 21:28:10 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:28:10 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:28:10 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:28:10 --> URI Class Initialized
+DEBUG - 2013-12-11 21:28:10 --> Router Class Initialized
+DEBUG - 2013-12-11 21:28:10 --> Output Class Initialized
+DEBUG - 2013-12-11 21:28:10 --> Security Class Initialized
+DEBUG - 2013-12-11 21:28:10 --> Input Class Initialized
+DEBUG - 2013-12-11 21:28:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:28:10 --> Language Class Initialized
+DEBUG - 2013-12-11 21:28:10 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:28:10 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:28:10 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:28:10 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:28:10 --> Model Class Initialized
+DEBUG - 2013-12-11 21:28:10 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:28:10 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:28:10 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:28:10 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:28:10 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:28:10 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:28:10 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:28:10 --> Final output sent to browser
+DEBUG - 2013-12-11 21:28:10 --> Total execution time: 0.0591
+DEBUG - 2013-12-11 21:28:11 --> Config Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:28:11 --> URI Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Router Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Output Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Security Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Input Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:28:11 --> Language Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:28:11 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:28:11 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Model Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:28:11 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:28:11 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:28:11 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:28:11 --> DB Transaction Failure
+ERROR - 2013-12-11 21:28:11 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:28:11 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:28:11 --> Config Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:28:11 --> URI Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Router Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Output Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Security Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Input Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:28:11 --> Language Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:28:11 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:28:11 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Model Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:28:11 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:28:11 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:28:11 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:28:11 --> DB Transaction Failure
+ERROR - 2013-12-11 21:28:11 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:28:11 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:28:11 --> Config Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:28:11 --> URI Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Router Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Output Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Security Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Input Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:28:11 --> Language Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:28:11 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:28:11 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Model Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:28:11 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:28:11 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:28:11 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:28:11 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:28:11 --> DB Transaction Failure
+ERROR - 2013-12-11 21:28:11 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:28:11 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:28:12 --> Config Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:28:12 --> URI Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> Router Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> Output Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> Security Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> Input Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:28:12 --> Language Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:28:12 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:28:12 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> Model Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:28:12 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:28:12 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:28:12 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:28:12 --> DB Transaction Failure
+ERROR - 2013-12-11 21:28:12 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:28:12 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:28:12 --> Config Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:28:12 --> URI Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> Router Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> Output Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> Security Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> Input Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:28:12 --> Language Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:28:12 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:28:12 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> Model Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:28:12 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:28:12 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:28:12 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:28:12 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:28:12 --> DB Transaction Failure
+ERROR - 2013-12-11 21:28:12 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:28:12 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:28:19 --> Config Class Initialized
+DEBUG - 2013-12-11 21:28:19 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:28:19 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:28:19 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:28:19 --> URI Class Initialized
+DEBUG - 2013-12-11 21:28:19 --> Router Class Initialized
+DEBUG - 2013-12-11 21:28:19 --> Output Class Initialized
+DEBUG - 2013-12-11 21:28:19 --> Security Class Initialized
+DEBUG - 2013-12-11 21:28:19 --> Input Class Initialized
+DEBUG - 2013-12-11 21:28:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:28:19 --> Language Class Initialized
+DEBUG - 2013-12-11 21:28:19 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:28:19 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:28:19 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:28:19 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:28:19 --> Model Class Initialized
+DEBUG - 2013-12-11 21:28:19 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:28:19 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:28:19 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:28:19 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:28:19 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:28:19 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:28:19 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:28:19 --> Final output sent to browser
+DEBUG - 2013-12-11 21:28:19 --> Total execution time: 0.0575
+DEBUG - 2013-12-11 21:28:20 --> Config Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:28:20 --> URI Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Router Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Output Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Security Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Input Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:28:20 --> Language Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:28:20 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:28:20 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Model Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:28:20 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:28:20 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:28:20 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:28:20 --> DB Transaction Failure
+ERROR - 2013-12-11 21:28:20 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:28:20 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:28:20 --> Config Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:28:20 --> URI Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Router Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Output Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Security Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Input Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:28:20 --> Language Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:28:20 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:28:20 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Model Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:28:20 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:28:20 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:28:20 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:28:20 --> DB Transaction Failure
+ERROR - 2013-12-11 21:28:20 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:28:20 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:28:20 --> Config Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:28:20 --> URI Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Router Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Output Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Security Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Input Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:28:20 --> Language Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:28:20 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:28:20 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Model Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:28:20 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:28:20 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:28:20 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:28:20 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:28:20 --> DB Transaction Failure
+ERROR - 2013-12-11 21:28:20 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:28:20 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:28:21 --> Config Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:28:21 --> URI Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> Router Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> Output Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> Security Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> Input Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:28:21 --> Language Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:28:21 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:28:21 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> Model Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:28:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:28:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:28:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:28:21 --> DB Transaction Failure
+ERROR - 2013-12-11 21:28:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:28:21 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:28:21 --> Config Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:28:21 --> URI Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> Router Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> Output Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> Security Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> Input Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:28:21 --> Language Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:28:21 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:28:21 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> Model Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:28:21 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:28:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:28:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:28:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:28:21 --> DB Transaction Failure
+ERROR - 2013-12-11 21:28:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:28:21 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:28:50 --> Config Class Initialized
+DEBUG - 2013-12-11 21:28:50 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:28:50 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:28:50 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:28:50 --> URI Class Initialized
+DEBUG - 2013-12-11 21:28:50 --> Router Class Initialized
+DEBUG - 2013-12-11 21:28:50 --> Output Class Initialized
+DEBUG - 2013-12-11 21:28:50 --> Security Class Initialized
+DEBUG - 2013-12-11 21:28:50 --> Input Class Initialized
+DEBUG - 2013-12-11 21:28:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:28:50 --> Language Class Initialized
+DEBUG - 2013-12-11 21:28:50 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:28:50 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:28:50 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:28:50 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:28:50 --> Model Class Initialized
+DEBUG - 2013-12-11 21:28:50 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:28:50 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:28:50 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:28:50 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:28:50 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:28:50 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:28:50 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:28:50 --> Final output sent to browser
+DEBUG - 2013-12-11 21:28:50 --> Total execution time: 0.0548
+DEBUG - 2013-12-11 21:28:51 --> Config Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:28:51 --> URI Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> Router Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> Output Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> Security Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> Input Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:28:51 --> Language Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:28:51 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:28:51 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> Model Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:28:51 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:28:51 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:28:51 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:28:51 --> DB Transaction Failure
+ERROR - 2013-12-11 21:28:51 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:28:51 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:28:51 --> Config Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:28:51 --> URI Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> Router Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> Output Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> Security Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> Input Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:28:51 --> Language Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:28:51 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:28:51 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> Model Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:28:51 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:28:51 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:28:51 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:28:51 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:28:51 --> DB Transaction Failure
+ERROR - 2013-12-11 21:28:51 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:28:51 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:28:52 --> Config Class Initialized
+DEBUG - 2013-12-11 21:28:52 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:28:52 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:28:52 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:28:52 --> URI Class Initialized
+DEBUG - 2013-12-11 21:28:52 --> Router Class Initialized
+DEBUG - 2013-12-11 21:28:52 --> Output Class Initialized
+DEBUG - 2013-12-11 21:28:52 --> Security Class Initialized
+DEBUG - 2013-12-11 21:28:52 --> Input Class Initialized
+DEBUG - 2013-12-11 21:28:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:28:52 --> Language Class Initialized
+DEBUG - 2013-12-11 21:28:52 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:28:52 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:28:52 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:28:52 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:28:52 --> Model Class Initialized
+DEBUG - 2013-12-11 21:28:52 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:28:52 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:28:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:28:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:28:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:28:52 --> DB Transaction Failure
+ERROR - 2013-12-11 21:28:52 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:28:52 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:28:53 --> Config Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:28:53 --> URI Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> Router Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> Output Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> Security Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> Input Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:28:53 --> Language Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:28:53 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:28:53 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> Model Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:28:53 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:28:53 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:28:53 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:28:53 --> DB Transaction Failure
+ERROR - 2013-12-11 21:28:53 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:28:53 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:28:53 --> Config Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:28:53 --> URI Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> Router Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> Output Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> Security Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> Input Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:28:53 --> Language Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:28:53 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:28:53 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> Model Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:28:53 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:28:53 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:28:53 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:28:53 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:28:53 --> DB Transaction Failure
+ERROR - 2013-12-11 21:28:53 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:28:53 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:29:30 --> Config Class Initialized
+DEBUG - 2013-12-11 21:29:30 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:29:30 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:29:30 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:29:30 --> URI Class Initialized
+DEBUG - 2013-12-11 21:29:30 --> Router Class Initialized
+DEBUG - 2013-12-11 21:29:30 --> Output Class Initialized
+DEBUG - 2013-12-11 21:29:30 --> Security Class Initialized
+DEBUG - 2013-12-11 21:29:30 --> Input Class Initialized
+DEBUG - 2013-12-11 21:29:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:29:30 --> Language Class Initialized
+DEBUG - 2013-12-11 21:29:30 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:29:30 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:29:30 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:29:30 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:29:30 --> Model Class Initialized
+DEBUG - 2013-12-11 21:29:30 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:29:30 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:29:30 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:29:30 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:29:30 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:29:30 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:29:30 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:29:30 --> Final output sent to browser
+DEBUG - 2013-12-11 21:29:30 --> Total execution time: 0.0548
+DEBUG - 2013-12-11 21:29:31 --> Config Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:29:31 --> URI Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> Router Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> Output Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> Security Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> Input Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:29:31 --> Language Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:29:31 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:29:31 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> Model Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:29:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:29:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:29:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:29:31 --> DB Transaction Failure
+ERROR - 2013-12-11 21:29:31 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:29:31 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:29:31 --> Config Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:29:31 --> URI Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> Router Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> Output Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> Security Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> Input Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:29:31 --> Language Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:29:31 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:29:31 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> Model Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:29:31 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:29:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:29:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:29:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:29:31 --> DB Transaction Failure
+ERROR - 2013-12-11 21:29:31 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:29:31 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:29:32 --> Config Class Initialized
+DEBUG - 2013-12-11 21:29:32 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:29:32 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:29:32 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:29:32 --> URI Class Initialized
+DEBUG - 2013-12-11 21:29:32 --> Router Class Initialized
+DEBUG - 2013-12-11 21:29:32 --> Output Class Initialized
+DEBUG - 2013-12-11 21:29:32 --> Security Class Initialized
+DEBUG - 2013-12-11 21:29:32 --> Input Class Initialized
+DEBUG - 2013-12-11 21:29:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:29:32 --> Language Class Initialized
+DEBUG - 2013-12-11 21:29:32 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:29:32 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:29:32 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:29:32 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:29:32 --> Model Class Initialized
+DEBUG - 2013-12-11 21:29:32 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:29:32 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:29:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:29:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:29:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:29:32 --> DB Transaction Failure
+ERROR - 2013-12-11 21:29:32 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:29:32 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:29:33 --> Config Class Initialized
+DEBUG - 2013-12-11 21:29:33 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:29:33 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:29:33 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:29:33 --> URI Class Initialized
+DEBUG - 2013-12-11 21:29:33 --> Router Class Initialized
+DEBUG - 2013-12-11 21:29:33 --> Output Class Initialized
+DEBUG - 2013-12-11 21:29:33 --> Security Class Initialized
+DEBUG - 2013-12-11 21:29:33 --> Input Class Initialized
+DEBUG - 2013-12-11 21:29:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:29:33 --> Language Class Initialized
+DEBUG - 2013-12-11 21:29:33 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:29:33 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:29:33 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:29:33 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:29:33 --> Model Class Initialized
+DEBUG - 2013-12-11 21:29:33 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:29:33 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:29:33 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:29:33 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:29:33 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:29:33 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:29:33 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:29:33 --> Final output sent to browser
+DEBUG - 2013-12-11 21:29:33 --> Total execution time: 0.0919
+DEBUG - 2013-12-11 21:29:34 --> Config Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:29:34 --> URI Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Router Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Output Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Security Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Input Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:29:34 --> Language Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:29:34 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:29:34 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Model Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:29:34 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:29:34 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:29:34 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:29:34 --> DB Transaction Failure
+ERROR - 2013-12-11 21:29:34 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:29:34 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:29:34 --> Config Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:29:34 --> URI Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Router Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Output Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Security Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Input Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:29:34 --> Language Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:29:34 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:29:34 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Model Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:29:34 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:29:34 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:29:34 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:29:34 --> DB Transaction Failure
+ERROR - 2013-12-11 21:29:34 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:29:34 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:29:34 --> Config Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:29:34 --> URI Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Router Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Output Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Security Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Input Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:29:34 --> Language Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:29:34 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:29:34 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Model Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:29:34 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:29:34 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:29:34 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:29:34 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:29:34 --> DB Transaction Failure
+ERROR - 2013-12-11 21:29:34 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:29:34 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:29:35 --> Config Class Initialized
+DEBUG - 2013-12-11 21:29:35 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:29:35 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:29:35 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:29:35 --> URI Class Initialized
+DEBUG - 2013-12-11 21:29:35 --> Router Class Initialized
+DEBUG - 2013-12-11 21:29:35 --> Output Class Initialized
+DEBUG - 2013-12-11 21:29:35 --> Security Class Initialized
+DEBUG - 2013-12-11 21:29:35 --> Input Class Initialized
+DEBUG - 2013-12-11 21:29:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:29:35 --> Language Class Initialized
+DEBUG - 2013-12-11 21:29:35 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:29:35 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:29:35 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:29:35 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:29:35 --> Model Class Initialized
+DEBUG - 2013-12-11 21:29:35 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:29:35 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:29:35 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:29:35 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:29:35 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:29:35 --> DB Transaction Failure
+ERROR - 2013-12-11 21:29:35 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:29:35 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:29:36 --> Config Class Initialized
+DEBUG - 2013-12-11 21:29:36 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:29:36 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:29:36 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:29:36 --> URI Class Initialized
+DEBUG - 2013-12-11 21:29:36 --> Router Class Initialized
+DEBUG - 2013-12-11 21:29:36 --> Output Class Initialized
+DEBUG - 2013-12-11 21:29:36 --> Security Class Initialized
+DEBUG - 2013-12-11 21:29:36 --> Input Class Initialized
+DEBUG - 2013-12-11 21:29:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:29:36 --> Language Class Initialized
+DEBUG - 2013-12-11 21:29:36 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:29:36 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:29:36 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:29:36 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:29:36 --> Model Class Initialized
+DEBUG - 2013-12-11 21:29:36 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:29:36 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:29:36 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:29:36 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:29:36 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:29:36 --> DB Transaction Failure
+ERROR - 2013-12-11 21:29:36 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:29:36 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:29:58 --> Config Class Initialized
+DEBUG - 2013-12-11 21:29:58 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:29:58 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:29:58 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:29:58 --> URI Class Initialized
+DEBUG - 2013-12-11 21:29:58 --> Router Class Initialized
+DEBUG - 2013-12-11 21:29:58 --> Output Class Initialized
+DEBUG - 2013-12-11 21:29:58 --> Security Class Initialized
+DEBUG - 2013-12-11 21:29:58 --> Input Class Initialized
+DEBUG - 2013-12-11 21:29:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:29:58 --> Language Class Initialized
+DEBUG - 2013-12-11 21:29:58 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:29:58 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:29:58 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:29:58 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:29:58 --> Model Class Initialized
+DEBUG - 2013-12-11 21:29:58 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:29:58 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:29:58 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:29:58 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:29:58 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:29:58 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:29:58 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:29:58 --> Final output sent to browser
+DEBUG - 2013-12-11 21:29:58 --> Total execution time: 0.0565
+DEBUG - 2013-12-11 21:30:00 --> Config Class Initialized
+DEBUG - 2013-12-11 21:30:00 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:30:00 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:30:00 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:30:00 --> URI Class Initialized
+DEBUG - 2013-12-11 21:30:00 --> Router Class Initialized
+DEBUG - 2013-12-11 21:30:00 --> Output Class Initialized
+DEBUG - 2013-12-11 21:30:00 --> Security Class Initialized
+DEBUG - 2013-12-11 21:30:00 --> Input Class Initialized
+DEBUG - 2013-12-11 21:30:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:30:00 --> Language Class Initialized
+DEBUG - 2013-12-11 21:30:00 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:30:00 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:30:00 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:30:00 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:30:00 --> Model Class Initialized
+DEBUG - 2013-12-11 21:30:00 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:30:00 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:30:00 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:30:00 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:30:00 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:30:00 --> DB Transaction Failure
+ERROR - 2013-12-11 21:30:00 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:30:00 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:30:01 --> Config Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:30:01 --> URI Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> Router Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> Output Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> Security Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> Input Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:30:01 --> Language Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:30:01 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:30:01 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> Model Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:30:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:30:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:30:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:30:01 --> DB Transaction Failure
+ERROR - 2013-12-11 21:30:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:30:01 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:30:01 --> Config Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:30:01 --> URI Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> Router Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> Output Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> Security Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> Input Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:30:01 --> Language Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:30:01 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:30:01 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> Model Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:30:01 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:30:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:30:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:30:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:30:01 --> DB Transaction Failure
+ERROR - 2013-12-11 21:30:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:30:01 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:30:49 --> Config Class Initialized
+DEBUG - 2013-12-11 21:30:49 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:30:49 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:30:49 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:30:49 --> URI Class Initialized
+DEBUG - 2013-12-11 21:30:49 --> Router Class Initialized
+DEBUG - 2013-12-11 21:30:49 --> Output Class Initialized
+DEBUG - 2013-12-11 21:30:49 --> Security Class Initialized
+DEBUG - 2013-12-11 21:30:49 --> Input Class Initialized
+DEBUG - 2013-12-11 21:30:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:30:49 --> Language Class Initialized
+DEBUG - 2013-12-11 21:30:49 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:30:49 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:30:49 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:30:49 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:30:49 --> Model Class Initialized
+DEBUG - 2013-12-11 21:30:49 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:30:49 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:30:49 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:30:49 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:30:49 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:30:49 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:30:49 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:30:49 --> Final output sent to browser
+DEBUG - 2013-12-11 21:30:49 --> Total execution time: 0.0553
+DEBUG - 2013-12-11 21:30:51 --> Config Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:30:51 --> URI Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> Router Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> Output Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> Security Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> Input Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:30:51 --> Language Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:30:51 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:30:51 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> Model Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:30:51 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:30:51 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:30:51 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:30:51 --> DB Transaction Failure
+ERROR - 2013-12-11 21:30:51 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:30:51 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:30:51 --> Config Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:30:51 --> URI Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> Router Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> Output Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> Security Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> Input Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:30:51 --> Language Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:30:51 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:30:51 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> Model Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:30:51 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:30:51 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:30:51 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:30:51 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:30:51 --> DB Transaction Failure
+ERROR - 2013-12-11 21:30:51 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:30:51 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:30:53 --> Config Class Initialized
+DEBUG - 2013-12-11 21:30:53 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:30:53 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:30:53 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:30:53 --> URI Class Initialized
+DEBUG - 2013-12-11 21:30:53 --> Router Class Initialized
+DEBUG - 2013-12-11 21:30:53 --> Output Class Initialized
+DEBUG - 2013-12-11 21:30:53 --> Security Class Initialized
+DEBUG - 2013-12-11 21:30:53 --> Input Class Initialized
+DEBUG - 2013-12-11 21:30:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:30:53 --> Language Class Initialized
+DEBUG - 2013-12-11 21:30:53 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:30:53 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:30:53 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:30:53 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:30:53 --> Model Class Initialized
+DEBUG - 2013-12-11 21:30:53 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:30:53 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:30:53 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:30:53 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:30:53 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:30:53 --> DB Transaction Failure
+ERROR - 2013-12-11 21:30:53 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:30:53 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:30:54 --> Config Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:30:54 --> URI Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> Router Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> Output Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> Security Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> Input Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:30:54 --> Language Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:30:54 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:30:54 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> Model Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:30:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:30:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:30:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:30:54 --> DB Transaction Failure
+ERROR - 2013-12-11 21:30:54 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:30:54 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:30:54 --> Config Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:30:54 --> URI Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> Router Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> Output Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> Security Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> Input Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:30:54 --> Language Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:30:54 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:30:54 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> Model Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:30:54 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:30:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:30:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:30:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:30:54 --> DB Transaction Failure
+ERROR - 2013-12-11 21:30:54 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:30:54 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:31:38 --> Config Class Initialized
+DEBUG - 2013-12-11 21:31:38 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:31:38 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:31:38 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:31:38 --> URI Class Initialized
+DEBUG - 2013-12-11 21:31:38 --> Router Class Initialized
+DEBUG - 2013-12-11 21:31:38 --> Output Class Initialized
+DEBUG - 2013-12-11 21:31:38 --> Security Class Initialized
+DEBUG - 2013-12-11 21:31:39 --> Input Class Initialized
+DEBUG - 2013-12-11 21:31:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:31:39 --> Language Class Initialized
+DEBUG - 2013-12-11 21:31:39 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:31:39 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:31:39 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:31:39 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:31:39 --> Model Class Initialized
+DEBUG - 2013-12-11 21:31:39 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:31:39 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:31:39 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:31:39 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:31:39 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:31:39 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:31:39 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:31:39 --> Final output sent to browser
+DEBUG - 2013-12-11 21:31:39 --> Total execution time: 0.0744
+DEBUG - 2013-12-11 21:31:40 --> Config Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:31:40 --> URI Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> Router Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> Output Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> Security Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> Input Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:31:40 --> Language Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:31:40 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:31:40 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> Model Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:31:40 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:31:40 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:31:40 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:31:40 --> DB Transaction Failure
+ERROR - 2013-12-11 21:31:40 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:31:40 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:31:40 --> Config Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:31:40 --> URI Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> Router Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> Output Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> Security Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> Input Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:31:40 --> Language Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:31:40 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:31:40 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> Model Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:31:40 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:31:40 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:31:40 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:31:40 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:31:40 --> DB Transaction Failure
+ERROR - 2013-12-11 21:31:40 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:31:40 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:31:42 --> Config Class Initialized
+DEBUG - 2013-12-11 21:31:42 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:31:42 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:31:42 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:31:42 --> URI Class Initialized
+DEBUG - 2013-12-11 21:31:42 --> Router Class Initialized
+DEBUG - 2013-12-11 21:31:42 --> Output Class Initialized
+DEBUG - 2013-12-11 21:31:42 --> Security Class Initialized
+DEBUG - 2013-12-11 21:31:42 --> Input Class Initialized
+DEBUG - 2013-12-11 21:31:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:31:42 --> Language Class Initialized
+DEBUG - 2013-12-11 21:31:42 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:31:42 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:31:42 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:31:42 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:31:42 --> Model Class Initialized
+DEBUG - 2013-12-11 21:31:42 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:31:42 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:31:42 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:31:42 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:31:42 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:31:42 --> DB Transaction Failure
+ERROR - 2013-12-11 21:31:42 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:31:42 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:31:44 --> Config Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:31:44 --> URI Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> Router Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> Output Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> Security Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> Input Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:31:44 --> Language Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:31:44 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:31:44 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> Model Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:31:44 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:31:44 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:31:44 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:31:44 --> DB Transaction Failure
+ERROR - 2013-12-11 21:31:44 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:31:44 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:31:44 --> Config Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:31:44 --> URI Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> Router Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> Output Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> Security Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> Input Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:31:44 --> Language Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:31:44 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:31:44 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> Model Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:31:44 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:31:44 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:31:44 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:31:44 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:31:44 --> DB Transaction Failure
+ERROR - 2013-12-11 21:31:44 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:31:44 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:32:12 --> Config Class Initialized
+DEBUG - 2013-12-11 21:32:12 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:32:12 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:32:12 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:32:12 --> URI Class Initialized
+DEBUG - 2013-12-11 21:32:12 --> Router Class Initialized
+DEBUG - 2013-12-11 21:32:12 --> Output Class Initialized
+DEBUG - 2013-12-11 21:32:12 --> Security Class Initialized
+DEBUG - 2013-12-11 21:32:12 --> Input Class Initialized
+DEBUG - 2013-12-11 21:32:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:32:12 --> Language Class Initialized
+DEBUG - 2013-12-11 21:32:12 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:32:12 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:32:12 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:32:12 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:32:12 --> Model Class Initialized
+DEBUG - 2013-12-11 21:32:12 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:32:12 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:32:12 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:32:12 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:32:12 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:32:12 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:32:12 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:32:12 --> Final output sent to browser
+DEBUG - 2013-12-11 21:32:12 --> Total execution time: 0.0557
+DEBUG - 2013-12-11 21:32:13 --> Config Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:32:13 --> URI Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> Router Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> Output Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> Security Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> Input Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:32:13 --> Language Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:32:13 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:32:13 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> Model Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:32:13 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:32:13 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:32:13 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:32:13 --> DB Transaction Failure
+ERROR - 2013-12-11 21:32:13 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:32:13 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:32:13 --> Config Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:32:13 --> URI Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> Router Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> Output Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> Security Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> Input Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:32:13 --> Language Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:32:13 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:32:13 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> Model Class Initialized
+DEBUG - 2013-12-11 21:32:13 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:32:14 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:32:14 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:32:14 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:32:14 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:32:14 --> DB Transaction Failure
+ERROR - 2013-12-11 21:32:14 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:32:14 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:32:15 --> Config Class Initialized
+DEBUG - 2013-12-11 21:32:15 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:32:15 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:32:15 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:32:15 --> URI Class Initialized
+DEBUG - 2013-12-11 21:32:15 --> Router Class Initialized
+DEBUG - 2013-12-11 21:32:15 --> Output Class Initialized
+DEBUG - 2013-12-11 21:32:15 --> Security Class Initialized
+DEBUG - 2013-12-11 21:32:15 --> Input Class Initialized
+DEBUG - 2013-12-11 21:32:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:32:15 --> Language Class Initialized
+DEBUG - 2013-12-11 21:32:15 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:32:15 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:32:15 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:32:15 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:32:15 --> Model Class Initialized
+DEBUG - 2013-12-11 21:32:15 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:32:15 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:32:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:32:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:32:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:32:15 --> DB Transaction Failure
+ERROR - 2013-12-11 21:32:15 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:32:15 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:32:16 --> Config Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:32:16 --> URI Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> Router Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> Output Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> Security Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> Input Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:32:16 --> Language Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:32:16 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:32:16 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> Model Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:32:16 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:32:16 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:32:16 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:32:16 --> DB Transaction Failure
+ERROR - 2013-12-11 21:32:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:32:16 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:32:16 --> Config Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:32:16 --> URI Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> Router Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> Output Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> Security Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> Input Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:32:16 --> Language Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:32:16 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:32:16 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> Model Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:32:16 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:32:16 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:32:16 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:32:16 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:32:16 --> DB Transaction Failure
+ERROR - 2013-12-11 21:32:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:32:16 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:32:44 --> Config Class Initialized
+DEBUG - 2013-12-11 21:32:44 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:32:44 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:32:44 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:32:44 --> URI Class Initialized
+DEBUG - 2013-12-11 21:32:44 --> Router Class Initialized
+DEBUG - 2013-12-11 21:32:44 --> Output Class Initialized
+DEBUG - 2013-12-11 21:32:44 --> Security Class Initialized
+DEBUG - 2013-12-11 21:32:44 --> Input Class Initialized
+DEBUG - 2013-12-11 21:32:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:32:44 --> Language Class Initialized
+DEBUG - 2013-12-11 21:32:44 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:32:44 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:32:44 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:32:44 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:32:44 --> Model Class Initialized
+DEBUG - 2013-12-11 21:32:44 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:32:44 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:32:44 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:32:44 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:32:44 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:32:44 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:32:44 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:32:44 --> Final output sent to browser
+DEBUG - 2013-12-11 21:32:44 --> Total execution time: 0.0555
+DEBUG - 2013-12-11 21:32:46 --> Config Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:32:46 --> URI Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> Router Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> Output Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> Security Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> Input Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:32:46 --> Language Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:32:46 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:32:46 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> Model Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:32:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:32:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:32:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:32:46 --> DB Transaction Failure
+ERROR - 2013-12-11 21:32:46 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:32:46 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:32:46 --> Config Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:32:46 --> URI Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> Router Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> Output Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> Security Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> Input Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:32:46 --> Language Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:32:46 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:32:46 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> Model Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:32:46 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:32:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:32:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:32:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:32:46 --> DB Transaction Failure
+ERROR - 2013-12-11 21:32:46 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:32:47 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:32:48 --> Config Class Initialized
+DEBUG - 2013-12-11 21:32:48 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:32:48 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:32:48 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:32:48 --> URI Class Initialized
+DEBUG - 2013-12-11 21:32:48 --> Router Class Initialized
+DEBUG - 2013-12-11 21:32:48 --> Output Class Initialized
+DEBUG - 2013-12-11 21:32:48 --> Security Class Initialized
+DEBUG - 2013-12-11 21:32:48 --> Input Class Initialized
+DEBUG - 2013-12-11 21:32:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:32:48 --> Language Class Initialized
+DEBUG - 2013-12-11 21:32:48 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:32:48 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:32:48 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:32:48 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:32:48 --> Model Class Initialized
+DEBUG - 2013-12-11 21:32:48 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:32:48 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:32:48 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:32:48 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:32:48 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:32:48 --> DB Transaction Failure
+ERROR - 2013-12-11 21:32:48 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:32:48 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:32:50 --> Config Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:32:50 --> URI Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> Router Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> Output Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> Security Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> Input Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:32:50 --> Language Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:32:50 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:32:50 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> Model Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:32:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:32:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:32:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:32:50 --> DB Transaction Failure
+ERROR - 2013-12-11 21:32:50 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:32:50 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:32:50 --> Config Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:32:50 --> URI Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> Router Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> Output Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> Security Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> Input Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:32:50 --> Language Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:32:50 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:32:50 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> Model Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:32:50 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:32:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:32:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:32:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:32:50 --> DB Transaction Failure
+ERROR - 2013-12-11 21:32:50 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:32:50 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:33:01 --> Config Class Initialized
+DEBUG - 2013-12-11 21:33:01 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:33:01 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:33:01 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:33:01 --> URI Class Initialized
+DEBUG - 2013-12-11 21:33:01 --> Router Class Initialized
+DEBUG - 2013-12-11 21:33:01 --> Output Class Initialized
+DEBUG - 2013-12-11 21:33:01 --> Security Class Initialized
+DEBUG - 2013-12-11 21:33:01 --> Input Class Initialized
+DEBUG - 2013-12-11 21:33:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:33:01 --> Language Class Initialized
+DEBUG - 2013-12-11 21:33:01 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:33:01 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:33:01 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:33:01 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:33:01 --> Model Class Initialized
+DEBUG - 2013-12-11 21:33:01 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:33:01 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:33:01 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:33:01 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:33:01 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:33:01 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:33:01 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:33:01 --> Final output sent to browser
+DEBUG - 2013-12-11 21:33:01 --> Total execution time: 0.0549
+DEBUG - 2013-12-11 21:33:03 --> Config Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:33:03 --> URI Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> Router Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> Output Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> Security Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> Input Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:33:03 --> Language Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:33:03 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:33:03 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> Model Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:33:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:33:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:33:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:33:03 --> DB Transaction Failure
+ERROR - 2013-12-11 21:33:03 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:33:03 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:33:03 --> Config Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:33:03 --> URI Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> Router Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> Output Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> Security Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> Input Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:33:03 --> Language Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:33:03 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:33:03 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> Model Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:33:03 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:33:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:33:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:33:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:33:03 --> DB Transaction Failure
+ERROR - 2013-12-11 21:33:03 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:33:03 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:33:05 --> Config Class Initialized
+DEBUG - 2013-12-11 21:33:05 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:33:05 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:33:05 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:33:05 --> URI Class Initialized
+DEBUG - 2013-12-11 21:33:05 --> Router Class Initialized
+DEBUG - 2013-12-11 21:33:05 --> Output Class Initialized
+DEBUG - 2013-12-11 21:33:05 --> Security Class Initialized
+DEBUG - 2013-12-11 21:33:05 --> Input Class Initialized
+DEBUG - 2013-12-11 21:33:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:33:05 --> Language Class Initialized
+DEBUG - 2013-12-11 21:33:05 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:33:05 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:33:05 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:33:05 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:33:05 --> Model Class Initialized
+DEBUG - 2013-12-11 21:33:05 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:33:05 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:33:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:33:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:33:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:33:05 --> DB Transaction Failure
+ERROR - 2013-12-11 21:33:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:33:05 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:33:06 --> Config Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:33:06 --> URI Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> Router Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> Output Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> Security Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> Input Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:33:06 --> Language Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:33:06 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:33:06 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> Model Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:33:06 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:33:06 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:33:06 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:33:06 --> DB Transaction Failure
+ERROR - 2013-12-11 21:33:06 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:33:06 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:33:06 --> Config Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:33:06 --> URI Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> Router Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> Output Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> Security Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> Input Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:33:06 --> Language Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:33:06 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:33:06 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> Model Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:33:06 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:33:06 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:33:06 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:33:06 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:33:06 --> DB Transaction Failure
+ERROR - 2013-12-11 21:33:06 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:33:06 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:34:35 --> Config Class Initialized
+DEBUG - 2013-12-11 21:34:35 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:34:35 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:34:35 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:34:35 --> URI Class Initialized
+DEBUG - 2013-12-11 21:34:35 --> Router Class Initialized
+DEBUG - 2013-12-11 21:34:35 --> Output Class Initialized
+DEBUG - 2013-12-11 21:34:35 --> Security Class Initialized
+DEBUG - 2013-12-11 21:34:35 --> Input Class Initialized
+DEBUG - 2013-12-11 21:34:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:34:35 --> Language Class Initialized
+DEBUG - 2013-12-11 21:34:35 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:34:35 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:34:35 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:34:35 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:34:35 --> Model Class Initialized
+DEBUG - 2013-12-11 21:34:35 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:34:35 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:34:35 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:34:35 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:34:35 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:34:35 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:34:35 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:34:35 --> Final output sent to browser
+DEBUG - 2013-12-11 21:34:35 --> Total execution time: 0.0563
+DEBUG - 2013-12-11 21:34:37 --> Config Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:34:37 --> URI Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> Router Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> Output Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> Security Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> Input Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:34:37 --> Language Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:34:37 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:34:37 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> Model Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:34:37 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:34:37 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:34:37 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:34:37 --> DB Transaction Failure
+ERROR - 2013-12-11 21:34:37 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:34:37 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:34:37 --> Config Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:34:37 --> URI Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> Router Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> Output Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> Security Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> Input Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:34:37 --> Language Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:34:37 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:34:37 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> Model Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:34:37 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:34:37 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:34:37 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:34:37 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:34:37 --> DB Transaction Failure
+ERROR - 2013-12-11 21:34:37 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:34:37 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:34:40 --> Config Class Initialized
+DEBUG - 2013-12-11 21:34:40 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:34:40 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:34:40 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:34:40 --> URI Class Initialized
+DEBUG - 2013-12-11 21:34:40 --> Router Class Initialized
+DEBUG - 2013-12-11 21:34:40 --> Output Class Initialized
+DEBUG - 2013-12-11 21:34:40 --> Security Class Initialized
+DEBUG - 2013-12-11 21:34:40 --> Input Class Initialized
+DEBUG - 2013-12-11 21:34:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:34:40 --> Language Class Initialized
+DEBUG - 2013-12-11 21:34:40 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:34:40 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:34:40 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:34:40 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:34:40 --> Model Class Initialized
+DEBUG - 2013-12-11 21:34:40 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:34:40 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:34:40 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:34:40 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:34:40 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:34:40 --> DB Transaction Failure
+ERROR - 2013-12-11 21:34:40 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:34:40 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:34:41 --> Config Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:34:41 --> URI Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> Router Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> Output Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> Security Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> Input Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:34:41 --> Language Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:34:41 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:34:41 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> Model Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:34:41 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:34:41 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:34:41 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:34:41 --> DB Transaction Failure
+ERROR - 2013-12-11 21:34:41 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:34:41 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:34:41 --> Config Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:34:41 --> URI Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> Router Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> Output Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> Security Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> Input Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:34:41 --> Language Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:34:41 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:34:41 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> Model Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:34:41 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:34:41 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:34:42 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:34:42 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:34:42 --> DB Transaction Failure
+ERROR - 2013-12-11 21:34:42 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:34:42 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:34:42 --> Config Class Initialized
+DEBUG - 2013-12-11 21:34:42 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:34:42 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:34:42 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:34:42 --> URI Class Initialized
+DEBUG - 2013-12-11 21:34:42 --> Router Class Initialized
+DEBUG - 2013-12-11 21:34:42 --> Output Class Initialized
+DEBUG - 2013-12-11 21:34:42 --> Security Class Initialized
+DEBUG - 2013-12-11 21:34:42 --> Input Class Initialized
+DEBUG - 2013-12-11 21:34:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:34:42 --> Language Class Initialized
+DEBUG - 2013-12-11 21:34:42 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:34:42 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:34:42 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:34:42 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:34:42 --> Model Class Initialized
+DEBUG - 2013-12-11 21:34:42 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:34:42 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:34:42 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:34:42 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:34:42 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:34:42 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:34:42 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:34:42 --> Final output sent to browser
+DEBUG - 2013-12-11 21:34:42 --> Total execution time: 0.0947
+DEBUG - 2013-12-11 21:34:46 --> Config Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:34:46 --> URI Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> Router Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> Output Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> Security Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> Input Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:34:46 --> Language Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:34:46 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:34:46 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> Model Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:34:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:34:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:34:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:34:46 --> DB Transaction Failure
+ERROR - 2013-12-11 21:34:46 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:34:46 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:34:46 --> Config Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:34:46 --> URI Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> Router Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> Output Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> Security Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> Input Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:34:46 --> Language Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:34:46 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:34:46 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> Model Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:34:46 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:34:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:34:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:34:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:34:46 --> DB Transaction Failure
+ERROR - 2013-12-11 21:34:46 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:34:46 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:34:47 --> Config Class Initialized
+DEBUG - 2013-12-11 21:34:47 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:34:47 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:34:47 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:34:47 --> URI Class Initialized
+DEBUG - 2013-12-11 21:34:47 --> Router Class Initialized
+DEBUG - 2013-12-11 21:34:47 --> Output Class Initialized
+DEBUG - 2013-12-11 21:34:47 --> Security Class Initialized
+DEBUG - 2013-12-11 21:34:47 --> Input Class Initialized
+DEBUG - 2013-12-11 21:34:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:34:47 --> Language Class Initialized
+DEBUG - 2013-12-11 21:34:47 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:34:47 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:34:47 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:34:47 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:34:47 --> Model Class Initialized
+DEBUG - 2013-12-11 21:34:47 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:34:47 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:34:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:34:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:34:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:34:47 --> DB Transaction Failure
+ERROR - 2013-12-11 21:34:47 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:34:47 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:34:49 --> Config Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:34:49 --> URI Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> Router Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> Output Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> Security Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> Input Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:34:49 --> Language Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:34:49 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:34:49 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> Model Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:34:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:34:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:34:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:34:49 --> DB Transaction Failure
+ERROR - 2013-12-11 21:34:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:34:49 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:34:49 --> Config Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:34:49 --> URI Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> Router Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> Output Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> Security Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> Input Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:34:49 --> Language Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:34:49 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:34:49 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> Model Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:34:49 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:34:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:34:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:34:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:34:49 --> DB Transaction Failure
+ERROR - 2013-12-11 21:34:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:34:49 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:34:56 --> Config Class Initialized
+DEBUG - 2013-12-11 21:34:56 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:34:56 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:34:56 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:34:56 --> URI Class Initialized
+DEBUG - 2013-12-11 21:34:56 --> Router Class Initialized
+DEBUG - 2013-12-11 21:34:56 --> Output Class Initialized
+DEBUG - 2013-12-11 21:34:56 --> Security Class Initialized
+DEBUG - 2013-12-11 21:34:56 --> Input Class Initialized
+DEBUG - 2013-12-11 21:34:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:34:56 --> Language Class Initialized
+DEBUG - 2013-12-11 21:34:56 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:34:56 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:34:56 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:34:56 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:34:56 --> Model Class Initialized
+DEBUG - 2013-12-11 21:34:56 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:34:56 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:34:56 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:34:56 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:34:56 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:34:56 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:34:56 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:34:56 --> Final output sent to browser
+DEBUG - 2013-12-11 21:34:56 --> Total execution time: 0.0756
+DEBUG - 2013-12-11 21:34:58 --> Config Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:34:58 --> URI Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> Router Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> Output Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> Security Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> Input Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:34:58 --> Language Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:34:58 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:34:58 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> Model Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:34:58 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:34:58 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:34:58 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:34:58 --> DB Transaction Failure
+ERROR - 2013-12-11 21:34:58 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:34:58 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:34:58 --> Config Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:34:58 --> URI Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> Router Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> Output Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> Security Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> Input Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:34:58 --> Language Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:34:58 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:34:58 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> Model Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:34:58 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:34:58 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:34:58 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:34:58 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:34:58 --> DB Transaction Failure
+ERROR - 2013-12-11 21:34:58 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:34:58 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:34:59 --> Config Class Initialized
+DEBUG - 2013-12-11 21:34:59 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:34:59 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:34:59 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:34:59 --> URI Class Initialized
+DEBUG - 2013-12-11 21:34:59 --> Router Class Initialized
+DEBUG - 2013-12-11 21:34:59 --> Output Class Initialized
+DEBUG - 2013-12-11 21:34:59 --> Security Class Initialized
+DEBUG - 2013-12-11 21:34:59 --> Input Class Initialized
+DEBUG - 2013-12-11 21:34:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:34:59 --> Language Class Initialized
+DEBUG - 2013-12-11 21:34:59 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:34:59 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:34:59 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:34:59 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:34:59 --> Model Class Initialized
+DEBUG - 2013-12-11 21:34:59 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:34:59 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:34:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:34:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:34:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:34:59 --> DB Transaction Failure
+ERROR - 2013-12-11 21:34:59 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:34:59 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:35:01 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:01 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:01 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:01 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:01 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:35:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:35:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:35:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:35:01 --> DB Transaction Failure
+ERROR - 2013-12-11 21:35:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:35:01 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:35:01 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:01 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:01 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:01 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:01 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:01 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:35:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:35:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:35:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:35:01 --> DB Transaction Failure
+ERROR - 2013-12-11 21:35:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:35:01 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:35:05 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:05 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:05 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:05 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:05 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:05 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:05 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:05 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:05 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:05 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:05 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:05 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:05 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:05 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:05 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:05 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:05 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:35:05 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:35:05 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:35:05 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:35:05 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:35:05 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:35:05 --> Final output sent to browser
+DEBUG - 2013-12-11 21:35:05 --> Total execution time: 0.0740
+DEBUG - 2013-12-11 21:35:07 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:07 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:07 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:07 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:07 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:07 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:07 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:07 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:07 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:07 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:07 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:07 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:07 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:07 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:07 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:07 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:07 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:35:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:35:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:35:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:35:07 --> DB Transaction Failure
+ERROR - 2013-12-11 21:35:07 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:35:07 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:35:08 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:08 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:08 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:08 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:08 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:08 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:08 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:08 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:08 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:08 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:08 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:08 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:08 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:08 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:08 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:08 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:08 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:35:08 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:35:08 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:35:08 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:35:08 --> DB Transaction Failure
+ERROR - 2013-12-11 21:35:08 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:35:08 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:35:09 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:09 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:09 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:09 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:09 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:09 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:09 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:09 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:09 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:09 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:09 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:09 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:09 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:09 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:09 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:09 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:09 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:35:09 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:35:09 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:35:09 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:35:09 --> DB Transaction Failure
+ERROR - 2013-12-11 21:35:09 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:35:09 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:35:11 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:11 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:11 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:11 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:11 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:35:11 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:35:11 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:35:11 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:35:11 --> DB Transaction Failure
+ERROR - 2013-12-11 21:35:11 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:35:11 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:35:11 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:11 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:11 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:11 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:11 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:11 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:35:11 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:35:11 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:35:11 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:35:11 --> DB Transaction Failure
+ERROR - 2013-12-11 21:35:11 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:35:11 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:35:27 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:27 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:27 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:27 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:27 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:27 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:27 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:27 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:27 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:27 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:27 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:27 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:27 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:27 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:27 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:27 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:27 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:35:27 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:35:27 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:35:27 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:35:27 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:35:27 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:35:27 --> Final output sent to browser
+DEBUG - 2013-12-11 21:35:27 --> Total execution time: 0.0560
+DEBUG - 2013-12-11 21:35:29 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:29 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:29 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:29 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:29 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:35:29 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:35:29 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:35:29 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:35:29 --> DB Transaction Failure
+ERROR - 2013-12-11 21:35:29 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:35:29 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:35:29 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:29 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:29 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:29 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:29 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:29 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:35:29 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:35:29 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:35:29 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:35:29 --> DB Transaction Failure
+ERROR - 2013-12-11 21:35:29 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:35:29 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:35:31 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:31 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:31 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:31 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:31 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:31 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:31 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:31 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:31 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:31 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:31 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:31 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:31 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:31 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:31 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:31 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:31 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:35:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:35:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:35:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:35:31 --> DB Transaction Failure
+ERROR - 2013-12-11 21:35:31 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:35:31 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:35:32 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:32 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:32 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:32 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:32 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:35:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:35:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:35:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:35:32 --> DB Transaction Failure
+ERROR - 2013-12-11 21:35:32 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:35:32 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:35:32 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:32 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:32 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:32 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:32 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:32 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:35:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:35:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:35:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:35:32 --> DB Transaction Failure
+ERROR - 2013-12-11 21:35:32 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:35:32 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:35:37 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:37 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:37 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:37 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:37 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:37 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:37 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:37 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:37 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:37 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:37 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:37 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:37 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:37 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:37 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:37 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:37 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:35:37 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:35:37 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:35:37 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:35:37 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:35:37 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:35:37 --> Final output sent to browser
+DEBUG - 2013-12-11 21:35:37 --> Total execution time: 0.0670
+DEBUG - 2013-12-11 21:35:38 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:38 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:38 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:38 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:38 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:38 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:38 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:38 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:38 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:38 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:38 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:38 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:38 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:38 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:38 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:38 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:38 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:35:38 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:35:38 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:35:38 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:35:38 --> DB Transaction Failure
+ERROR - 2013-12-11 21:35:38 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:35:38 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:35:38 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:38 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:38 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:38 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:38 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:38 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:38 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:38 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:38 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:38 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:38 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:38 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:38 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:38 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:38 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:39 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:39 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:35:39 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:35:39 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:35:39 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:35:39 --> DB Transaction Failure
+ERROR - 2013-12-11 21:35:39 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:35:39 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:35:40 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:40 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:40 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:40 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:40 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:40 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:40 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:40 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:40 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:40 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:40 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:40 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:40 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:40 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:40 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:40 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:40 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:40 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:35:40 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:35:40 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:35:40 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:35:40 --> DB Transaction Failure
+ERROR - 2013-12-11 21:35:40 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:35:40 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:35:42 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:42 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:42 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:42 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:42 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:35:42 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:35:42 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:35:42 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:35:42 --> DB Transaction Failure
+ERROR - 2013-12-11 21:35:42 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:35:42 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:35:42 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:42 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:42 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:42 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:42 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:42 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:35:42 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:35:42 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:35:42 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:35:42 --> DB Transaction Failure
+ERROR - 2013-12-11 21:35:42 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:35:42 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:35:48 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:48 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:48 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:48 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:48 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:48 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:48 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:48 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:48 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:48 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:48 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:48 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:48 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:48 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:48 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:48 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:48 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:35:48 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:35:48 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:35:48 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:35:48 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:35:48 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:35:48 --> Final output sent to browser
+DEBUG - 2013-12-11 21:35:48 --> Total execution time: 0.0711
+DEBUG - 2013-12-11 21:35:50 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:50 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:50 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:50 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:50 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:35:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:35:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:35:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:35:50 --> DB Transaction Failure
+ERROR - 2013-12-11 21:35:50 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:35:50 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:35:50 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:50 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:50 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:50 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:50 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:50 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:35:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:35:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:35:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:35:50 --> DB Transaction Failure
+ERROR - 2013-12-11 21:35:50 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:35:50 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:35:51 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:51 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:51 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:51 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:51 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:51 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:51 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:51 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:51 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:51 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:51 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:51 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:51 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:51 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:51 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:51 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:51 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:35:51 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:35:51 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:35:51 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:35:51 --> DB Transaction Failure
+ERROR - 2013-12-11 21:35:51 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:35:51 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:35:52 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:52 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:52 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:52 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:52 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:35:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:35:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:35:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:35:52 --> DB Transaction Failure
+ERROR - 2013-12-11 21:35:52 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:35:52 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:35:52 --> Config Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:35:52 --> URI Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> Router Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> Output Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> Security Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> Input Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:35:52 --> Language Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:35:52 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:35:52 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> Model Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:35:52 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:35:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:35:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:35:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:35:52 --> DB Transaction Failure
+ERROR - 2013-12-11 21:35:52 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:35:52 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:38:19 --> Config Class Initialized
+DEBUG - 2013-12-11 21:38:19 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:38:19 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:38:19 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:38:19 --> URI Class Initialized
+DEBUG - 2013-12-11 21:38:19 --> Router Class Initialized
+DEBUG - 2013-12-11 21:38:19 --> Output Class Initialized
+DEBUG - 2013-12-11 21:38:19 --> Security Class Initialized
+DEBUG - 2013-12-11 21:38:19 --> Input Class Initialized
+DEBUG - 2013-12-11 21:38:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:38:19 --> Language Class Initialized
+DEBUG - 2013-12-11 21:38:19 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:38:19 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:38:19 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:38:19 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:38:19 --> Model Class Initialized
+DEBUG - 2013-12-11 21:38:19 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:38:19 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:38:19 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:38:19 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:38:19 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:38:19 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:38:19 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:38:19 --> Final output sent to browser
+DEBUG - 2013-12-11 21:38:19 --> Total execution time: 0.0592
+DEBUG - 2013-12-11 21:38:21 --> Config Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:38:21 --> URI Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> Router Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> Output Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> Security Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> Input Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:38:21 --> Language Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:38:21 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:38:21 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> Model Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:38:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:38:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:38:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:38:21 --> DB Transaction Failure
+ERROR - 2013-12-11 21:38:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:38:21 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:38:21 --> Config Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:38:21 --> URI Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> Router Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> Output Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> Security Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> Input Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:38:21 --> Language Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:38:21 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:38:21 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> Model Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:38:21 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:38:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:38:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:38:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:38:21 --> DB Transaction Failure
+ERROR - 2013-12-11 21:38:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:38:21 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:38:23 --> Config Class Initialized
+DEBUG - 2013-12-11 21:38:23 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:38:23 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:38:23 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:38:23 --> URI Class Initialized
+DEBUG - 2013-12-11 21:38:23 --> Router Class Initialized
+DEBUG - 2013-12-11 21:38:23 --> Output Class Initialized
+DEBUG - 2013-12-11 21:38:23 --> Security Class Initialized
+DEBUG - 2013-12-11 21:38:23 --> Input Class Initialized
+DEBUG - 2013-12-11 21:38:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:38:23 --> Language Class Initialized
+DEBUG - 2013-12-11 21:38:23 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:38:23 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:38:23 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:38:23 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:38:23 --> Model Class Initialized
+DEBUG - 2013-12-11 21:38:23 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:38:23 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:38:23 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:38:23 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:38:23 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:38:23 --> DB Transaction Failure
+ERROR - 2013-12-11 21:38:23 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:38:23 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:38:24 --> Config Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:38:24 --> URI Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> Router Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> Output Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> Security Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> Input Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:38:24 --> Language Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:38:24 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:38:24 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> Model Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:38:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:38:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:38:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:38:24 --> DB Transaction Failure
+ERROR - 2013-12-11 21:38:24 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:38:24 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:38:24 --> Config Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:38:24 --> URI Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> Router Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> Output Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> Security Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> Input Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:38:24 --> Language Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:38:24 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:38:24 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> Model Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:38:24 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:38:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:38:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:38:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:38:24 --> DB Transaction Failure
+ERROR - 2013-12-11 21:38:24 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:38:24 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:39:23 --> Config Class Initialized
+DEBUG - 2013-12-11 21:39:23 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:39:23 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:39:23 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:39:23 --> URI Class Initialized
+DEBUG - 2013-12-11 21:39:23 --> Router Class Initialized
+DEBUG - 2013-12-11 21:39:23 --> Output Class Initialized
+DEBUG - 2013-12-11 21:39:23 --> Security Class Initialized
+DEBUG - 2013-12-11 21:39:23 --> Input Class Initialized
+DEBUG - 2013-12-11 21:39:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:39:23 --> Language Class Initialized
+DEBUG - 2013-12-11 21:39:23 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:39:23 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:39:23 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:39:23 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:39:23 --> Model Class Initialized
+DEBUG - 2013-12-11 21:39:23 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:39:23 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:39:23 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:39:23 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:39:23 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:39:23 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:39:23 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:39:23 --> Final output sent to browser
+DEBUG - 2013-12-11 21:39:23 --> Total execution time: 0.0576
+DEBUG - 2013-12-11 21:39:25 --> Config Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:39:25 --> URI Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> Router Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> Output Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> Security Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> Input Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:39:25 --> Language Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:39:25 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:39:25 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> Model Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:39:25 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:39:25 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:39:25 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:39:25 --> DB Transaction Failure
+ERROR - 2013-12-11 21:39:25 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:39:25 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:39:25 --> Config Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:39:25 --> URI Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> Router Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> Output Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> Security Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> Input Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:39:25 --> Language Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:39:25 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:39:25 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> Model Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:39:25 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:39:25 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:39:25 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:39:25 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:39:25 --> DB Transaction Failure
+ERROR - 2013-12-11 21:39:25 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:39:25 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:39:26 --> Config Class Initialized
+DEBUG - 2013-12-11 21:39:26 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:39:26 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:39:26 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:39:26 --> URI Class Initialized
+DEBUG - 2013-12-11 21:39:26 --> Router Class Initialized
+DEBUG - 2013-12-11 21:39:26 --> Output Class Initialized
+DEBUG - 2013-12-11 21:39:26 --> Security Class Initialized
+DEBUG - 2013-12-11 21:39:26 --> Input Class Initialized
+DEBUG - 2013-12-11 21:39:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:39:26 --> Language Class Initialized
+DEBUG - 2013-12-11 21:39:26 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:39:26 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:39:26 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:39:26 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:39:26 --> Model Class Initialized
+DEBUG - 2013-12-11 21:39:26 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:39:26 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:39:26 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:39:26 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:39:26 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:39:26 --> DB Transaction Failure
+ERROR - 2013-12-11 21:39:26 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:39:26 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:39:27 --> Config Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:39:27 --> URI Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> Router Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> Output Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> Security Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> Input Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:39:27 --> Language Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:39:27 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:39:27 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> Model Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:39:27 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:39:27 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:39:27 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:39:27 --> DB Transaction Failure
+ERROR - 2013-12-11 21:39:27 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:39:27 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:39:27 --> Config Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:39:27 --> URI Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> Router Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> Output Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> Security Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> Input Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:39:27 --> Language Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:39:27 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:39:27 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> Model Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:39:27 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:39:27 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:39:27 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:39:27 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:39:27 --> DB Transaction Failure
+ERROR - 2013-12-11 21:39:27 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:39:27 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:40:45 --> Config Class Initialized
+DEBUG - 2013-12-11 21:40:45 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:40:45 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:40:45 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:40:45 --> URI Class Initialized
+DEBUG - 2013-12-11 21:40:45 --> Router Class Initialized
+DEBUG - 2013-12-11 21:40:45 --> Output Class Initialized
+DEBUG - 2013-12-11 21:40:45 --> Security Class Initialized
+DEBUG - 2013-12-11 21:40:45 --> Input Class Initialized
+DEBUG - 2013-12-11 21:40:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:40:45 --> Language Class Initialized
+DEBUG - 2013-12-11 21:40:45 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:40:45 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:40:45 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:40:45 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:40:45 --> Model Class Initialized
+DEBUG - 2013-12-11 21:40:45 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:40:45 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:40:45 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:40:45 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:40:45 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:40:45 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:40:45 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:40:45 --> Final output sent to browser
+DEBUG - 2013-12-11 21:40:45 --> Total execution time: 0.0565
+DEBUG - 2013-12-11 21:40:46 --> Config Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:40:46 --> URI Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> Router Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> Output Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> Security Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> Input Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:40:46 --> Language Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:40:46 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:40:46 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> Model Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:40:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:40:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:40:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:40:46 --> DB Transaction Failure
+ERROR - 2013-12-11 21:40:46 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:40:46 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:40:46 --> Config Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:40:46 --> URI Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> Router Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> Output Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> Security Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> Input Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:40:46 --> Language Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:40:46 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:40:46 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> Model Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:40:46 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:40:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:40:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:40:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:40:46 --> DB Transaction Failure
+ERROR - 2013-12-11 21:40:46 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:40:46 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:40:48 --> Config Class Initialized
+DEBUG - 2013-12-11 21:40:48 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:40:48 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:40:48 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:40:48 --> URI Class Initialized
+DEBUG - 2013-12-11 21:40:48 --> Router Class Initialized
+DEBUG - 2013-12-11 21:40:48 --> Output Class Initialized
+DEBUG - 2013-12-11 21:40:48 --> Security Class Initialized
+DEBUG - 2013-12-11 21:40:48 --> Input Class Initialized
+DEBUG - 2013-12-11 21:40:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:40:48 --> Language Class Initialized
+DEBUG - 2013-12-11 21:40:48 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:40:48 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:40:48 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:40:48 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:40:48 --> Model Class Initialized
+DEBUG - 2013-12-11 21:40:48 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:40:48 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:40:48 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:40:48 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:40:48 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:40:48 --> DB Transaction Failure
+ERROR - 2013-12-11 21:40:48 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:40:48 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:40:49 --> Config Class Initialized
+DEBUG - 2013-12-11 21:40:49 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:40:49 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:40:49 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:40:49 --> URI Class Initialized
+DEBUG - 2013-12-11 21:40:49 --> Router Class Initialized
+DEBUG - 2013-12-11 21:40:49 --> Output Class Initialized
+DEBUG - 2013-12-11 21:40:49 --> Security Class Initialized
+DEBUG - 2013-12-11 21:40:49 --> Input Class Initialized
+DEBUG - 2013-12-11 21:40:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:40:49 --> Language Class Initialized
+DEBUG - 2013-12-11 21:40:49 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:40:49 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:40:49 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:40:49 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:40:49 --> Model Class Initialized
+DEBUG - 2013-12-11 21:40:49 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:40:49 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:40:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:40:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:40:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:40:50 --> DB Transaction Failure
+ERROR - 2013-12-11 21:40:50 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:40:50 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:40:50 --> Config Class Initialized
+DEBUG - 2013-12-11 21:40:50 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:40:50 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:40:50 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:40:50 --> URI Class Initialized
+DEBUG - 2013-12-11 21:40:50 --> Router Class Initialized
+DEBUG - 2013-12-11 21:40:50 --> Output Class Initialized
+DEBUG - 2013-12-11 21:40:50 --> Security Class Initialized
+DEBUG - 2013-12-11 21:40:50 --> Input Class Initialized
+DEBUG - 2013-12-11 21:40:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:40:50 --> Language Class Initialized
+DEBUG - 2013-12-11 21:40:50 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:40:50 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:40:50 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:40:50 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:40:50 --> Model Class Initialized
+DEBUG - 2013-12-11 21:40:50 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:40:50 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:40:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:40:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:40:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:40:50 --> DB Transaction Failure
+ERROR - 2013-12-11 21:40:50 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:40:50 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:41:05 --> Config Class Initialized
+DEBUG - 2013-12-11 21:41:05 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:41:05 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:41:05 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:41:05 --> URI Class Initialized
+DEBUG - 2013-12-11 21:41:05 --> Router Class Initialized
+DEBUG - 2013-12-11 21:41:05 --> Output Class Initialized
+DEBUG - 2013-12-11 21:41:05 --> Security Class Initialized
+DEBUG - 2013-12-11 21:41:05 --> Input Class Initialized
+DEBUG - 2013-12-11 21:41:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:41:05 --> Language Class Initialized
+DEBUG - 2013-12-11 21:41:05 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:41:05 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:41:05 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:41:05 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:41:05 --> Model Class Initialized
+DEBUG - 2013-12-11 21:41:05 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:41:05 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:41:05 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:41:05 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:41:05 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:41:05 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:41:05 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:41:05 --> Final output sent to browser
+DEBUG - 2013-12-11 21:41:05 --> Total execution time: 0.0533
+DEBUG - 2013-12-11 21:41:07 --> Config Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:41:07 --> URI Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> Router Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> Output Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> Security Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> Input Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:41:07 --> Language Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:41:07 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:41:07 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> Model Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:41:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:41:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:41:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:41:07 --> DB Transaction Failure
+ERROR - 2013-12-11 21:41:07 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:41:07 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:41:07 --> Config Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:41:07 --> URI Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> Router Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> Output Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> Security Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> Input Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:41:07 --> Language Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:41:07 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:41:07 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> Model Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:41:07 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:41:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:41:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:41:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:41:07 --> DB Transaction Failure
+ERROR - 2013-12-11 21:41:07 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:41:07 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:41:09 --> Config Class Initialized
+DEBUG - 2013-12-11 21:41:09 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:41:09 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:41:09 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:41:09 --> URI Class Initialized
+DEBUG - 2013-12-11 21:41:09 --> Router Class Initialized
+DEBUG - 2013-12-11 21:41:09 --> Output Class Initialized
+DEBUG - 2013-12-11 21:41:09 --> Security Class Initialized
+DEBUG - 2013-12-11 21:41:09 --> Input Class Initialized
+DEBUG - 2013-12-11 21:41:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:41:09 --> Language Class Initialized
+DEBUG - 2013-12-11 21:41:09 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:41:09 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:41:09 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:41:09 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:41:09 --> Model Class Initialized
+DEBUG - 2013-12-11 21:41:09 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:41:09 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:41:09 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:41:09 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:41:09 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:41:09 --> DB Transaction Failure
+ERROR - 2013-12-11 21:41:09 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:41:09 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:41:10 --> Config Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:41:10 --> URI Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> Router Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> Output Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> Security Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> Input Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:41:10 --> Language Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:41:10 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:41:10 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> Model Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:41:10 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:41:10 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:41:10 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:41:10 --> DB Transaction Failure
+ERROR - 2013-12-11 21:41:10 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:41:10 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:41:10 --> Config Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:41:10 --> URI Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> Router Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> Output Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> Security Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> Input Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:41:10 --> Language Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:41:10 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:41:10 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> Model Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:41:10 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:41:10 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:41:10 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:41:10 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:41:10 --> DB Transaction Failure
+ERROR - 2013-12-11 21:41:10 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:41:10 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:41:20 --> Config Class Initialized
+DEBUG - 2013-12-11 21:41:20 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:41:20 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:41:20 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:41:20 --> URI Class Initialized
+DEBUG - 2013-12-11 21:41:20 --> Router Class Initialized
+DEBUG - 2013-12-11 21:41:20 --> Output Class Initialized
+DEBUG - 2013-12-11 21:41:20 --> Security Class Initialized
+DEBUG - 2013-12-11 21:41:20 --> Input Class Initialized
+DEBUG - 2013-12-11 21:41:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:41:20 --> Language Class Initialized
+DEBUG - 2013-12-11 21:41:20 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:41:20 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:41:20 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:41:20 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:41:20 --> Model Class Initialized
+DEBUG - 2013-12-11 21:41:20 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:41:20 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:41:20 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:41:20 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:41:20 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:41:20 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:41:20 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:41:20 --> Final output sent to browser
+DEBUG - 2013-12-11 21:41:20 --> Total execution time: 0.0571
+DEBUG - 2013-12-11 21:41:22 --> Config Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:41:22 --> URI Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> Router Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> Output Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> Security Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> Input Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:41:22 --> Language Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:41:22 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:41:22 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> Model Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:41:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:41:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:41:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:41:22 --> DB Transaction Failure
+ERROR - 2013-12-11 21:41:22 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:41:22 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:41:22 --> Config Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:41:22 --> URI Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> Router Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> Output Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> Security Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> Input Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:41:22 --> Language Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:41:22 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:41:22 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> Model Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:41:22 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:41:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:41:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:41:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:41:22 --> DB Transaction Failure
+ERROR - 2013-12-11 21:41:22 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:41:22 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:41:23 --> Config Class Initialized
+DEBUG - 2013-12-11 21:41:23 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:41:23 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:41:23 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:41:23 --> URI Class Initialized
+DEBUG - 2013-12-11 21:41:23 --> Router Class Initialized
+DEBUG - 2013-12-11 21:41:23 --> Output Class Initialized
+DEBUG - 2013-12-11 21:41:23 --> Security Class Initialized
+DEBUG - 2013-12-11 21:41:23 --> Input Class Initialized
+DEBUG - 2013-12-11 21:41:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:41:23 --> Language Class Initialized
+DEBUG - 2013-12-11 21:41:23 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:41:23 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:41:23 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:41:23 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:41:23 --> Model Class Initialized
+DEBUG - 2013-12-11 21:41:23 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:41:23 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:41:23 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:41:23 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:41:23 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:41:23 --> DB Transaction Failure
+ERROR - 2013-12-11 21:41:23 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:41:23 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:41:24 --> Config Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:41:24 --> URI Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> Router Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> Output Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> Security Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> Input Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:41:24 --> Language Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:41:24 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:41:24 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> Model Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:41:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:41:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:41:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:41:24 --> DB Transaction Failure
+ERROR - 2013-12-11 21:41:24 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:41:24 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:41:24 --> Config Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:41:24 --> URI Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> Router Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> Output Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> Security Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> Input Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:41:24 --> Language Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:41:24 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:41:24 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> Model Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:41:24 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:41:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:41:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:41:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:41:24 --> DB Transaction Failure
+ERROR - 2013-12-11 21:41:24 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:41:24 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:42:13 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:13 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:13 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:13 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:13 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:13 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:13 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:13 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:13 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:13 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:13 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:13 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:13 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:13 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:13 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:13 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:13 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:42:13 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:42:13 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:42:13 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:42:13 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:42:13 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:42:13 --> Final output sent to browser
+DEBUG - 2013-12-11 21:42:13 --> Total execution time: 0.0563
+DEBUG - 2013-12-11 21:42:15 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:15 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:15 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:15 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:15 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:42:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:42:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:42:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:42:15 --> DB Transaction Failure
+ERROR - 2013-12-11 21:42:15 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:42:15 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:42:15 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:15 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:15 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:15 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:15 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:15 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:42:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:42:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:42:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:42:15 --> DB Transaction Failure
+ERROR - 2013-12-11 21:42:15 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:42:15 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:42:17 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:17 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:17 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:17 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:17 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:17 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:17 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:17 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:17 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:17 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:17 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:17 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:17 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:17 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:17 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:17 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:17 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:42:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:42:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:42:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:42:17 --> DB Transaction Failure
+ERROR - 2013-12-11 21:42:17 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:42:17 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:42:18 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:18 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:18 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:18 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:18 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:42:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:42:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:42:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:42:18 --> DB Transaction Failure
+ERROR - 2013-12-11 21:42:18 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:42:18 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:42:18 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:18 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:18 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:18 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:18 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:18 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:42:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:42:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:42:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:42:18 --> DB Transaction Failure
+ERROR - 2013-12-11 21:42:18 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:42:18 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:42:25 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:25 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:25 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:25 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:25 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:25 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:25 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:25 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:25 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:25 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:25 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:25 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:25 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:25 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:25 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:25 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:25 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:42:25 --> Form Validation Class Initialized
+DEBUG - 2013-12-11 21:42:25 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:42:25 --> File loaded: application/views/schedules/create.php
+DEBUG - 2013-12-11 21:42:25 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:42:25 --> Final output sent to browser
+DEBUG - 2013-12-11 21:42:25 --> Total execution time: 0.0485
+DEBUG - 2013-12-11 21:42:26 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:26 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:26 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:26 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:26 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:26 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:26 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:26 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:26 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:26 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:26 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:26 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:26 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:26 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:26 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:26 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:26 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:42:26 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:42:26 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:42:26 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:42:26 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:42:26 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:42:26 --> Final output sent to browser
+DEBUG - 2013-12-11 21:42:26 --> Total execution time: 0.1084
+DEBUG - 2013-12-11 21:42:28 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:28 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:28 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:28 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:28 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:42:28 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:42:28 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:42:28 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:42:28 --> DB Transaction Failure
+ERROR - 2013-12-11 21:42:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:42:28 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:42:28 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:28 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:28 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:28 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:28 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:28 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:42:28 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:42:28 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:42:28 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:42:28 --> DB Transaction Failure
+ERROR - 2013-12-11 21:42:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:42:28 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:42:30 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:30 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:30 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:30 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:30 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:30 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:30 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:30 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:30 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:30 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:30 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:30 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:30 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:30 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:30 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:30 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:30 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:42:30 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:42:30 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:42:30 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:42:30 --> DB Transaction Failure
+ERROR - 2013-12-11 21:42:30 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:42:30 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:42:31 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:31 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:31 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:31 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:31 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:42:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:42:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:42:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:42:31 --> DB Transaction Failure
+ERROR - 2013-12-11 21:42:31 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:42:31 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:42:31 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:31 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:31 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:31 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:31 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:31 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:42:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:42:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:42:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:42:31 --> DB Transaction Failure
+ERROR - 2013-12-11 21:42:31 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:42:31 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:42:32 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:32 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:32 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:32 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:32 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:32 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:32 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:32 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:32 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:32 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:32 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:32 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:32 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:32 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:32 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:32 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:32 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:42:32 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:42:32 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:42:32 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:42:32 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:42:32 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:42:32 --> Final output sent to browser
+DEBUG - 2013-12-11 21:42:32 --> Total execution time: 0.0839
+DEBUG - 2013-12-11 21:42:33 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:33 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:33 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:33 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:33 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:33 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:33 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:33 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:33 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:33 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:33 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:33 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:33 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:33 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:33 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:33 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:33 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:33 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:42:33 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:42:33 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:42:33 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:42:33 --> DB Transaction Failure
+ERROR - 2013-12-11 21:42:33 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:42:34 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:42:34 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:34 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:34 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:34 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:34 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:34 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:34 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:34 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:34 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:34 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:34 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:34 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:34 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:34 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:34 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:34 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:34 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:42:34 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:42:34 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:42:34 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:42:34 --> DB Transaction Failure
+ERROR - 2013-12-11 21:42:34 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:42:34 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:42:35 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:35 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:35 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:35 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:35 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:35 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:35 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:35 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:35 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:35 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:35 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:35 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:35 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:35 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:35 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:35 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:35 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:42:35 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:42:35 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:42:35 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:42:35 --> DB Transaction Failure
+ERROR - 2013-12-11 21:42:35 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:42:35 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:42:36 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:36 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:36 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:36 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:36 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:42:36 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:42:36 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:42:36 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:42:36 --> DB Transaction Failure
+ERROR - 2013-12-11 21:42:36 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:42:36 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:42:36 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:36 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:36 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:36 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:36 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:36 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:42:36 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:42:36 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:42:36 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:42:36 --> DB Transaction Failure
+ERROR - 2013-12-11 21:42:36 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:42:36 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:42:43 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:43 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:43 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:43 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:43 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:43 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:43 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:43 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:43 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:43 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:43 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:43 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:43 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:43 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:43 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:43 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:43 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:42:43 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:42:43 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:42:43 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:42:43 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:42:43 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:42:43 --> Final output sent to browser
+DEBUG - 2013-12-11 21:42:43 --> Total execution time: 0.0543
+DEBUG - 2013-12-11 21:42:45 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:45 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:45 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:45 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:45 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:42:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:42:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:42:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:42:45 --> DB Transaction Failure
+ERROR - 2013-12-11 21:42:45 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:42:45 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:42:45 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:45 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:45 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:45 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:45 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:45 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:42:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:42:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:42:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:42:45 --> DB Transaction Failure
+ERROR - 2013-12-11 21:42:45 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:42:45 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:42:46 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:46 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:46 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:46 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:46 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:46 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:46 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:46 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:46 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:46 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:46 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:46 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:46 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:46 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:46 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:46 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:46 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:42:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:42:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:42:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:42:46 --> DB Transaction Failure
+ERROR - 2013-12-11 21:42:46 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:42:46 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:42:47 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:47 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:47 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:47 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:47 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:42:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:42:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:42:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:42:47 --> DB Transaction Failure
+ERROR - 2013-12-11 21:42:47 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:42:47 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:42:47 --> Config Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:42:47 --> URI Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> Router Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> Output Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> Security Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> Input Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:42:47 --> Language Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:42:47 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:42:47 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> Model Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:42:47 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:42:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:42:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:42:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:42:47 --> DB Transaction Failure
+ERROR - 2013-12-11 21:42:47 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:42:47 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:43:07 --> Config Class Initialized
+DEBUG - 2013-12-11 21:43:07 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:43:07 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:43:07 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:43:07 --> URI Class Initialized
+DEBUG - 2013-12-11 21:43:07 --> Router Class Initialized
+DEBUG - 2013-12-11 21:43:07 --> Output Class Initialized
+DEBUG - 2013-12-11 21:43:07 --> Security Class Initialized
+DEBUG - 2013-12-11 21:43:07 --> Input Class Initialized
+DEBUG - 2013-12-11 21:43:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:43:07 --> Language Class Initialized
+DEBUG - 2013-12-11 21:43:07 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:43:07 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:43:07 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:43:07 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:43:07 --> Model Class Initialized
+DEBUG - 2013-12-11 21:43:07 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:43:07 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:43:07 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:43:07 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:43:07 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:43:07 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:43:07 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:43:07 --> Final output sent to browser
+DEBUG - 2013-12-11 21:43:07 --> Total execution time: 0.0576
+DEBUG - 2013-12-11 21:43:09 --> Config Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:43:09 --> URI Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> Router Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> Output Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> Security Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> Input Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:43:09 --> Language Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:43:09 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:43:09 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> Model Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:43:09 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:43:09 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:43:09 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:43:09 --> DB Transaction Failure
+ERROR - 2013-12-11 21:43:09 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:43:09 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:43:09 --> Config Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:43:09 --> URI Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> Router Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> Output Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> Security Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> Input Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:43:09 --> Language Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:43:09 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:43:09 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> Model Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:43:09 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:43:09 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:43:09 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:43:09 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:43:09 --> DB Transaction Failure
+ERROR - 2013-12-11 21:43:09 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:43:09 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:43:10 --> Config Class Initialized
+DEBUG - 2013-12-11 21:43:10 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:43:10 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:43:10 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:43:10 --> URI Class Initialized
+DEBUG - 2013-12-11 21:43:10 --> Router Class Initialized
+DEBUG - 2013-12-11 21:43:10 --> Output Class Initialized
+DEBUG - 2013-12-11 21:43:10 --> Security Class Initialized
+DEBUG - 2013-12-11 21:43:10 --> Input Class Initialized
+DEBUG - 2013-12-11 21:43:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:43:10 --> Language Class Initialized
+DEBUG - 2013-12-11 21:43:10 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:43:10 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:43:10 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:43:10 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:43:10 --> Model Class Initialized
+DEBUG - 2013-12-11 21:43:10 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:43:10 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:43:10 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:43:10 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:43:10 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:43:10 --> DB Transaction Failure
+ERROR - 2013-12-11 21:43:10 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:43:10 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:43:12 --> Config Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:43:12 --> URI Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Router Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Output Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Security Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Input Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:43:12 --> Language Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:43:12 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:43:12 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Model Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Config Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:43:12 --> URI Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Router Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Output Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Security Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Input Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:43:12 --> Language Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:43:12 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:43:12 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Model Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:43:12 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:43:12 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+DEBUG - 2013-12-11 21:43:12 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:43:12 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:43:12 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:43:12 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:43:12 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:43:12 --> Final output sent to browser
+DEBUG - 2013-12-11 21:43:12 --> Total execution time: 0.0813
+ERROR - 2013-12-11 21:43:12 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:43:12 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:43:12 --> DB Transaction Failure
+ERROR - 2013-12-11 21:43:12 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:43:12 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:43:12 --> Config Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:43:12 --> URI Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Router Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Output Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Security Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Input Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:43:12 --> Language Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:43:12 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:43:12 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Model Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:43:12 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:43:12 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:43:12 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:43:12 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:43:12 --> DB Transaction Failure
+ERROR - 2013-12-11 21:43:12 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:43:12 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:43:14 --> Config Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:43:14 --> URI Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> Router Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> Output Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> Security Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> Input Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:43:14 --> Language Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:43:14 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:43:14 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> Model Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:43:14 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:43:14 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:43:14 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:43:14 --> DB Transaction Failure
+ERROR - 2013-12-11 21:43:14 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:43:14 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:43:14 --> Config Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:43:14 --> URI Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> Router Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> Output Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> Security Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> Input Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:43:14 --> Language Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:43:14 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:43:14 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> Model Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:43:14 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:43:14 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:43:14 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:43:14 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:43:14 --> DB Transaction Failure
+ERROR - 2013-12-11 21:43:14 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:43:14 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:43:15 --> Config Class Initialized
+DEBUG - 2013-12-11 21:43:15 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:43:15 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:43:15 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:43:15 --> URI Class Initialized
+DEBUG - 2013-12-11 21:43:15 --> Router Class Initialized
+DEBUG - 2013-12-11 21:43:15 --> Output Class Initialized
+DEBUG - 2013-12-11 21:43:15 --> Security Class Initialized
+DEBUG - 2013-12-11 21:43:15 --> Input Class Initialized
+DEBUG - 2013-12-11 21:43:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:43:15 --> Language Class Initialized
+DEBUG - 2013-12-11 21:43:15 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:43:15 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:43:15 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:43:15 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:43:15 --> Model Class Initialized
+DEBUG - 2013-12-11 21:43:15 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:43:15 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:43:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:43:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:43:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:43:15 --> DB Transaction Failure
+ERROR - 2013-12-11 21:43:15 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:43:15 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:43:17 --> Config Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:43:17 --> URI Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> Router Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> Output Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> Security Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> Input Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:43:17 --> Language Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:43:17 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:43:17 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> Model Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:43:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:43:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:43:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:43:17 --> DB Transaction Failure
+ERROR - 2013-12-11 21:43:17 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:43:17 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:43:17 --> Config Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:43:17 --> URI Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> Router Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> Output Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> Security Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> Input Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:43:17 --> Language Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:43:17 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:43:17 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> Model Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:43:17 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:43:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:43:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:43:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:43:17 --> DB Transaction Failure
+ERROR - 2013-12-11 21:43:17 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:43:17 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:43:43 --> Config Class Initialized
+DEBUG - 2013-12-11 21:43:43 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:43:43 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:43:43 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:43:43 --> URI Class Initialized
+DEBUG - 2013-12-11 21:43:43 --> Router Class Initialized
+DEBUG - 2013-12-11 21:43:43 --> Output Class Initialized
+DEBUG - 2013-12-11 21:43:43 --> Security Class Initialized
+DEBUG - 2013-12-11 21:43:43 --> Input Class Initialized
+DEBUG - 2013-12-11 21:43:43 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:43:43 --> Language Class Initialized
+DEBUG - 2013-12-11 21:43:43 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:43:43 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:43:43 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:43:43 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:43:43 --> Model Class Initialized
+DEBUG - 2013-12-11 21:43:43 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:43:43 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:43:43 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:43:43 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:43:43 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:43:43 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:43:43 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:43:43 --> Final output sent to browser
+DEBUG - 2013-12-11 21:43:43 --> Total execution time: 0.0560
+DEBUG - 2013-12-11 21:43:45 --> Config Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:43:45 --> URI Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> Router Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> Output Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> Security Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> Input Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:43:45 --> Language Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:43:45 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:43:45 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> Model Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:43:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:43:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:43:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:43:45 --> DB Transaction Failure
+ERROR - 2013-12-11 21:43:45 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:43:45 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:43:45 --> Config Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:43:45 --> URI Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> Router Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> Output Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> Security Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> Input Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:43:45 --> Language Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:43:45 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:43:45 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> Model Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:43:45 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:43:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:43:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:43:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:43:45 --> DB Transaction Failure
+ERROR - 2013-12-11 21:43:45 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:43:45 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:43:47 --> Config Class Initialized
+DEBUG - 2013-12-11 21:43:47 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:43:47 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:43:47 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:43:47 --> URI Class Initialized
+DEBUG - 2013-12-11 21:43:47 --> Router Class Initialized
+DEBUG - 2013-12-11 21:43:47 --> Output Class Initialized
+DEBUG - 2013-12-11 21:43:47 --> Security Class Initialized
+DEBUG - 2013-12-11 21:43:47 --> Input Class Initialized
+DEBUG - 2013-12-11 21:43:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:43:47 --> Language Class Initialized
+DEBUG - 2013-12-11 21:43:47 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:43:47 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:43:47 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:43:47 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:43:47 --> Model Class Initialized
+DEBUG - 2013-12-11 21:43:47 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:43:47 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:43:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:43:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:43:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:43:47 --> DB Transaction Failure
+ERROR - 2013-12-11 21:43:47 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:43:47 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:43:48 --> Config Class Initialized
+DEBUG - 2013-12-11 21:43:48 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:43:48 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:43:48 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:43:48 --> URI Class Initialized
+DEBUG - 2013-12-11 21:43:48 --> Router Class Initialized
+DEBUG - 2013-12-11 21:43:48 --> Output Class Initialized
+DEBUG - 2013-12-11 21:43:48 --> Security Class Initialized
+DEBUG - 2013-12-11 21:43:48 --> Input Class Initialized
+DEBUG - 2013-12-11 21:43:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:43:48 --> Language Class Initialized
+DEBUG - 2013-12-11 21:43:48 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:43:48 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:43:48 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:43:48 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:43:48 --> Model Class Initialized
+DEBUG - 2013-12-11 21:43:48 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:43:48 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:43:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:43:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:43:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:43:49 --> DB Transaction Failure
+ERROR - 2013-12-11 21:43:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:43:49 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:43:49 --> Config Class Initialized
+DEBUG - 2013-12-11 21:43:49 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:43:49 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:43:49 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:43:49 --> URI Class Initialized
+DEBUG - 2013-12-11 21:43:49 --> Router Class Initialized
+DEBUG - 2013-12-11 21:43:49 --> Output Class Initialized
+DEBUG - 2013-12-11 21:43:49 --> Security Class Initialized
+DEBUG - 2013-12-11 21:43:49 --> Input Class Initialized
+DEBUG - 2013-12-11 21:43:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:43:49 --> Language Class Initialized
+DEBUG - 2013-12-11 21:43:49 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:43:49 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:43:49 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:43:49 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:43:49 --> Model Class Initialized
+DEBUG - 2013-12-11 21:43:49 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:43:49 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:43:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:43:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:43:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:43:49 --> DB Transaction Failure
+ERROR - 2013-12-11 21:43:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:43:49 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:44:16 --> Config Class Initialized
+DEBUG - 2013-12-11 21:44:16 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:44:16 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:44:16 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:44:16 --> URI Class Initialized
+DEBUG - 2013-12-11 21:44:16 --> Router Class Initialized
+DEBUG - 2013-12-11 21:44:16 --> Output Class Initialized
+DEBUG - 2013-12-11 21:44:16 --> Security Class Initialized
+DEBUG - 2013-12-11 21:44:16 --> Input Class Initialized
+DEBUG - 2013-12-11 21:44:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:44:16 --> Language Class Initialized
+DEBUG - 2013-12-11 21:44:16 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:44:16 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:44:16 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:44:16 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:44:16 --> Model Class Initialized
+DEBUG - 2013-12-11 21:44:16 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:44:17 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:44:17 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:44:17 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:44:17 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:44:17 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:44:17 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:44:17 --> Final output sent to browser
+DEBUG - 2013-12-11 21:44:17 --> Total execution time: 0.0561
+DEBUG - 2013-12-11 21:44:18 --> Config Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:44:18 --> URI Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> Router Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> Output Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> Security Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> Input Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:44:18 --> Language Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:44:18 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:44:18 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> Model Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:44:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:44:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:44:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:44:18 --> DB Transaction Failure
+ERROR - 2013-12-11 21:44:18 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:44:18 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:44:18 --> Config Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:44:18 --> URI Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> Router Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> Output Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> Security Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> Input Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:44:18 --> Language Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:44:18 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:44:18 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> Model Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:44:18 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:44:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:44:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:44:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:44:18 --> DB Transaction Failure
+ERROR - 2013-12-11 21:44:18 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:44:18 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:44:20 --> Config Class Initialized
+DEBUG - 2013-12-11 21:44:20 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:44:20 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:44:20 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:44:20 --> URI Class Initialized
+DEBUG - 2013-12-11 21:44:20 --> Router Class Initialized
+DEBUG - 2013-12-11 21:44:20 --> Output Class Initialized
+DEBUG - 2013-12-11 21:44:20 --> Security Class Initialized
+DEBUG - 2013-12-11 21:44:20 --> Input Class Initialized
+DEBUG - 2013-12-11 21:44:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:44:20 --> Language Class Initialized
+DEBUG - 2013-12-11 21:44:20 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:44:20 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:44:20 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:44:20 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:44:20 --> Model Class Initialized
+DEBUG - 2013-12-11 21:44:20 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:44:20 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:44:20 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:44:20 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:44:20 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:44:20 --> DB Transaction Failure
+ERROR - 2013-12-11 21:44:20 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:44:20 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:44:21 --> Config Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:44:21 --> URI Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> Router Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> Output Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> Security Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> Input Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:44:21 --> Language Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:44:21 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:44:21 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> Model Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:44:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:44:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:44:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:44:21 --> DB Transaction Failure
+ERROR - 2013-12-11 21:44:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:44:21 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:44:21 --> Config Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:44:21 --> URI Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> Router Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> Output Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> Security Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> Input Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:44:21 --> Language Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:44:21 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:44:21 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> Model Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:44:21 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:44:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:44:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:44:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:44:21 --> DB Transaction Failure
+ERROR - 2013-12-11 21:44:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:44:21 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:45:17 --> Config Class Initialized
+DEBUG - 2013-12-11 21:45:17 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:45:17 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:45:17 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:45:17 --> URI Class Initialized
+DEBUG - 2013-12-11 21:45:17 --> Router Class Initialized
+DEBUG - 2013-12-11 21:45:17 --> Output Class Initialized
+DEBUG - 2013-12-11 21:45:17 --> Security Class Initialized
+DEBUG - 2013-12-11 21:45:17 --> Input Class Initialized
+DEBUG - 2013-12-11 21:45:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:45:17 --> Language Class Initialized
+DEBUG - 2013-12-11 21:45:17 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:45:17 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:45:17 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:45:17 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:45:17 --> Model Class Initialized
+DEBUG - 2013-12-11 21:45:17 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:45:17 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:45:17 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:45:17 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:45:17 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:45:17 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:45:17 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:45:17 --> Final output sent to browser
+DEBUG - 2013-12-11 21:45:17 --> Total execution time: 0.0664
+DEBUG - 2013-12-11 21:45:19 --> Config Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:45:19 --> URI Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> Router Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> Output Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> Security Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> Input Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:45:19 --> Language Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:45:19 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:45:19 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> Model Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:45:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:45:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:45:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:45:19 --> DB Transaction Failure
+ERROR - 2013-12-11 21:45:19 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:45:19 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:45:19 --> Config Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:45:19 --> URI Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> Router Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> Output Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> Security Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> Input Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:45:19 --> Language Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:45:19 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:45:19 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> Model Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:45:19 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:45:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:45:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:45:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:45:19 --> DB Transaction Failure
+ERROR - 2013-12-11 21:45:19 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:45:19 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:45:20 --> Config Class Initialized
+DEBUG - 2013-12-11 21:45:20 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:45:20 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:45:20 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:45:20 --> URI Class Initialized
+DEBUG - 2013-12-11 21:45:21 --> Router Class Initialized
+DEBUG - 2013-12-11 21:45:21 --> Output Class Initialized
+DEBUG - 2013-12-11 21:45:21 --> Security Class Initialized
+DEBUG - 2013-12-11 21:45:21 --> Input Class Initialized
+DEBUG - 2013-12-11 21:45:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:45:21 --> Language Class Initialized
+DEBUG - 2013-12-11 21:45:21 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:45:21 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:45:21 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:45:21 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:45:21 --> Model Class Initialized
+DEBUG - 2013-12-11 21:45:21 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:45:21 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:45:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:45:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:45:21 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:45:21 --> DB Transaction Failure
+ERROR - 2013-12-11 21:45:21 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:45:21 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:45:22 --> Config Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:45:22 --> URI Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> Router Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> Output Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> Security Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> Input Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:45:22 --> Language Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:45:22 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:45:22 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> Model Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:45:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:45:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:45:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:45:22 --> DB Transaction Failure
+ERROR - 2013-12-11 21:45:22 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:45:22 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:45:22 --> Config Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:45:22 --> URI Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> Router Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> Output Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> Security Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> Input Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:45:22 --> Language Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:45:22 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:45:22 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> Model Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:45:22 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:45:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:45:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:45:22 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:45:22 --> DB Transaction Failure
+ERROR - 2013-12-11 21:45:22 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:45:22 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:45:34 --> Config Class Initialized
+DEBUG - 2013-12-11 21:45:34 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:45:34 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:45:34 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:45:34 --> URI Class Initialized
+DEBUG - 2013-12-11 21:45:34 --> Router Class Initialized
+DEBUG - 2013-12-11 21:45:34 --> Output Class Initialized
+DEBUG - 2013-12-11 21:45:34 --> Security Class Initialized
+DEBUG - 2013-12-11 21:45:34 --> Input Class Initialized
+DEBUG - 2013-12-11 21:45:34 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:45:34 --> Language Class Initialized
+DEBUG - 2013-12-11 21:45:34 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:45:34 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:45:34 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:45:34 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:45:34 --> Model Class Initialized
+DEBUG - 2013-12-11 21:45:34 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:45:34 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:45:34 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:45:34 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:45:34 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:45:34 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:45:34 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:45:34 --> Final output sent to browser
+DEBUG - 2013-12-11 21:45:34 --> Total execution time: 0.0549
+DEBUG - 2013-12-11 21:45:36 --> Config Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:45:36 --> URI Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> Router Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> Output Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> Security Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> Input Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:45:36 --> Language Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:45:36 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:45:36 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> Model Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:45:36 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:45:36 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:45:36 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:45:36 --> DB Transaction Failure
+ERROR - 2013-12-11 21:45:36 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:45:36 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:45:36 --> Config Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:45:36 --> URI Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> Router Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> Output Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> Security Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> Input Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:45:36 --> Language Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:45:36 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:45:36 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> Model Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:45:36 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:45:36 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:45:36 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:45:36 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:45:36 --> DB Transaction Failure
+ERROR - 2013-12-11 21:45:36 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:45:36 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:45:37 --> Config Class Initialized
+DEBUG - 2013-12-11 21:45:37 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:45:37 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:45:37 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:45:37 --> URI Class Initialized
+DEBUG - 2013-12-11 21:45:37 --> Router Class Initialized
+DEBUG - 2013-12-11 21:45:37 --> Output Class Initialized
+DEBUG - 2013-12-11 21:45:37 --> Security Class Initialized
+DEBUG - 2013-12-11 21:45:37 --> Input Class Initialized
+DEBUG - 2013-12-11 21:45:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:45:37 --> Language Class Initialized
+DEBUG - 2013-12-11 21:45:37 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:45:37 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:45:37 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:45:37 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:45:37 --> Model Class Initialized
+DEBUG - 2013-12-11 21:45:37 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:45:37 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:45:37 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:45:37 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:45:37 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:45:37 --> DB Transaction Failure
+ERROR - 2013-12-11 21:45:37 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:45:37 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:45:38 --> Config Class Initialized
+DEBUG - 2013-12-11 21:45:38 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:45:38 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:45:38 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:45:38 --> URI Class Initialized
+DEBUG - 2013-12-11 21:45:38 --> Router Class Initialized
+DEBUG - 2013-12-11 21:45:38 --> Output Class Initialized
+DEBUG - 2013-12-11 21:45:38 --> Security Class Initialized
+DEBUG - 2013-12-11 21:45:38 --> Input Class Initialized
+DEBUG - 2013-12-11 21:45:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:45:38 --> Language Class Initialized
+DEBUG - 2013-12-11 21:45:38 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:45:38 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:45:38 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:45:38 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:45:38 --> Model Class Initialized
+DEBUG - 2013-12-11 21:45:39 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:45:39 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:45:39 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:45:39 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:45:39 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:45:39 --> DB Transaction Failure
+ERROR - 2013-12-11 21:45:39 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:45:39 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:45:39 --> Config Class Initialized
+DEBUG - 2013-12-11 21:45:39 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:45:39 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:45:39 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:45:39 --> URI Class Initialized
+DEBUG - 2013-12-11 21:45:39 --> Router Class Initialized
+DEBUG - 2013-12-11 21:45:39 --> Output Class Initialized
+DEBUG - 2013-12-11 21:45:39 --> Security Class Initialized
+DEBUG - 2013-12-11 21:45:39 --> Input Class Initialized
+DEBUG - 2013-12-11 21:45:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:45:39 --> Language Class Initialized
+DEBUG - 2013-12-11 21:45:39 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:45:39 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:45:39 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:45:39 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:45:39 --> Model Class Initialized
+DEBUG - 2013-12-11 21:45:39 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:45:39 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:45:39 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:45:39 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:45:39 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:45:39 --> DB Transaction Failure
+ERROR - 2013-12-11 21:45:39 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:45:39 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:45:52 --> Config Class Initialized
+DEBUG - 2013-12-11 21:45:52 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:45:52 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:45:52 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:45:52 --> URI Class Initialized
+DEBUG - 2013-12-11 21:45:52 --> Router Class Initialized
+DEBUG - 2013-12-11 21:45:52 --> Output Class Initialized
+DEBUG - 2013-12-11 21:45:52 --> Security Class Initialized
+DEBUG - 2013-12-11 21:45:52 --> Input Class Initialized
+DEBUG - 2013-12-11 21:45:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:45:52 --> Language Class Initialized
+DEBUG - 2013-12-11 21:45:52 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:45:52 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:45:52 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:45:52 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:45:52 --> Model Class Initialized
+DEBUG - 2013-12-11 21:45:52 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:45:52 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:45:52 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:45:52 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:45:52 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:45:52 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:45:52 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:45:52 --> Final output sent to browser
+DEBUG - 2013-12-11 21:45:52 --> Total execution time: 0.0739
+DEBUG - 2013-12-11 21:45:53 --> Config Class Initialized
+DEBUG - 2013-12-11 21:45:53 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:45:53 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:45:53 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:45:53 --> URI Class Initialized
+DEBUG - 2013-12-11 21:45:53 --> Router Class Initialized
+DEBUG - 2013-12-11 21:45:53 --> Output Class Initialized
+DEBUG - 2013-12-11 21:45:53 --> Security Class Initialized
+DEBUG - 2013-12-11 21:45:53 --> Input Class Initialized
+DEBUG - 2013-12-11 21:45:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:45:53 --> Language Class Initialized
+DEBUG - 2013-12-11 21:45:53 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:45:53 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:45:53 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:45:53 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:45:54 --> Model Class Initialized
+DEBUG - 2013-12-11 21:45:54 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:45:54 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:45:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:45:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:45:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:45:54 --> DB Transaction Failure
+ERROR - 2013-12-11 21:45:54 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:45:54 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:45:54 --> Config Class Initialized
+DEBUG - 2013-12-11 21:45:54 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:45:54 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:45:54 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:45:54 --> URI Class Initialized
+DEBUG - 2013-12-11 21:45:54 --> Router Class Initialized
+DEBUG - 2013-12-11 21:45:54 --> Output Class Initialized
+DEBUG - 2013-12-11 21:45:54 --> Security Class Initialized
+DEBUG - 2013-12-11 21:45:54 --> Input Class Initialized
+DEBUG - 2013-12-11 21:45:54 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:45:54 --> Language Class Initialized
+DEBUG - 2013-12-11 21:45:54 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:45:54 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:45:54 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:45:54 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:45:54 --> Model Class Initialized
+DEBUG - 2013-12-11 21:45:54 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:45:54 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:45:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:45:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:45:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:45:54 --> DB Transaction Failure
+ERROR - 2013-12-11 21:45:54 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:45:54 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:45:55 --> Config Class Initialized
+DEBUG - 2013-12-11 21:45:55 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:45:55 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:45:55 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:45:55 --> URI Class Initialized
+DEBUG - 2013-12-11 21:45:55 --> Router Class Initialized
+DEBUG - 2013-12-11 21:45:55 --> Output Class Initialized
+DEBUG - 2013-12-11 21:45:55 --> Security Class Initialized
+DEBUG - 2013-12-11 21:45:55 --> Input Class Initialized
+DEBUG - 2013-12-11 21:45:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:45:55 --> Language Class Initialized
+DEBUG - 2013-12-11 21:45:55 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:45:55 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:45:55 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:45:55 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:45:55 --> Model Class Initialized
+DEBUG - 2013-12-11 21:45:55 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:45:55 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:45:55 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:45:55 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:45:55 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:45:55 --> DB Transaction Failure
+ERROR - 2013-12-11 21:45:55 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:45:55 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:45:56 --> Config Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:45:56 --> URI Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> Router Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> Output Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> Security Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> Input Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:45:56 --> Language Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:45:56 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:45:56 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> Model Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:45:56 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:45:56 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:45:56 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:45:56 --> DB Transaction Failure
+ERROR - 2013-12-11 21:45:56 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:45:56 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:45:56 --> Config Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:45:56 --> URI Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> Router Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> Output Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> Security Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> Input Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:45:56 --> Language Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:45:56 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:45:56 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> Model Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:45:56 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:45:56 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:45:56 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:45:56 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:45:56 --> DB Transaction Failure
+ERROR - 2013-12-11 21:45:56 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:45:56 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:46:12 --> Config Class Initialized
+DEBUG - 2013-12-11 21:46:12 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:46:12 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:46:12 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:46:12 --> URI Class Initialized
+DEBUG - 2013-12-11 21:46:12 --> Router Class Initialized
+DEBUG - 2013-12-11 21:46:12 --> Output Class Initialized
+DEBUG - 2013-12-11 21:46:12 --> Security Class Initialized
+DEBUG - 2013-12-11 21:46:12 --> Input Class Initialized
+DEBUG - 2013-12-11 21:46:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:46:12 --> Language Class Initialized
+DEBUG - 2013-12-11 21:46:12 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:46:12 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:46:12 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:46:12 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:46:12 --> Model Class Initialized
+DEBUG - 2013-12-11 21:46:12 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:46:12 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:46:12 --> Final output sent to browser
+DEBUG - 2013-12-11 21:46:12 --> Total execution time: 0.1311
+DEBUG - 2013-12-11 21:47:42 --> Config Class Initialized
+DEBUG - 2013-12-11 21:47:42 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:47:42 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:47:42 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:47:42 --> URI Class Initialized
+DEBUG - 2013-12-11 21:47:42 --> Router Class Initialized
+DEBUG - 2013-12-11 21:47:42 --> Output Class Initialized
+DEBUG - 2013-12-11 21:47:42 --> Security Class Initialized
+DEBUG - 2013-12-11 21:47:42 --> Input Class Initialized
+DEBUG - 2013-12-11 21:47:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:47:42 --> Language Class Initialized
+DEBUG - 2013-12-11 21:47:42 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:47:42 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:47:42 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:47:42 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:47:42 --> Model Class Initialized
+DEBUG - 2013-12-11 21:47:42 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:47:42 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:47:42 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:47:42 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:47:42 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:47:42 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:47:42 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:47:42 --> Final output sent to browser
+DEBUG - 2013-12-11 21:47:42 --> Total execution time: 0.0553
+DEBUG - 2013-12-11 21:47:44 --> Config Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:47:44 --> URI Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> Router Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> Output Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> Security Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> Input Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:47:44 --> Language Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:47:44 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:47:44 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> Model Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:47:44 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:47:44 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:47:44 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:47:44 --> DB Transaction Failure
+ERROR - 2013-12-11 21:47:44 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:47:44 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:47:44 --> Config Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:47:44 --> URI Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> Router Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> Output Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> Security Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> Input Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:47:44 --> Language Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:47:44 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:47:44 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> Model Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:47:44 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:47:44 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:47:44 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:47:44 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:47:44 --> DB Transaction Failure
+ERROR - 2013-12-11 21:47:44 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:47:44 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:47:45 --> Config Class Initialized
+DEBUG - 2013-12-11 21:47:45 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:47:45 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:47:45 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:47:45 --> URI Class Initialized
+DEBUG - 2013-12-11 21:47:45 --> Router Class Initialized
+DEBUG - 2013-12-11 21:47:45 --> Output Class Initialized
+DEBUG - 2013-12-11 21:47:45 --> Security Class Initialized
+DEBUG - 2013-12-11 21:47:45 --> Input Class Initialized
+DEBUG - 2013-12-11 21:47:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:47:45 --> Language Class Initialized
+DEBUG - 2013-12-11 21:47:45 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:47:45 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:47:45 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:47:45 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:47:45 --> Model Class Initialized
+DEBUG - 2013-12-11 21:47:45 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:47:45 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:47:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:47:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:47:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:47:45 --> DB Transaction Failure
+ERROR - 2013-12-11 21:47:45 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:47:45 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:47:46 --> Config Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:47:46 --> URI Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> Router Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> Output Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> Security Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> Input Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:47:46 --> Language Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:47:46 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:47:46 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> Model Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:47:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:47:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:47:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:47:46 --> DB Transaction Failure
+ERROR - 2013-12-11 21:47:46 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:47:46 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:47:46 --> Config Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:47:46 --> URI Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> Router Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> Output Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> Security Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> Input Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:47:46 --> Language Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:47:46 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:47:46 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> Model Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:47:46 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:47:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:47:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:47:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:47:46 --> DB Transaction Failure
+ERROR - 2013-12-11 21:47:46 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:47:46 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:47:59 --> Config Class Initialized
+DEBUG - 2013-12-11 21:47:59 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:47:59 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:47:59 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:47:59 --> URI Class Initialized
+DEBUG - 2013-12-11 21:47:59 --> Router Class Initialized
+DEBUG - 2013-12-11 21:47:59 --> Output Class Initialized
+DEBUG - 2013-12-11 21:47:59 --> Security Class Initialized
+DEBUG - 2013-12-11 21:47:59 --> Input Class Initialized
+DEBUG - 2013-12-11 21:47:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:47:59 --> Language Class Initialized
+DEBUG - 2013-12-11 21:47:59 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:47:59 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:47:59 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:47:59 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:47:59 --> Model Class Initialized
+DEBUG - 2013-12-11 21:47:59 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:47:59 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:47:59 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:47:59 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:47:59 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:47:59 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:47:59 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:47:59 --> Final output sent to browser
+DEBUG - 2013-12-11 21:47:59 --> Total execution time: 0.0798
+DEBUG - 2013-12-11 21:48:01 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:01 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:01 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:01 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:01 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:01 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:01 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:01 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:01 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:01 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:01 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:01 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:01 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:01 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:01 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:01 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:01 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:48:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:48:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:48:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:48:01 --> DB Transaction Failure
+ERROR - 2013-12-11 21:48:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:48:01 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:48:01 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:01 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:01 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:01 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:01 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:01 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:01 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:01 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:01 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:01 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:01 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:02 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:02 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:02 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:02 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:02 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:02 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:48:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:48:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:48:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:48:02 --> DB Transaction Failure
+ERROR - 2013-12-11 21:48:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:48:02 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:48:03 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:03 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:03 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:03 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:03 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:03 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:03 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:03 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:03 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:03 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:03 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:03 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:03 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:03 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:03 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:03 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:03 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:48:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:48:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:48:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:48:03 --> DB Transaction Failure
+ERROR - 2013-12-11 21:48:03 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:48:03 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:48:05 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:05 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:05 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:05 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:05 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:48:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:48:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:48:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:48:05 --> DB Transaction Failure
+ERROR - 2013-12-11 21:48:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:48:05 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:48:05 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:05 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:05 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:05 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:05 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:05 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:48:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:48:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:48:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:48:05 --> DB Transaction Failure
+ERROR - 2013-12-11 21:48:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:48:05 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:48:07 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:07 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:07 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:07 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:07 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:07 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:07 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:07 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:07 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:07 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:07 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:07 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:07 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:07 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:07 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:07 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:07 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:48:07 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:48:07 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:48:07 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:48:07 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:48:07 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:48:07 --> Final output sent to browser
+DEBUG - 2013-12-11 21:48:07 --> Total execution time: 0.0565
+DEBUG - 2013-12-11 21:48:09 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:09 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:09 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:09 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:09 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:48:09 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:48:09 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:48:09 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:48:09 --> DB Transaction Failure
+ERROR - 2013-12-11 21:48:09 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:48:09 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:48:09 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:09 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:09 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:09 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:09 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:09 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:48:09 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:48:09 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:48:09 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:48:09 --> DB Transaction Failure
+ERROR - 2013-12-11 21:48:09 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:48:09 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:48:11 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:11 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:11 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:11 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:11 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:11 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:11 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:11 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:11 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:11 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:11 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:11 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:11 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:11 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:11 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:11 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:11 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:48:11 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:48:11 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:48:11 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:48:11 --> DB Transaction Failure
+ERROR - 2013-12-11 21:48:11 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:48:11 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:48:13 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:13 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:13 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:13 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:13 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:48:13 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:48:13 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:48:13 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:48:13 --> DB Transaction Failure
+ERROR - 2013-12-11 21:48:13 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:48:13 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:48:13 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:13 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:13 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:13 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:13 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:48:13 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:48:13 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:48:13 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:48:13 --> DB Transaction Failure
+ERROR - 2013-12-11 21:48:13 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:48:13 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:48:13 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:13 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:13 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:13 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:13 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:13 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:48:13 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:48:13 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:48:13 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:48:13 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:48:13 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:48:13 --> Final output sent to browser
+DEBUG - 2013-12-11 21:48:13 --> Total execution time: 0.0724
+DEBUG - 2013-12-11 21:48:15 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:15 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:15 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:15 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:15 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:48:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:48:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:48:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:48:15 --> DB Transaction Failure
+ERROR - 2013-12-11 21:48:15 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:48:15 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:48:15 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:15 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:15 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:15 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:15 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:15 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:48:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:48:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:48:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:48:15 --> DB Transaction Failure
+ERROR - 2013-12-11 21:48:15 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:48:15 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:48:16 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:16 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:16 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:16 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:16 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:16 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:16 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:16 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:16 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:16 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:16 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:16 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:16 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:16 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:16 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:16 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:16 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:48:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:48:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:48:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:48:17 --> DB Transaction Failure
+ERROR - 2013-12-11 21:48:17 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:48:17 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:48:18 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:18 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:18 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:18 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:18 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:48:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:48:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:48:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:48:18 --> DB Transaction Failure
+ERROR - 2013-12-11 21:48:18 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:48:18 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:48:18 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:18 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:18 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:18 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:18 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:18 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:48:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:48:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:48:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:48:18 --> DB Transaction Failure
+ERROR - 2013-12-11 21:48:18 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:48:18 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:48:47 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:47 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:47 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:47 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:47 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:47 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:47 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:47 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:47 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:47 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:47 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:47 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:47 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:47 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:47 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:47 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:47 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:48:47 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:48:47 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:48:47 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:48:47 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:48:47 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:48:47 --> Final output sent to browser
+DEBUG - 2013-12-11 21:48:47 --> Total execution time: 0.0553
+DEBUG - 2013-12-11 21:48:49 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:49 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:49 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:49 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:49 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:48:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:48:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:48:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:48:49 --> DB Transaction Failure
+ERROR - 2013-12-11 21:48:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:48:49 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:48:49 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:49 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:49 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:49 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:49 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:49 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:48:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:48:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:48:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:48:49 --> DB Transaction Failure
+ERROR - 2013-12-11 21:48:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:48:49 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:48:51 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:51 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:51 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:51 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:51 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:51 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:51 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:51 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:51 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:51 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:51 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:51 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:51 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:51 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:51 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:51 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:51 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:48:51 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:48:51 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:48:51 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:48:51 --> DB Transaction Failure
+ERROR - 2013-12-11 21:48:51 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:48:51 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:48:53 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:53 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:53 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:53 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:53 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:53 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:53 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:53 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:53 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:48:53 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:48:53 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:48:53 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:48:53 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:48:53 --> DB Transaction Failure
+ERROR - 2013-12-11 21:48:53 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:48:53 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:48:53 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:48:53 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:48:53 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:48:53 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:48:53 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:48:53 --> Final output sent to browser
+DEBUG - 2013-12-11 21:48:53 --> Total execution time: 0.0682
+DEBUG - 2013-12-11 21:48:53 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:53 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:53 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:54 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:54 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:54 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:54 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:54 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:54 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:54 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:48:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:48:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:48:54 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:48:54 --> DB Transaction Failure
+ERROR - 2013-12-11 21:48:54 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:48:54 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:48:57 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:57 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:57 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:57 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:57 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:48:57 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:48:57 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:48:57 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:48:57 --> DB Transaction Failure
+ERROR - 2013-12-11 21:48:57 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:48:57 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:48:57 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:57 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:57 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:57 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:57 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:57 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:48:57 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:48:57 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:48:57 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:48:57 --> DB Transaction Failure
+ERROR - 2013-12-11 21:48:57 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:48:57 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:48:59 --> Config Class Initialized
+DEBUG - 2013-12-11 21:48:59 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:48:59 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:48:59 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:48:59 --> URI Class Initialized
+DEBUG - 2013-12-11 21:48:59 --> Router Class Initialized
+DEBUG - 2013-12-11 21:48:59 --> Output Class Initialized
+DEBUG - 2013-12-11 21:48:59 --> Security Class Initialized
+DEBUG - 2013-12-11 21:48:59 --> Input Class Initialized
+DEBUG - 2013-12-11 21:48:59 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:48:59 --> Language Class Initialized
+DEBUG - 2013-12-11 21:48:59 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:48:59 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:48:59 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:48:59 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:48:59 --> Model Class Initialized
+DEBUG - 2013-12-11 21:48:59 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:48:59 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:48:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:48:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:48:59 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:48:59 --> DB Transaction Failure
+ERROR - 2013-12-11 21:48:59 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:48:59 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:49:00 --> Config Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:49:00 --> URI Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> Router Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> Output Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> Security Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> Input Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:49:00 --> Language Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:49:00 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:49:00 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> Model Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:49:00 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:49:00 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:49:00 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:49:00 --> DB Transaction Failure
+ERROR - 2013-12-11 21:49:00 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:49:00 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:49:00 --> Config Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:49:00 --> URI Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> Router Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> Output Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> Security Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> Input Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:49:00 --> Language Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:49:00 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:49:00 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> Model Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:49:00 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:49:00 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:49:00 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:49:00 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:49:00 --> DB Transaction Failure
+ERROR - 2013-12-11 21:49:00 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:49:00 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:49:35 --> Config Class Initialized
+DEBUG - 2013-12-11 21:49:35 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:49:35 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:49:35 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:49:35 --> URI Class Initialized
+DEBUG - 2013-12-11 21:49:35 --> Router Class Initialized
+DEBUG - 2013-12-11 21:49:35 --> Output Class Initialized
+DEBUG - 2013-12-11 21:49:35 --> Security Class Initialized
+DEBUG - 2013-12-11 21:49:35 --> Input Class Initialized
+DEBUG - 2013-12-11 21:49:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:49:35 --> Language Class Initialized
+DEBUG - 2013-12-11 21:49:35 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:49:35 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:49:35 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:49:35 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:49:35 --> Model Class Initialized
+DEBUG - 2013-12-11 21:49:35 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:49:35 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:49:35 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:49:35 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:49:35 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:49:35 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:49:35 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:49:35 --> Final output sent to browser
+DEBUG - 2013-12-11 21:49:35 --> Total execution time: 0.0586
+DEBUG - 2013-12-11 21:49:37 --> Config Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:49:37 --> URI Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> Router Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> Output Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> Security Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> Input Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:49:37 --> Language Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:49:37 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:49:37 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> Model Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:49:37 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:49:37 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:49:37 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:49:37 --> DB Transaction Failure
+ERROR - 2013-12-11 21:49:37 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:49:37 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:49:37 --> Config Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:49:37 --> URI Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> Router Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> Output Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> Security Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> Input Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:49:37 --> Language Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:49:37 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:49:37 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> Model Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:49:37 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:49:37 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:49:37 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:49:37 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:49:37 --> DB Transaction Failure
+ERROR - 2013-12-11 21:49:37 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:49:37 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:49:38 --> Config Class Initialized
+DEBUG - 2013-12-11 21:49:38 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:49:38 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:49:38 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:49:38 --> URI Class Initialized
+DEBUG - 2013-12-11 21:49:38 --> Router Class Initialized
+DEBUG - 2013-12-11 21:49:38 --> Output Class Initialized
+DEBUG - 2013-12-11 21:49:38 --> Security Class Initialized
+DEBUG - 2013-12-11 21:49:38 --> Input Class Initialized
+DEBUG - 2013-12-11 21:49:38 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:49:38 --> Language Class Initialized
+DEBUG - 2013-12-11 21:49:38 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:49:38 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:49:38 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:49:38 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:49:38 --> Model Class Initialized
+DEBUG - 2013-12-11 21:49:38 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:49:38 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:49:38 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:49:38 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:49:38 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:49:38 --> DB Transaction Failure
+ERROR - 2013-12-11 21:49:38 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:49:38 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:49:39 --> Config Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:49:39 --> URI Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> Router Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> Output Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> Security Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> Input Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:49:39 --> Language Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:49:39 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:49:39 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> Model Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:49:39 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:49:39 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:49:39 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:49:39 --> DB Transaction Failure
+ERROR - 2013-12-11 21:49:39 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:49:39 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:49:39 --> Config Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:49:39 --> URI Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> Router Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> Output Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> Security Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> Input Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:49:39 --> Language Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:49:39 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:49:39 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> Model Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:49:39 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:49:39 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:49:39 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:49:39 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:49:39 --> DB Transaction Failure
+ERROR - 2013-12-11 21:49:39 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:49:39 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:50:03 --> Config Class Initialized
+DEBUG - 2013-12-11 21:50:03 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:50:03 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:50:03 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:50:03 --> URI Class Initialized
+DEBUG - 2013-12-11 21:50:03 --> Router Class Initialized
+DEBUG - 2013-12-11 21:50:03 --> Output Class Initialized
+DEBUG - 2013-12-11 21:50:03 --> Security Class Initialized
+DEBUG - 2013-12-11 21:50:03 --> Input Class Initialized
+DEBUG - 2013-12-11 21:50:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:50:03 --> Language Class Initialized
+DEBUG - 2013-12-11 21:50:03 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:50:03 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:50:03 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:50:03 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:50:03 --> Model Class Initialized
+DEBUG - 2013-12-11 21:50:04 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:50:04 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:50:04 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:50:04 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:50:04 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:50:04 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:50:04 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:50:04 --> Final output sent to browser
+DEBUG - 2013-12-11 21:50:04 --> Total execution time: 0.0557
+DEBUG - 2013-12-11 21:50:05 --> Config Class Initialized
+DEBUG - 2013-12-11 21:50:05 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:50:05 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:50:05 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:50:05 --> URI Class Initialized
+DEBUG - 2013-12-11 21:50:05 --> Router Class Initialized
+DEBUG - 2013-12-11 21:50:05 --> Output Class Initialized
+DEBUG - 2013-12-11 21:50:05 --> Security Class Initialized
+DEBUG - 2013-12-11 21:50:05 --> Input Class Initialized
+DEBUG - 2013-12-11 21:50:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:50:05 --> Language Class Initialized
+DEBUG - 2013-12-11 21:50:05 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:50:05 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:50:05 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:50:05 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:50:05 --> Model Class Initialized
+DEBUG - 2013-12-11 21:50:05 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:50:05 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:50:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:50:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:50:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:50:05 --> DB Transaction Failure
+ERROR - 2013-12-11 21:50:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:50:05 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:50:05 --> Config Class Initialized
+DEBUG - 2013-12-11 21:50:05 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:50:06 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:50:06 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:50:06 --> URI Class Initialized
+DEBUG - 2013-12-11 21:50:06 --> Router Class Initialized
+DEBUG - 2013-12-11 21:50:06 --> Output Class Initialized
+DEBUG - 2013-12-11 21:50:06 --> Security Class Initialized
+DEBUG - 2013-12-11 21:50:06 --> Input Class Initialized
+DEBUG - 2013-12-11 21:50:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:50:06 --> Language Class Initialized
+DEBUG - 2013-12-11 21:50:06 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:50:06 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:50:06 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:50:06 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:50:06 --> Model Class Initialized
+DEBUG - 2013-12-11 21:50:06 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:50:06 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:50:06 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:50:06 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:50:06 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:50:06 --> DB Transaction Failure
+ERROR - 2013-12-11 21:50:06 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:50:06 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:50:07 --> Config Class Initialized
+DEBUG - 2013-12-11 21:50:07 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:50:07 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:50:07 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:50:07 --> URI Class Initialized
+DEBUG - 2013-12-11 21:50:07 --> Router Class Initialized
+DEBUG - 2013-12-11 21:50:07 --> Output Class Initialized
+DEBUG - 2013-12-11 21:50:07 --> Security Class Initialized
+DEBUG - 2013-12-11 21:50:07 --> Input Class Initialized
+DEBUG - 2013-12-11 21:50:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:50:07 --> Language Class Initialized
+DEBUG - 2013-12-11 21:50:07 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:50:07 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:50:07 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:50:07 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:50:07 --> Model Class Initialized
+DEBUG - 2013-12-11 21:50:07 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:50:07 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:50:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:50:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:50:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:50:07 --> DB Transaction Failure
+ERROR - 2013-12-11 21:50:07 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:50:07 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:50:09 --> Config Class Initialized
+DEBUG - 2013-12-11 21:50:09 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:50:09 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:50:09 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:50:09 --> URI Class Initialized
+DEBUG - 2013-12-11 21:50:09 --> Router Class Initialized
+DEBUG - 2013-12-11 21:50:09 --> Output Class Initialized
+DEBUG - 2013-12-11 21:50:09 --> Security Class Initialized
+DEBUG - 2013-12-11 21:50:09 --> Input Class Initialized
+DEBUG - 2013-12-11 21:50:09 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:50:09 --> Language Class Initialized
+DEBUG - 2013-12-11 21:50:09 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:50:09 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:50:09 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:50:09 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:50:10 --> Model Class Initialized
+DEBUG - 2013-12-11 21:50:10 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:50:10 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:50:10 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:50:10 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:50:10 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:50:10 --> DB Transaction Failure
+ERROR - 2013-12-11 21:50:10 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:50:10 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:50:10 --> Config Class Initialized
+DEBUG - 2013-12-11 21:50:10 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:50:10 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:50:10 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:50:10 --> URI Class Initialized
+DEBUG - 2013-12-11 21:50:10 --> Router Class Initialized
+DEBUG - 2013-12-11 21:50:10 --> Output Class Initialized
+DEBUG - 2013-12-11 21:50:10 --> Security Class Initialized
+DEBUG - 2013-12-11 21:50:10 --> Input Class Initialized
+DEBUG - 2013-12-11 21:50:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:50:10 --> Language Class Initialized
+DEBUG - 2013-12-11 21:50:10 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:50:10 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:50:10 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:50:10 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:50:10 --> Model Class Initialized
+DEBUG - 2013-12-11 21:50:10 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:50:10 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:50:10 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:50:10 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:50:10 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:50:10 --> DB Transaction Failure
+ERROR - 2013-12-11 21:50:10 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:50:10 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:51:14 --> Config Class Initialized
+DEBUG - 2013-12-11 21:51:14 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:51:14 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:51:14 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:51:14 --> URI Class Initialized
+DEBUG - 2013-12-11 21:51:14 --> Router Class Initialized
+DEBUG - 2013-12-11 21:51:14 --> Output Class Initialized
+DEBUG - 2013-12-11 21:51:14 --> Security Class Initialized
+DEBUG - 2013-12-11 21:51:14 --> Input Class Initialized
+DEBUG - 2013-12-11 21:51:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:51:14 --> Language Class Initialized
+DEBUG - 2013-12-11 21:51:14 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:51:14 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:51:14 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:51:14 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:51:14 --> Model Class Initialized
+DEBUG - 2013-12-11 21:51:14 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:51:14 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:51:14 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:51:14 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:51:14 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:51:14 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:51:14 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:51:14 --> Final output sent to browser
+DEBUG - 2013-12-11 21:51:14 --> Total execution time: 0.0562
+DEBUG - 2013-12-11 21:51:16 --> Config Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:51:16 --> URI Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> Router Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> Output Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> Security Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> Input Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:51:16 --> Language Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:51:16 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:51:16 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> Model Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:51:16 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:51:16 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:51:16 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:51:16 --> DB Transaction Failure
+ERROR - 2013-12-11 21:51:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:51:16 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:51:16 --> Config Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:51:16 --> URI Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> Router Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> Output Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> Security Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> Input Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:51:16 --> Language Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:51:16 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:51:16 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> Model Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:51:16 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:51:16 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:51:16 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:51:16 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:51:16 --> DB Transaction Failure
+ERROR - 2013-12-11 21:51:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:51:16 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:51:18 --> Config Class Initialized
+DEBUG - 2013-12-11 21:51:18 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:51:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:51:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:51:18 --> URI Class Initialized
+DEBUG - 2013-12-11 21:51:18 --> Router Class Initialized
+DEBUG - 2013-12-11 21:51:18 --> Output Class Initialized
+DEBUG - 2013-12-11 21:51:18 --> Security Class Initialized
+DEBUG - 2013-12-11 21:51:18 --> Input Class Initialized
+DEBUG - 2013-12-11 21:51:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:51:18 --> Language Class Initialized
+DEBUG - 2013-12-11 21:51:18 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:51:18 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:51:18 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:51:18 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:51:18 --> Model Class Initialized
+DEBUG - 2013-12-11 21:51:18 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:51:18 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:51:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:51:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:51:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:51:18 --> DB Transaction Failure
+ERROR - 2013-12-11 21:51:18 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:51:18 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:51:19 --> Config Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:51:19 --> URI Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> Router Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> Output Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> Security Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> Input Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:51:19 --> Language Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:51:19 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:51:19 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> Model Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:51:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:51:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:51:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:51:19 --> DB Transaction Failure
+ERROR - 2013-12-11 21:51:19 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:51:19 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:51:19 --> Config Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:51:19 --> URI Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> Router Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> Output Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> Security Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> Input Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:51:19 --> Language Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:51:19 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:51:19 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> Model Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:51:19 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:51:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:51:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:51:19 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:51:19 --> DB Transaction Failure
+ERROR - 2013-12-11 21:51:19 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:51:19 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:52:11 --> Config Class Initialized
+DEBUG - 2013-12-11 21:52:11 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:52:11 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:52:11 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:52:11 --> URI Class Initialized
+DEBUG - 2013-12-11 21:52:11 --> Router Class Initialized
+DEBUG - 2013-12-11 21:52:11 --> Output Class Initialized
+DEBUG - 2013-12-11 21:52:11 --> Security Class Initialized
+DEBUG - 2013-12-11 21:52:11 --> Input Class Initialized
+DEBUG - 2013-12-11 21:52:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:52:11 --> Language Class Initialized
+DEBUG - 2013-12-11 21:52:11 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:52:11 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:52:11 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:52:11 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:52:11 --> Model Class Initialized
+DEBUG - 2013-12-11 21:52:11 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:52:11 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:52:11 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:52:11 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:52:11 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:52:11 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:52:11 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:52:11 --> Final output sent to browser
+DEBUG - 2013-12-11 21:52:11 --> Total execution time: 0.0545
+DEBUG - 2013-12-11 21:52:13 --> Config Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:52:13 --> URI Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> Router Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> Output Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> Security Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> Input Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:52:13 --> Language Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:52:13 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:52:13 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> Model Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:52:13 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:52:13 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:52:13 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:52:13 --> DB Transaction Failure
+ERROR - 2013-12-11 21:52:13 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:52:13 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:52:13 --> Config Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:52:13 --> URI Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> Router Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> Output Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> Security Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> Input Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:52:13 --> Language Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:52:13 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:52:13 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> Model Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:52:13 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:52:13 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:52:13 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:52:13 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:52:13 --> DB Transaction Failure
+ERROR - 2013-12-11 21:52:13 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:52:13 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:52:15 --> Config Class Initialized
+DEBUG - 2013-12-11 21:52:15 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:52:15 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:52:15 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:52:15 --> URI Class Initialized
+DEBUG - 2013-12-11 21:52:15 --> Router Class Initialized
+DEBUG - 2013-12-11 21:52:15 --> Output Class Initialized
+DEBUG - 2013-12-11 21:52:15 --> Security Class Initialized
+DEBUG - 2013-12-11 21:52:15 --> Input Class Initialized
+DEBUG - 2013-12-11 21:52:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:52:15 --> Language Class Initialized
+DEBUG - 2013-12-11 21:52:15 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:52:15 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:52:15 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:52:15 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:52:15 --> Model Class Initialized
+DEBUG - 2013-12-11 21:52:15 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:52:15 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:52:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:52:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:52:15 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:52:15 --> DB Transaction Failure
+ERROR - 2013-12-11 21:52:15 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:52:15 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:52:17 --> Config Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:52:17 --> URI Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> Router Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> Output Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> Security Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> Input Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:52:17 --> Language Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:52:17 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:52:17 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> Model Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:52:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:52:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:52:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:52:17 --> DB Transaction Failure
+ERROR - 2013-12-11 21:52:17 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:52:17 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:52:17 --> Config Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:52:17 --> URI Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> Router Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> Output Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> Security Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> Input Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:52:17 --> Language Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:52:17 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:52:17 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> Model Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:52:17 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:52:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:52:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:52:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:52:17 --> DB Transaction Failure
+ERROR - 2013-12-11 21:52:17 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:52:17 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:53:23 --> Config Class Initialized
+DEBUG - 2013-12-11 21:53:23 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:53:23 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:53:23 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:53:23 --> URI Class Initialized
+DEBUG - 2013-12-11 21:53:23 --> Router Class Initialized
+DEBUG - 2013-12-11 21:53:23 --> Output Class Initialized
+DEBUG - 2013-12-11 21:53:23 --> Security Class Initialized
+DEBUG - 2013-12-11 21:53:23 --> Input Class Initialized
+DEBUG - 2013-12-11 21:53:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:53:23 --> Language Class Initialized
+DEBUG - 2013-12-11 21:53:23 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:53:23 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:53:23 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:53:23 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:53:23 --> Model Class Initialized
+DEBUG - 2013-12-11 21:53:23 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:53:23 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:53:23 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:53:23 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:53:23 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:53:23 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:53:23 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:53:23 --> Final output sent to browser
+DEBUG - 2013-12-11 21:53:23 --> Total execution time: 0.0563
+DEBUG - 2013-12-11 21:53:25 --> Config Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:53:25 --> URI Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> Router Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> Output Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> Security Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> Input Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:53:25 --> Language Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:53:25 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:53:25 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> Model Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:53:25 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:53:25 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:53:25 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:53:25 --> DB Transaction Failure
+ERROR - 2013-12-11 21:53:25 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:53:25 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:53:25 --> Config Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:53:25 --> URI Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> Router Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> Output Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> Security Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> Input Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:53:25 --> Language Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:53:25 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:53:25 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> Model Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:53:25 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:53:25 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:53:25 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:53:25 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:53:25 --> DB Transaction Failure
+ERROR - 2013-12-11 21:53:25 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:53:25 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:53:27 --> Config Class Initialized
+DEBUG - 2013-12-11 21:53:27 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:53:27 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:53:27 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:53:27 --> URI Class Initialized
+DEBUG - 2013-12-11 21:53:27 --> Router Class Initialized
+DEBUG - 2013-12-11 21:53:27 --> Output Class Initialized
+DEBUG - 2013-12-11 21:53:27 --> Security Class Initialized
+DEBUG - 2013-12-11 21:53:27 --> Input Class Initialized
+DEBUG - 2013-12-11 21:53:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:53:27 --> Language Class Initialized
+DEBUG - 2013-12-11 21:53:27 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:53:27 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:53:27 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:53:27 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:53:27 --> Model Class Initialized
+DEBUG - 2013-12-11 21:53:27 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:53:27 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:53:27 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:53:27 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:53:27 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:53:27 --> DB Transaction Failure
+ERROR - 2013-12-11 21:53:27 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:53:27 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:53:28 --> Config Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:53:28 --> URI Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> Router Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> Output Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> Security Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> Input Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:53:28 --> Language Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:53:28 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:53:28 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> Model Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:53:28 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:53:28 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:53:28 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:53:28 --> DB Transaction Failure
+ERROR - 2013-12-11 21:53:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:53:28 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:53:28 --> Config Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:53:28 --> URI Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> Router Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> Output Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> Security Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> Input Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:53:28 --> Language Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:53:28 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:53:28 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> Model Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:53:28 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:53:28 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:53:28 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:53:28 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:53:28 --> DB Transaction Failure
+ERROR - 2013-12-11 21:53:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:53:28 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:53:47 --> Config Class Initialized
+DEBUG - 2013-12-11 21:53:47 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:53:47 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:53:47 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:53:47 --> URI Class Initialized
+DEBUG - 2013-12-11 21:53:47 --> Router Class Initialized
+DEBUG - 2013-12-11 21:53:47 --> Output Class Initialized
+DEBUG - 2013-12-11 21:53:47 --> Security Class Initialized
+DEBUG - 2013-12-11 21:53:47 --> Input Class Initialized
+DEBUG - 2013-12-11 21:53:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:53:47 --> Language Class Initialized
+DEBUG - 2013-12-11 21:53:47 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:53:47 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:53:47 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:53:47 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:53:47 --> Model Class Initialized
+DEBUG - 2013-12-11 21:53:47 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:53:47 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:53:47 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:53:47 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:53:47 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:53:47 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:53:47 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:53:47 --> Final output sent to browser
+DEBUG - 2013-12-11 21:53:47 --> Total execution time: 0.0636
+DEBUG - 2013-12-11 21:53:49 --> Config Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:53:49 --> URI Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> Router Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> Output Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> Security Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> Input Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:53:49 --> Language Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:53:49 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:53:49 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> Model Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:53:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:53:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:53:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:53:49 --> DB Transaction Failure
+ERROR - 2013-12-11 21:53:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:53:49 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:53:49 --> Config Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:53:49 --> URI Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> Router Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> Output Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> Security Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> Input Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:53:49 --> Language Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:53:49 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:53:49 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> Model Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:53:49 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:53:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:53:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:53:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:53:49 --> DB Transaction Failure
+ERROR - 2013-12-11 21:53:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:53:49 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:53:50 --> Config Class Initialized
+DEBUG - 2013-12-11 21:53:50 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:53:50 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:53:50 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:53:50 --> URI Class Initialized
+DEBUG - 2013-12-11 21:53:50 --> Router Class Initialized
+DEBUG - 2013-12-11 21:53:50 --> Output Class Initialized
+DEBUG - 2013-12-11 21:53:50 --> Security Class Initialized
+DEBUG - 2013-12-11 21:53:50 --> Input Class Initialized
+DEBUG - 2013-12-11 21:53:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:53:50 --> Language Class Initialized
+DEBUG - 2013-12-11 21:53:50 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:53:50 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:53:50 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:53:50 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:53:50 --> Model Class Initialized
+DEBUG - 2013-12-11 21:53:50 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:53:50 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:53:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:53:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:53:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:53:50 --> DB Transaction Failure
+ERROR - 2013-12-11 21:53:50 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:53:50 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:53:52 --> Config Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:53:52 --> URI Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> Router Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> Output Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> Security Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> Input Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:53:52 --> Language Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:53:52 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:53:52 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> Model Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:53:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:53:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:53:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:53:52 --> DB Transaction Failure
+ERROR - 2013-12-11 21:53:52 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:53:52 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:53:52 --> Config Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:53:52 --> URI Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> Router Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> Output Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> Security Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> Input Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:53:52 --> Language Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:53:52 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:53:52 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> Model Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:53:52 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:53:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:53:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:53:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:53:52 --> DB Transaction Failure
+ERROR - 2013-12-11 21:53:52 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:53:52 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:55:44 --> Config Class Initialized
+DEBUG - 2013-12-11 21:55:44 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:55:44 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:55:44 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:55:44 --> URI Class Initialized
+DEBUG - 2013-12-11 21:55:44 --> Router Class Initialized
+DEBUG - 2013-12-11 21:55:44 --> Output Class Initialized
+DEBUG - 2013-12-11 21:55:44 --> Security Class Initialized
+DEBUG - 2013-12-11 21:55:44 --> Input Class Initialized
+DEBUG - 2013-12-11 21:55:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:55:44 --> Language Class Initialized
+DEBUG - 2013-12-11 21:55:44 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:55:44 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:55:44 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:55:44 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:55:44 --> Model Class Initialized
+DEBUG - 2013-12-11 21:55:44 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:55:44 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:55:44 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:55:44 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:55:44 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:55:44 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:55:44 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:55:44 --> Final output sent to browser
+DEBUG - 2013-12-11 21:55:44 --> Total execution time: 0.0599
+DEBUG - 2013-12-11 21:55:46 --> Config Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:55:46 --> URI Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> Router Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> Output Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> Security Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> Input Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:55:46 --> Language Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:55:46 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:55:46 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> Model Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:55:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:55:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:55:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:55:46 --> DB Transaction Failure
+ERROR - 2013-12-11 21:55:46 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:55:46 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:55:46 --> Config Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:55:46 --> URI Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> Router Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> Output Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> Security Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> Input Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:55:46 --> Language Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:55:46 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:55:46 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> Model Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:55:46 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:55:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:55:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:55:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:55:46 --> DB Transaction Failure
+ERROR - 2013-12-11 21:55:46 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:55:46 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:55:47 --> Config Class Initialized
+DEBUG - 2013-12-11 21:55:47 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:55:47 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:55:47 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:55:47 --> URI Class Initialized
+DEBUG - 2013-12-11 21:55:47 --> Router Class Initialized
+DEBUG - 2013-12-11 21:55:47 --> Output Class Initialized
+DEBUG - 2013-12-11 21:55:47 --> Security Class Initialized
+DEBUG - 2013-12-11 21:55:47 --> Input Class Initialized
+DEBUG - 2013-12-11 21:55:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:55:47 --> Language Class Initialized
+DEBUG - 2013-12-11 21:55:47 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:55:47 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:55:47 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:55:47 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:55:47 --> Model Class Initialized
+DEBUG - 2013-12-11 21:55:47 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:55:47 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:55:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:55:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:55:47 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:55:47 --> DB Transaction Failure
+ERROR - 2013-12-11 21:55:47 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:55:47 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:55:48 --> Config Class Initialized
+DEBUG - 2013-12-11 21:55:48 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:55:48 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:55:48 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:55:48 --> URI Class Initialized
+DEBUG - 2013-12-11 21:55:48 --> Router Class Initialized
+DEBUG - 2013-12-11 21:55:48 --> Output Class Initialized
+DEBUG - 2013-12-11 21:55:48 --> Security Class Initialized
+DEBUG - 2013-12-11 21:55:48 --> Input Class Initialized
+DEBUG - 2013-12-11 21:55:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:55:48 --> Language Class Initialized
+DEBUG - 2013-12-11 21:55:48 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:55:48 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:55:48 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:55:48 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:55:48 --> Model Class Initialized
+DEBUG - 2013-12-11 21:55:48 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:55:49 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:55:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:55:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:55:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:55:49 --> DB Transaction Failure
+ERROR - 2013-12-11 21:55:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:55:49 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:55:49 --> Config Class Initialized
+DEBUG - 2013-12-11 21:55:49 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:55:49 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:55:49 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:55:49 --> URI Class Initialized
+DEBUG - 2013-12-11 21:55:49 --> Router Class Initialized
+DEBUG - 2013-12-11 21:55:49 --> Output Class Initialized
+DEBUG - 2013-12-11 21:55:49 --> Security Class Initialized
+DEBUG - 2013-12-11 21:55:49 --> Input Class Initialized
+DEBUG - 2013-12-11 21:55:49 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:55:49 --> Language Class Initialized
+DEBUG - 2013-12-11 21:55:49 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:55:49 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:55:49 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:55:49 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:55:49 --> Model Class Initialized
+DEBUG - 2013-12-11 21:55:49 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:55:49 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:55:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:55:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:55:49 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:55:49 --> DB Transaction Failure
+ERROR - 2013-12-11 21:55:49 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:55:49 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:56:06 --> Config Class Initialized
+DEBUG - 2013-12-11 21:56:06 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:56:06 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:56:06 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:56:06 --> URI Class Initialized
+DEBUG - 2013-12-11 21:56:06 --> Router Class Initialized
+DEBUG - 2013-12-11 21:56:06 --> Output Class Initialized
+DEBUG - 2013-12-11 21:56:06 --> Security Class Initialized
+DEBUG - 2013-12-11 21:56:06 --> Input Class Initialized
+DEBUG - 2013-12-11 21:56:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:56:06 --> Language Class Initialized
+DEBUG - 2013-12-11 21:56:06 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:56:06 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:56:06 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:56:06 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:56:06 --> Model Class Initialized
+DEBUG - 2013-12-11 21:56:06 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:56:06 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:56:06 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:56:06 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:56:06 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:56:06 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:56:06 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:56:06 --> Final output sent to browser
+DEBUG - 2013-12-11 21:56:06 --> Total execution time: 0.1356
+DEBUG - 2013-12-11 21:56:08 --> Config Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:56:08 --> URI Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> Router Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> Output Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> Security Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> Input Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:56:08 --> Language Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:56:08 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:56:08 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> Model Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:56:08 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:56:08 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:56:08 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:56:08 --> DB Transaction Failure
+ERROR - 2013-12-11 21:56:08 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:56:08 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:56:08 --> Config Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:56:08 --> URI Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> Router Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> Output Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> Security Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> Input Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:56:08 --> Language Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:56:08 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:56:08 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> Model Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:56:08 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:56:08 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:56:08 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:56:08 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:56:08 --> DB Transaction Failure
+ERROR - 2013-12-11 21:56:08 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:56:08 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:56:10 --> Config Class Initialized
+DEBUG - 2013-12-11 21:56:10 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:56:10 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:56:10 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:56:10 --> URI Class Initialized
+DEBUG - 2013-12-11 21:56:10 --> Router Class Initialized
+DEBUG - 2013-12-11 21:56:10 --> Output Class Initialized
+DEBUG - 2013-12-11 21:56:10 --> Security Class Initialized
+DEBUG - 2013-12-11 21:56:10 --> Input Class Initialized
+DEBUG - 2013-12-11 21:56:10 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:56:10 --> Language Class Initialized
+DEBUG - 2013-12-11 21:56:10 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:56:10 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:56:10 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:56:10 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:56:10 --> Model Class Initialized
+DEBUG - 2013-12-11 21:56:10 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:56:10 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:56:10 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:56:10 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:56:10 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:56:10 --> DB Transaction Failure
+ERROR - 2013-12-11 21:56:10 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:56:10 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:56:11 --> Config Class Initialized
+DEBUG - 2013-12-11 21:56:11 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:56:11 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:56:11 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:56:11 --> URI Class Initialized
+DEBUG - 2013-12-11 21:56:11 --> Router Class Initialized
+DEBUG - 2013-12-11 21:56:11 --> Output Class Initialized
+DEBUG - 2013-12-11 21:56:11 --> Security Class Initialized
+DEBUG - 2013-12-11 21:56:11 --> Input Class Initialized
+DEBUG - 2013-12-11 21:56:11 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:56:11 --> Language Class Initialized
+DEBUG - 2013-12-11 21:56:11 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:56:11 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:56:11 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:56:11 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:56:11 --> Model Class Initialized
+DEBUG - 2013-12-11 21:56:11 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:56:11 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:56:11 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:56:11 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:56:11 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:56:11 --> DB Transaction Failure
+ERROR - 2013-12-11 21:56:11 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:56:11 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:56:12 --> Config Class Initialized
+DEBUG - 2013-12-11 21:56:12 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:56:12 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:56:12 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:56:12 --> URI Class Initialized
+DEBUG - 2013-12-11 21:56:12 --> Router Class Initialized
+DEBUG - 2013-12-11 21:56:12 --> Output Class Initialized
+DEBUG - 2013-12-11 21:56:12 --> Security Class Initialized
+DEBUG - 2013-12-11 21:56:12 --> Input Class Initialized
+DEBUG - 2013-12-11 21:56:12 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:56:12 --> Language Class Initialized
+DEBUG - 2013-12-11 21:56:12 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:56:12 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:56:12 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:56:12 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:56:12 --> Model Class Initialized
+DEBUG - 2013-12-11 21:56:12 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:56:12 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:56:12 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:56:12 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:56:12 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:56:12 --> DB Transaction Failure
+ERROR - 2013-12-11 21:56:12 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:56:12 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:59:42 --> Config Class Initialized
+DEBUG - 2013-12-11 21:59:42 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:59:42 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:59:42 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:59:42 --> URI Class Initialized
+DEBUG - 2013-12-11 21:59:42 --> Router Class Initialized
+DEBUG - 2013-12-11 21:59:42 --> Output Class Initialized
+DEBUG - 2013-12-11 21:59:42 --> Security Class Initialized
+DEBUG - 2013-12-11 21:59:42 --> Input Class Initialized
+DEBUG - 2013-12-11 21:59:42 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:59:42 --> Language Class Initialized
+DEBUG - 2013-12-11 21:59:42 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:59:42 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:59:42 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:59:42 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:59:42 --> Model Class Initialized
+DEBUG - 2013-12-11 21:59:42 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:59:42 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 21:59:42 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 21:59:42 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 21:59:42 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 21:59:42 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 21:59:42 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 21:59:42 --> Final output sent to browser
+DEBUG - 2013-12-11 21:59:42 --> Total execution time: 0.0576
+DEBUG - 2013-12-11 21:59:43 --> Config Class Initialized
+DEBUG - 2013-12-11 21:59:43 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:59:43 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:59:44 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:59:44 --> URI Class Initialized
+DEBUG - 2013-12-11 21:59:44 --> Router Class Initialized
+DEBUG - 2013-12-11 21:59:44 --> Output Class Initialized
+DEBUG - 2013-12-11 21:59:44 --> Security Class Initialized
+DEBUG - 2013-12-11 21:59:44 --> Input Class Initialized
+DEBUG - 2013-12-11 21:59:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:59:44 --> Language Class Initialized
+DEBUG - 2013-12-11 21:59:44 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:59:44 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:59:44 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:59:44 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:59:44 --> Model Class Initialized
+DEBUG - 2013-12-11 21:59:44 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:59:44 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:59:44 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:59:44 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:59:44 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:59:44 --> DB Transaction Failure
+ERROR - 2013-12-11 21:59:44 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:59:44 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:59:44 --> Config Class Initialized
+DEBUG - 2013-12-11 21:59:44 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:59:44 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:59:44 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:59:44 --> URI Class Initialized
+DEBUG - 2013-12-11 21:59:44 --> Router Class Initialized
+DEBUG - 2013-12-11 21:59:44 --> Output Class Initialized
+DEBUG - 2013-12-11 21:59:44 --> Security Class Initialized
+DEBUG - 2013-12-11 21:59:44 --> Input Class Initialized
+DEBUG - 2013-12-11 21:59:44 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:59:44 --> Language Class Initialized
+DEBUG - 2013-12-11 21:59:44 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:59:44 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:59:44 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:59:44 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:59:44 --> Model Class Initialized
+DEBUG - 2013-12-11 21:59:44 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:59:44 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:59:44 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:59:44 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:59:44 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:59:44 --> DB Transaction Failure
+ERROR - 2013-12-11 21:59:44 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:59:44 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:59:45 --> Config Class Initialized
+DEBUG - 2013-12-11 21:59:45 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:59:45 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:59:45 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:59:45 --> URI Class Initialized
+DEBUG - 2013-12-11 21:59:45 --> Router Class Initialized
+DEBUG - 2013-12-11 21:59:45 --> Output Class Initialized
+DEBUG - 2013-12-11 21:59:45 --> Security Class Initialized
+DEBUG - 2013-12-11 21:59:45 --> Input Class Initialized
+DEBUG - 2013-12-11 21:59:45 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:59:45 --> Language Class Initialized
+DEBUG - 2013-12-11 21:59:45 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:59:45 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:59:45 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:59:45 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:59:45 --> Model Class Initialized
+DEBUG - 2013-12-11 21:59:45 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:59:45 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:59:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:59:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:59:45 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:59:45 --> DB Transaction Failure
+ERROR - 2013-12-11 21:59:45 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:59:45 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:59:46 --> Config Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:59:46 --> URI Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> Router Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> Output Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> Security Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> Input Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:59:46 --> Language Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:59:46 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:59:46 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> Model Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:59:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:59:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:59:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:59:46 --> DB Transaction Failure
+ERROR - 2013-12-11 21:59:46 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:59:46 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 21:59:46 --> Config Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> Hooks Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 21:59:46 --> URI Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> Router Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> Output Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> Security Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> Input Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 21:59:46 --> Language Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> Loader Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 21:59:46 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 21:59:46 --> Controller Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> Model Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 21:59:46 --> Helper loaded: form_helper
+ERROR - 2013-12-11 21:59:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 21:59:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 21:59:46 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 21:59:46 --> DB Transaction Failure
+ERROR - 2013-12-11 21:59:46 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 21:59:46 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:00:03 --> Config Class Initialized
+DEBUG - 2013-12-11 22:00:03 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:00:03 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:00:03 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:00:03 --> URI Class Initialized
+DEBUG - 2013-12-11 22:00:03 --> Router Class Initialized
+DEBUG - 2013-12-11 22:00:03 --> Output Class Initialized
+DEBUG - 2013-12-11 22:00:03 --> Security Class Initialized
+DEBUG - 2013-12-11 22:00:03 --> Input Class Initialized
+DEBUG - 2013-12-11 22:00:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:00:03 --> Language Class Initialized
+DEBUG - 2013-12-11 22:00:03 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:00:03 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:00:03 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:00:03 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:00:03 --> Model Class Initialized
+DEBUG - 2013-12-11 22:00:03 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:00:03 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 22:00:03 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 22:00:03 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 22:00:03 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 22:00:03 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 22:00:03 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 22:00:03 --> Final output sent to browser
+DEBUG - 2013-12-11 22:00:03 --> Total execution time: 0.0554
+DEBUG - 2013-12-11 22:00:05 --> Config Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:00:05 --> URI Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> Router Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> Output Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> Security Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> Input Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:00:05 --> Language Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:00:05 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:00:05 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> Model Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:00:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:00:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:00:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:00:05 --> DB Transaction Failure
+ERROR - 2013-12-11 22:00:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:00:05 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:00:05 --> Config Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:00:05 --> URI Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> Router Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> Output Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> Security Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> Input Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:00:05 --> Language Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:00:05 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:00:05 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> Model Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:00:05 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:00:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:00:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:00:05 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:00:05 --> DB Transaction Failure
+ERROR - 2013-12-11 22:00:05 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:00:05 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:00:06 --> Config Class Initialized
+DEBUG - 2013-12-11 22:00:06 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:00:06 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:00:06 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:00:06 --> URI Class Initialized
+DEBUG - 2013-12-11 22:00:06 --> Router Class Initialized
+DEBUG - 2013-12-11 22:00:06 --> Output Class Initialized
+DEBUG - 2013-12-11 22:00:06 --> Security Class Initialized
+DEBUG - 2013-12-11 22:00:06 --> Input Class Initialized
+DEBUG - 2013-12-11 22:00:06 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:00:06 --> Language Class Initialized
+DEBUG - 2013-12-11 22:00:06 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:00:06 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:00:06 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:00:06 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:00:06 --> Model Class Initialized
+DEBUG - 2013-12-11 22:00:06 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:00:06 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:00:06 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:00:06 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:00:06 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:00:06 --> DB Transaction Failure
+ERROR - 2013-12-11 22:00:06 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:00:06 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:00:07 --> Config Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:00:07 --> URI Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> Router Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> Output Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> Security Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> Input Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:00:07 --> Language Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:00:07 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:00:07 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> Model Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:00:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:00:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:00:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:00:07 --> DB Transaction Failure
+ERROR - 2013-12-11 22:00:07 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:00:07 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:00:07 --> Config Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:00:07 --> URI Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> Router Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> Output Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> Security Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> Input Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:00:07 --> Language Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:00:07 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:00:07 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> Model Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:00:07 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:00:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:00:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:00:07 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:00:07 --> DB Transaction Failure
+ERROR - 2013-12-11 22:00:07 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:00:07 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:02:22 --> Config Class Initialized
+DEBUG - 2013-12-11 22:02:22 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:02:22 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:02:22 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:02:22 --> URI Class Initialized
+DEBUG - 2013-12-11 22:02:22 --> Router Class Initialized
+DEBUG - 2013-12-11 22:02:22 --> Output Class Initialized
+DEBUG - 2013-12-11 22:02:22 --> Security Class Initialized
+DEBUG - 2013-12-11 22:02:22 --> Input Class Initialized
+DEBUG - 2013-12-11 22:02:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:02:22 --> Language Class Initialized
+DEBUG - 2013-12-11 22:02:22 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:02:22 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:02:22 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:02:22 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:02:22 --> Model Class Initialized
+DEBUG - 2013-12-11 22:02:22 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:02:22 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 22:02:22 --> Final output sent to browser
+DEBUG - 2013-12-11 22:02:22 --> Total execution time: 0.0734
+DEBUG - 2013-12-11 22:02:26 --> Config Class Initialized
+DEBUG - 2013-12-11 22:02:26 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:02:26 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:02:26 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:02:26 --> URI Class Initialized
+DEBUG - 2013-12-11 22:02:26 --> Router Class Initialized
+DEBUG - 2013-12-11 22:02:26 --> Output Class Initialized
+DEBUG - 2013-12-11 22:02:26 --> Security Class Initialized
+DEBUG - 2013-12-11 22:02:26 --> Input Class Initialized
+DEBUG - 2013-12-11 22:02:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:02:26 --> Language Class Initialized
+DEBUG - 2013-12-11 22:02:26 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:02:26 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:02:26 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:02:26 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:02:26 --> Model Class Initialized
+DEBUG - 2013-12-11 22:02:26 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:02:26 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 22:02:26 --> Final output sent to browser
+DEBUG - 2013-12-11 22:02:26 --> Total execution time: 0.0765
+DEBUG - 2013-12-11 22:02:27 --> Config Class Initialized
+DEBUG - 2013-12-11 22:02:27 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:02:27 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:02:27 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:02:27 --> URI Class Initialized
+DEBUG - 2013-12-11 22:02:27 --> Router Class Initialized
+DEBUG - 2013-12-11 22:02:27 --> Output Class Initialized
+DEBUG - 2013-12-11 22:02:27 --> Security Class Initialized
+DEBUG - 2013-12-11 22:02:27 --> Input Class Initialized
+DEBUG - 2013-12-11 22:02:27 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:02:27 --> Language Class Initialized
+DEBUG - 2013-12-11 22:02:27 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:02:27 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:02:27 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:02:27 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:02:27 --> Model Class Initialized
+DEBUG - 2013-12-11 22:02:27 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:02:27 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 22:02:27 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 22:02:27 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 22:02:27 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 22:02:27 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 22:02:27 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 22:02:27 --> Final output sent to browser
+DEBUG - 2013-12-11 22:02:27 --> Total execution time: 0.0737
+DEBUG - 2013-12-11 22:02:29 --> Config Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:02:29 --> URI Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> Router Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> Output Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> Security Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> Input Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:02:29 --> Language Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:02:29 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:02:29 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> Model Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:02:29 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:02:29 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:02:29 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:02:29 --> DB Transaction Failure
+ERROR - 2013-12-11 22:02:29 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:02:29 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:02:29 --> Config Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:02:29 --> URI Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> Router Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> Output Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> Security Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> Input Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:02:29 --> Language Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:02:29 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:02:29 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> Model Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:02:29 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:02:29 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:02:29 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:02:29 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:02:29 --> DB Transaction Failure
+ERROR - 2013-12-11 22:02:29 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:02:29 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:02:30 --> Config Class Initialized
+DEBUG - 2013-12-11 22:02:30 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:02:30 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:02:30 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:02:30 --> URI Class Initialized
+DEBUG - 2013-12-11 22:02:30 --> Router Class Initialized
+DEBUG - 2013-12-11 22:02:30 --> Output Class Initialized
+DEBUG - 2013-12-11 22:02:30 --> Security Class Initialized
+DEBUG - 2013-12-11 22:02:30 --> Input Class Initialized
+DEBUG - 2013-12-11 22:02:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:02:30 --> Language Class Initialized
+DEBUG - 2013-12-11 22:02:30 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:02:30 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:02:30 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:02:30 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:02:30 --> Model Class Initialized
+DEBUG - 2013-12-11 22:02:30 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:02:30 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:02:30 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:02:30 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:02:30 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:02:30 --> DB Transaction Failure
+ERROR - 2013-12-11 22:02:30 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:02:30 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:02:32 --> Config Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:02:32 --> URI Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> Router Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> Output Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> Security Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> Input Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:02:32 --> Language Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:02:32 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:02:32 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> Model Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:02:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:02:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:02:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:02:32 --> DB Transaction Failure
+ERROR - 2013-12-11 22:02:32 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:02:32 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:02:32 --> Config Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:02:32 --> URI Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> Router Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> Output Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> Security Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> Input Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:02:32 --> Language Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:02:32 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:02:32 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> Model Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:02:32 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:02:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:02:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:02:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:02:32 --> DB Transaction Failure
+ERROR - 2013-12-11 22:02:32 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:02:32 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:03:47 --> Config Class Initialized
+DEBUG - 2013-12-11 22:03:47 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:03:47 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:03:47 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:03:47 --> URI Class Initialized
+DEBUG - 2013-12-11 22:03:47 --> Router Class Initialized
+DEBUG - 2013-12-11 22:03:47 --> No URI present. Default controller set.
+DEBUG - 2013-12-11 22:03:47 --> Output Class Initialized
+DEBUG - 2013-12-11 22:03:47 --> Security Class Initialized
+DEBUG - 2013-12-11 22:03:47 --> Input Class Initialized
+DEBUG - 2013-12-11 22:03:47 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:03:47 --> Language Class Initialized
+DEBUG - 2013-12-11 22:03:47 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:03:47 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:03:47 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:03:47 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:03:47 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 22:03:47 --> File loaded: application/views/pages/home.php
+DEBUG - 2013-12-11 22:03:47 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 22:03:47 --> Final output sent to browser
+DEBUG - 2013-12-11 22:03:47 --> Total execution time: 0.0374
+DEBUG - 2013-12-11 22:04:03 --> Config Class Initialized
+DEBUG - 2013-12-11 22:04:03 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:04:03 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:04:03 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:04:03 --> URI Class Initialized
+DEBUG - 2013-12-11 22:04:03 --> Router Class Initialized
+DEBUG - 2013-12-11 22:04:03 --> Output Class Initialized
+DEBUG - 2013-12-11 22:04:03 --> Security Class Initialized
+DEBUG - 2013-12-11 22:04:03 --> Input Class Initialized
+DEBUG - 2013-12-11 22:04:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:04:03 --> Language Class Initialized
+DEBUG - 2013-12-11 22:04:03 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:04:03 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:04:03 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:04:03 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:04:03 --> Model Class Initialized
+DEBUG - 2013-12-11 22:04:03 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:04:03 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 22:04:03 --> Form Validation Class Initialized
+DEBUG - 2013-12-11 22:04:03 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 22:04:03 --> File loaded: application/views/schedules/create.php
+DEBUG - 2013-12-11 22:04:03 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 22:04:03 --> Final output sent to browser
+DEBUG - 2013-12-11 22:04:03 --> Total execution time: 0.0533
+DEBUG - 2013-12-11 22:04:20 --> Config Class Initialized
+DEBUG - 2013-12-11 22:04:20 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:04:20 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:04:20 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:04:20 --> URI Class Initialized
+DEBUG - 2013-12-11 22:04:20 --> Router Class Initialized
+DEBUG - 2013-12-11 22:04:20 --> Output Class Initialized
+DEBUG - 2013-12-11 22:04:20 --> Security Class Initialized
+DEBUG - 2013-12-11 22:04:20 --> Input Class Initialized
+DEBUG - 2013-12-11 22:04:20 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:04:20 --> Language Class Initialized
+DEBUG - 2013-12-11 22:04:20 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:04:20 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:04:20 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:04:20 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:04:20 --> Model Class Initialized
+DEBUG - 2013-12-11 22:04:20 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:04:20 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 22:04:20 --> Form Validation Class Initialized
+DEBUG - 2013-12-11 22:04:20 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2013-12-11 22:04:21 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 22:04:21 --> File loaded: application/views/schedules/success.php
+DEBUG - 2013-12-11 22:04:21 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 22:04:21 --> Final output sent to browser
+DEBUG - 2013-12-11 22:04:21 --> Total execution time: 0.3959
+DEBUG - 2013-12-11 22:04:23 --> Config Class Initialized
+DEBUG - 2013-12-11 22:04:23 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:04:23 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:04:23 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:04:23 --> URI Class Initialized
+DEBUG - 2013-12-11 22:04:23 --> Router Class Initialized
+DEBUG - 2013-12-11 22:04:23 --> Output Class Initialized
+DEBUG - 2013-12-11 22:04:23 --> Security Class Initialized
+DEBUG - 2013-12-11 22:04:23 --> Input Class Initialized
+DEBUG - 2013-12-11 22:04:23 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:04:23 --> Language Class Initialized
+DEBUG - 2013-12-11 22:04:23 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:04:23 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:04:23 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:04:23 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:04:23 --> Model Class Initialized
+DEBUG - 2013-12-11 22:04:23 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:04:23 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 22:04:23 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 22:04:23 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 22:04:23 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 22:04:23 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 22:04:23 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 22:04:23 --> Final output sent to browser
+DEBUG - 2013-12-11 22:04:23 --> Total execution time: 0.0639
+DEBUG - 2013-12-11 22:04:24 --> Config Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:04:24 --> URI Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> Router Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> Output Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> Security Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> Input Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:04:24 --> Language Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:04:24 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:04:24 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> Model Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:04:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:04:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:04:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:04:24 --> DB Transaction Failure
+ERROR - 2013-12-11 22:04:24 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:04:24 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:04:24 --> Config Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:04:24 --> URI Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> Router Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> Output Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> Security Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> Input Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:04:24 --> Language Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:04:24 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:04:24 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> Model Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:04:24 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:04:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:04:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:04:24 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:04:24 --> DB Transaction Failure
+ERROR - 2013-12-11 22:04:24 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:04:24 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:04:26 --> Config Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:04:26 --> URI Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Router Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Output Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Security Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Input Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:04:26 --> Language Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:04:26 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:04:26 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Model Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:04:26 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:04:26 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:04:26 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:04:26 --> DB Transaction Failure
+ERROR - 2013-12-11 22:04:26 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:04:26 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:04:26 --> Config Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:04:26 --> URI Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Router Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Output Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Security Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Input Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:04:26 --> Language Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:04:26 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:04:26 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Model Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:04:26 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:04:26 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:04:26 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:04:26 --> DB Transaction Failure
+ERROR - 2013-12-11 22:04:26 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:04:26 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:04:26 --> Config Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:04:26 --> URI Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Router Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Output Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Security Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Input Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:04:26 --> Language Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:04:26 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:04:26 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:04:26 --> Model Class Initialized
+DEBUG - 2013-12-11 22:04:27 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:04:27 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:04:27 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:04:27 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:04:27 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:04:27 --> DB Transaction Failure
+ERROR - 2013-12-11 22:04:27 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:04:27 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:04:32 --> Config Class Initialized
+DEBUG - 2013-12-11 22:04:32 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:04:32 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:04:32 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:04:32 --> URI Class Initialized
+DEBUG - 2013-12-11 22:04:32 --> Router Class Initialized
+DEBUG - 2013-12-11 22:04:32 --> Output Class Initialized
+DEBUG - 2013-12-11 22:04:32 --> Security Class Initialized
+DEBUG - 2013-12-11 22:04:32 --> Input Class Initialized
+DEBUG - 2013-12-11 22:04:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:04:32 --> Language Class Initialized
+DEBUG - 2013-12-11 22:04:32 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:04:32 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:04:32 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:04:32 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:04:32 --> Model Class Initialized
+DEBUG - 2013-12-11 22:04:32 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:04:32 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 22:04:32 --> Final output sent to browser
+DEBUG - 2013-12-11 22:04:32 --> Total execution time: 0.1121
+DEBUG - 2013-12-11 22:04:36 --> Config Class Initialized
+DEBUG - 2013-12-11 22:04:36 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:04:36 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:04:36 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:04:36 --> URI Class Initialized
+DEBUG - 2013-12-11 22:04:36 --> Router Class Initialized
+DEBUG - 2013-12-11 22:04:36 --> Output Class Initialized
+DEBUG - 2013-12-11 22:04:36 --> Security Class Initialized
+DEBUG - 2013-12-11 22:04:36 --> Input Class Initialized
+DEBUG - 2013-12-11 22:04:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:04:36 --> Language Class Initialized
+DEBUG - 2013-12-11 22:04:36 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:04:36 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:04:36 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:04:36 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:04:36 --> Model Class Initialized
+DEBUG - 2013-12-11 22:04:36 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:04:36 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 22:04:36 --> Final output sent to browser
+DEBUG - 2013-12-11 22:04:36 --> Total execution time: 0.1165
+DEBUG - 2013-12-11 22:04:41 --> Config Class Initialized
+DEBUG - 2013-12-11 22:04:41 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:04:41 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:04:41 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:04:41 --> URI Class Initialized
+DEBUG - 2013-12-11 22:04:41 --> Router Class Initialized
+DEBUG - 2013-12-11 22:04:41 --> Output Class Initialized
+DEBUG - 2013-12-11 22:04:41 --> Security Class Initialized
+DEBUG - 2013-12-11 22:04:41 --> Input Class Initialized
+DEBUG - 2013-12-11 22:04:41 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:04:41 --> Language Class Initialized
+DEBUG - 2013-12-11 22:04:41 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:04:41 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:04:41 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:04:41 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:04:41 --> Model Class Initialized
+DEBUG - 2013-12-11 22:04:41 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:04:41 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 22:04:41 --> Final output sent to browser
+DEBUG - 2013-12-11 22:04:41 --> Total execution time: 0.2893
+DEBUG - 2013-12-11 22:09:28 --> Config Class Initialized
+DEBUG - 2013-12-11 22:09:28 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:09:28 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:09:28 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:09:28 --> URI Class Initialized
+DEBUG - 2013-12-11 22:09:28 --> Router Class Initialized
+DEBUG - 2013-12-11 22:09:28 --> Output Class Initialized
+DEBUG - 2013-12-11 22:09:28 --> Security Class Initialized
+DEBUG - 2013-12-11 22:09:28 --> Input Class Initialized
+DEBUG - 2013-12-11 22:09:28 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:09:28 --> Language Class Initialized
+DEBUG - 2013-12-11 22:09:28 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:09:28 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:09:28 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:09:28 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:09:28 --> Model Class Initialized
+DEBUG - 2013-12-11 22:09:28 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:09:28 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 22:09:28 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 22:09:28 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 22:09:28 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 22:09:28 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 22:09:28 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 22:09:28 --> Final output sent to browser
+DEBUG - 2013-12-11 22:09:28 --> Total execution time: 0.0569
+DEBUG - 2013-12-11 22:09:29 --> Config Class Initialized
+DEBUG - 2013-12-11 22:09:29 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:09:29 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:09:29 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:09:29 --> URI Class Initialized
+DEBUG - 2013-12-11 22:09:29 --> Router Class Initialized
+DEBUG - 2013-12-11 22:09:29 --> Output Class Initialized
+DEBUG - 2013-12-11 22:09:29 --> Security Class Initialized
+DEBUG - 2013-12-11 22:09:29 --> Input Class Initialized
+DEBUG - 2013-12-11 22:09:29 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:09:29 --> Language Class Initialized
+DEBUG - 2013-12-11 22:09:29 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:09:29 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:09:29 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:09:29 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:09:29 --> Model Class Initialized
+DEBUG - 2013-12-11 22:09:29 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:09:29 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:09:29 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:09:29 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:09:29 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:09:29 --> DB Transaction Failure
+ERROR - 2013-12-11 22:09:29 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:09:29 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:09:30 --> Config Class Initialized
+DEBUG - 2013-12-11 22:09:30 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:09:30 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:09:30 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:09:30 --> URI Class Initialized
+DEBUG - 2013-12-11 22:09:30 --> Router Class Initialized
+DEBUG - 2013-12-11 22:09:30 --> Output Class Initialized
+DEBUG - 2013-12-11 22:09:30 --> Security Class Initialized
+DEBUG - 2013-12-11 22:09:30 --> Input Class Initialized
+DEBUG - 2013-12-11 22:09:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:09:30 --> Language Class Initialized
+DEBUG - 2013-12-11 22:09:30 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:09:30 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:09:30 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:09:30 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:09:30 --> Model Class Initialized
+DEBUG - 2013-12-11 22:09:30 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:09:30 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:09:30 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:09:30 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:09:30 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:09:30 --> DB Transaction Failure
+ERROR - 2013-12-11 22:09:30 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:09:30 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:09:31 --> Config Class Initialized
+DEBUG - 2013-12-11 22:09:31 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:09:31 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:09:31 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:09:31 --> URI Class Initialized
+DEBUG - 2013-12-11 22:09:31 --> Router Class Initialized
+DEBUG - 2013-12-11 22:09:31 --> Output Class Initialized
+DEBUG - 2013-12-11 22:09:31 --> Security Class Initialized
+DEBUG - 2013-12-11 22:09:31 --> Input Class Initialized
+DEBUG - 2013-12-11 22:09:31 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:09:31 --> Language Class Initialized
+DEBUG - 2013-12-11 22:09:31 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:09:31 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:09:31 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:09:31 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:09:31 --> Model Class Initialized
+DEBUG - 2013-12-11 22:09:31 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:09:31 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:09:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:09:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:09:31 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:09:31 --> DB Transaction Failure
+ERROR - 2013-12-11 22:09:31 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:09:31 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:09:32 --> Config Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:09:32 --> URI Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> Router Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> Output Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> Security Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> Input Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:09:32 --> Language Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:09:32 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:09:32 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> Model Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:09:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:09:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:09:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:09:32 --> DB Transaction Failure
+ERROR - 2013-12-11 22:09:32 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:09:32 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:09:32 --> Config Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:09:32 --> URI Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> Router Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> Output Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> Security Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> Input Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:09:32 --> Language Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:09:32 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:09:32 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> Model Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:09:32 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:09:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:09:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:09:32 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:09:32 --> DB Transaction Failure
+ERROR - 2013-12-11 22:09:32 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:09:32 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:10:14 --> Config Class Initialized
+DEBUG - 2013-12-11 22:10:14 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:10:14 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:10:14 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:10:14 --> URI Class Initialized
+DEBUG - 2013-12-11 22:10:14 --> Router Class Initialized
+DEBUG - 2013-12-11 22:10:14 --> Output Class Initialized
+DEBUG - 2013-12-11 22:10:14 --> Security Class Initialized
+DEBUG - 2013-12-11 22:10:14 --> Input Class Initialized
+DEBUG - 2013-12-11 22:10:14 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:10:14 --> Language Class Initialized
+DEBUG - 2013-12-11 22:10:14 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:10:14 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:10:14 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:10:14 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:10:14 --> Model Class Initialized
+DEBUG - 2013-12-11 22:10:14 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:10:14 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 22:10:14 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 22:10:14 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 22:10:14 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 22:10:14 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 22:10:14 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 22:10:14 --> Final output sent to browser
+DEBUG - 2013-12-11 22:10:14 --> Total execution time: 0.0568
+DEBUG - 2013-12-11 22:10:16 --> Config Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:10:16 --> URI Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> Router Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> Output Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> Security Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> Input Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:10:16 --> Language Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:10:16 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:10:16 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> Model Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:10:16 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:10:16 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:10:16 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:10:16 --> DB Transaction Failure
+ERROR - 2013-12-11 22:10:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:10:16 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:10:16 --> Config Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:10:16 --> URI Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> Router Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> Output Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> Security Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> Input Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:10:16 --> Language Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:10:16 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:10:16 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> Model Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:10:16 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:10:16 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:10:16 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:10:16 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:10:16 --> DB Transaction Failure
+ERROR - 2013-12-11 22:10:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:10:16 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:10:17 --> Config Class Initialized
+DEBUG - 2013-12-11 22:10:17 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:10:17 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:10:17 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:10:17 --> URI Class Initialized
+DEBUG - 2013-12-11 22:10:17 --> Router Class Initialized
+DEBUG - 2013-12-11 22:10:17 --> Output Class Initialized
+DEBUG - 2013-12-11 22:10:17 --> Security Class Initialized
+DEBUG - 2013-12-11 22:10:17 --> Input Class Initialized
+DEBUG - 2013-12-11 22:10:17 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:10:17 --> Language Class Initialized
+DEBUG - 2013-12-11 22:10:17 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:10:17 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:10:17 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:10:17 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:10:17 --> Model Class Initialized
+DEBUG - 2013-12-11 22:10:17 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:10:17 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:10:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:10:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:10:17 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:10:17 --> DB Transaction Failure
+ERROR - 2013-12-11 22:10:17 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:10:17 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:10:18 --> Config Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:10:18 --> URI Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> Router Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> Output Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> Security Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> Input Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:10:18 --> Language Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:10:18 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:10:18 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> Model Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:10:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:10:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:10:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:10:18 --> DB Transaction Failure
+ERROR - 2013-12-11 22:10:18 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:10:18 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:10:18 --> Config Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:10:18 --> URI Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> Router Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> Output Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> Security Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> Input Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:10:18 --> Language Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:10:18 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:10:18 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> Model Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:10:18 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:10:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:10:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:10:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:10:18 --> DB Transaction Failure
+ERROR - 2013-12-11 22:10:18 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:10:18 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:10:53 --> Config Class Initialized
+DEBUG - 2013-12-11 22:10:53 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:10:53 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:10:53 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:10:53 --> URI Class Initialized
+DEBUG - 2013-12-11 22:10:53 --> Router Class Initialized
+DEBUG - 2013-12-11 22:10:53 --> Output Class Initialized
+DEBUG - 2013-12-11 22:10:53 --> Security Class Initialized
+DEBUG - 2013-12-11 22:10:53 --> Input Class Initialized
+DEBUG - 2013-12-11 22:10:53 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:10:53 --> Language Class Initialized
+DEBUG - 2013-12-11 22:10:53 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:10:53 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:10:53 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:10:53 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:10:53 --> Model Class Initialized
+DEBUG - 2013-12-11 22:10:53 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:10:53 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 22:10:53 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 22:10:53 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 22:10:53 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 22:10:53 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 22:10:53 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 22:10:53 --> Final output sent to browser
+DEBUG - 2013-12-11 22:10:53 --> Total execution time: 0.0551
+DEBUG - 2013-12-11 22:10:55 --> Config Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:10:55 --> URI Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> Router Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> Output Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> Security Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> Input Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:10:55 --> Language Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:10:55 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:10:55 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> Model Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:10:55 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:10:55 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:10:55 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:10:55 --> DB Transaction Failure
+ERROR - 2013-12-11 22:10:55 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:10:55 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:10:55 --> Config Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:10:55 --> URI Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> Router Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> Output Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> Security Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> Input Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:10:55 --> Language Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:10:55 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:10:55 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> Model Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:10:55 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:10:55 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:10:55 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:10:55 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:10:55 --> DB Transaction Failure
+ERROR - 2013-12-11 22:10:55 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:10:55 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:10:56 --> Config Class Initialized
+DEBUG - 2013-12-11 22:10:56 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:10:56 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:10:56 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:10:56 --> URI Class Initialized
+DEBUG - 2013-12-11 22:10:56 --> Router Class Initialized
+DEBUG - 2013-12-11 22:10:56 --> Output Class Initialized
+DEBUG - 2013-12-11 22:10:56 --> Security Class Initialized
+DEBUG - 2013-12-11 22:10:56 --> Input Class Initialized
+DEBUG - 2013-12-11 22:10:56 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:10:56 --> Language Class Initialized
+DEBUG - 2013-12-11 22:10:56 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:10:56 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:10:56 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:10:56 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:10:56 --> Model Class Initialized
+DEBUG - 2013-12-11 22:10:56 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:10:56 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:10:56 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:10:56 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:10:56 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:10:56 --> DB Transaction Failure
+ERROR - 2013-12-11 22:10:56 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:10:56 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:10:57 --> Config Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:10:57 --> URI Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> Router Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> Output Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> Security Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> Input Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:10:57 --> Language Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:10:57 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:10:57 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> Model Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:10:57 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:10:57 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:10:57 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:10:57 --> DB Transaction Failure
+ERROR - 2013-12-11 22:10:57 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:10:57 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:10:57 --> Config Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:10:57 --> URI Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> Router Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> Output Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> Security Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> Input Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:10:57 --> Language Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:10:57 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:10:57 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> Model Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:10:57 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:10:57 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:10:57 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:10:57 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:10:57 --> DB Transaction Failure
+ERROR - 2013-12-11 22:10:57 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:10:57 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:11:15 --> Config Class Initialized
+DEBUG - 2013-12-11 22:11:15 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:11:15 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:11:15 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:11:15 --> URI Class Initialized
+DEBUG - 2013-12-11 22:11:15 --> Router Class Initialized
+DEBUG - 2013-12-11 22:11:15 --> Output Class Initialized
+DEBUG - 2013-12-11 22:11:15 --> Security Class Initialized
+DEBUG - 2013-12-11 22:11:15 --> Input Class Initialized
+DEBUG - 2013-12-11 22:11:15 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:11:15 --> Language Class Initialized
+DEBUG - 2013-12-11 22:11:15 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:11:15 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:11:15 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:11:15 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:11:15 --> Model Class Initialized
+DEBUG - 2013-12-11 22:11:15 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:11:15 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 22:11:15 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 22:11:15 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 22:11:15 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 22:11:15 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 22:11:15 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 22:11:15 --> Final output sent to browser
+DEBUG - 2013-12-11 22:11:15 --> Total execution time: 0.0556
+DEBUG - 2013-12-11 22:11:16 --> Config Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:11:16 --> URI Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> Router Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> Output Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> Security Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> Input Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:11:16 --> Language Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:11:16 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:11:16 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> Model Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:11:16 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:11:16 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:11:16 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:11:16 --> DB Transaction Failure
+ERROR - 2013-12-11 22:11:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:11:16 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:11:16 --> Config Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:11:16 --> URI Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> Router Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> Output Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> Security Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> Input Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:11:16 --> Language Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:11:16 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:11:16 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> Model Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:11:16 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:11:16 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:11:16 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:11:16 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:11:16 --> DB Transaction Failure
+ERROR - 2013-12-11 22:11:16 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:11:16 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:11:18 --> Config Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:11:18 --> URI Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Router Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Output Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Security Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Input Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:11:18 --> Language Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:11:18 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:11:18 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Model Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:11:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:11:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:11:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:11:18 --> DB Transaction Failure
+ERROR - 2013-12-11 22:11:18 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:11:18 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:11:18 --> Config Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:11:18 --> URI Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Router Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Output Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Security Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Input Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:11:18 --> Language Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:11:18 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:11:18 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Model Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:11:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:11:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:11:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:11:18 --> DB Transaction Failure
+ERROR - 2013-12-11 22:11:18 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:11:18 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:11:18 --> Config Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:11:18 --> URI Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Router Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Output Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Security Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Input Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:11:18 --> Language Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:11:18 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:11:18 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Model Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:11:18 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:11:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:11:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:11:18 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:11:18 --> DB Transaction Failure
+ERROR - 2013-12-11 22:11:18 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:11:18 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:12:00 --> Config Class Initialized
+DEBUG - 2013-12-11 22:12:00 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:12:00 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:12:00 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:12:00 --> URI Class Initialized
+DEBUG - 2013-12-11 22:12:00 --> Router Class Initialized
+DEBUG - 2013-12-11 22:12:00 --> Output Class Initialized
+DEBUG - 2013-12-11 22:12:00 --> Security Class Initialized
+DEBUG - 2013-12-11 22:12:00 --> Input Class Initialized
+DEBUG - 2013-12-11 22:12:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:12:00 --> Language Class Initialized
+DEBUG - 2013-12-11 22:12:00 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:12:00 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:12:00 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:12:00 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:12:00 --> Model Class Initialized
+DEBUG - 2013-12-11 22:12:00 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:12:00 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 22:12:00 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 22:12:00 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 22:12:00 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 22:12:00 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 22:12:00 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 22:12:00 --> Final output sent to browser
+DEBUG - 2013-12-11 22:12:00 --> Total execution time: 0.0588
+DEBUG - 2013-12-11 22:12:01 --> Config Class Initialized
+DEBUG - 2013-12-11 22:12:01 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:12:01 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:12:01 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:12:01 --> URI Class Initialized
+DEBUG - 2013-12-11 22:12:01 --> Router Class Initialized
+DEBUG - 2013-12-11 22:12:01 --> Output Class Initialized
+DEBUG - 2013-12-11 22:12:02 --> Security Class Initialized
+DEBUG - 2013-12-11 22:12:02 --> Input Class Initialized
+DEBUG - 2013-12-11 22:12:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:12:02 --> Language Class Initialized
+DEBUG - 2013-12-11 22:12:02 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:12:02 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:12:02 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:12:02 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:12:02 --> Model Class Initialized
+DEBUG - 2013-12-11 22:12:02 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:12:02 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:12:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:12:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:12:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:12:02 --> DB Transaction Failure
+ERROR - 2013-12-11 22:12:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:12:02 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:12:02 --> Config Class Initialized
+DEBUG - 2013-12-11 22:12:02 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:12:02 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:12:02 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:12:02 --> URI Class Initialized
+DEBUG - 2013-12-11 22:12:02 --> Router Class Initialized
+DEBUG - 2013-12-11 22:12:02 --> Output Class Initialized
+DEBUG - 2013-12-11 22:12:02 --> Security Class Initialized
+DEBUG - 2013-12-11 22:12:02 --> Input Class Initialized
+DEBUG - 2013-12-11 22:12:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:12:02 --> Language Class Initialized
+DEBUG - 2013-12-11 22:12:02 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:12:02 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:12:02 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:12:02 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:12:02 --> Model Class Initialized
+DEBUG - 2013-12-11 22:12:02 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:12:02 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:12:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:12:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:12:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:12:02 --> DB Transaction Failure
+ERROR - 2013-12-11 22:12:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:12:02 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:12:03 --> Config Class Initialized
+DEBUG - 2013-12-11 22:12:03 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:12:03 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:12:03 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:12:03 --> URI Class Initialized
+DEBUG - 2013-12-11 22:12:03 --> Router Class Initialized
+DEBUG - 2013-12-11 22:12:03 --> Output Class Initialized
+DEBUG - 2013-12-11 22:12:03 --> Security Class Initialized
+DEBUG - 2013-12-11 22:12:03 --> Input Class Initialized
+DEBUG - 2013-12-11 22:12:03 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:12:03 --> Language Class Initialized
+DEBUG - 2013-12-11 22:12:03 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:12:03 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:12:03 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:12:03 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:12:03 --> Model Class Initialized
+DEBUG - 2013-12-11 22:12:03 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:12:03 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:12:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:12:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:12:03 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:12:03 --> DB Transaction Failure
+ERROR - 2013-12-11 22:12:03 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:12:03 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:12:04 --> Config Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:12:04 --> URI Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> Router Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> Output Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> Security Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> Input Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:12:04 --> Language Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:12:04 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:12:04 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> Model Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:12:04 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:12:04 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:12:04 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:12:04 --> DB Transaction Failure
+ERROR - 2013-12-11 22:12:04 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:12:04 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:12:04 --> Config Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:12:04 --> URI Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> Router Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> Output Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> Security Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> Input Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:12:04 --> Language Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:12:04 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:12:04 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> Model Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:12:04 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:12:04 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:12:04 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:12:04 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:12:04 --> DB Transaction Failure
+ERROR - 2013-12-11 22:12:04 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:12:04 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:13:22 --> Config Class Initialized
+DEBUG - 2013-12-11 22:13:22 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:13:22 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:13:22 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:13:22 --> URI Class Initialized
+DEBUG - 2013-12-11 22:13:22 --> Router Class Initialized
+DEBUG - 2013-12-11 22:13:22 --> Output Class Initialized
+DEBUG - 2013-12-11 22:13:22 --> Security Class Initialized
+DEBUG - 2013-12-11 22:13:22 --> Input Class Initialized
+DEBUG - 2013-12-11 22:13:22 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:13:22 --> Language Class Initialized
+DEBUG - 2013-12-11 22:13:22 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:13:22 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:13:22 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:13:22 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:13:22 --> Model Class Initialized
+DEBUG - 2013-12-11 22:13:23 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:13:23 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 22:13:23 --> Final output sent to browser
+DEBUG - 2013-12-11 22:13:23 --> Total execution time: 0.0940
+DEBUG - 2013-12-11 22:13:36 --> Config Class Initialized
+DEBUG - 2013-12-11 22:13:36 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:13:36 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:13:36 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:13:36 --> URI Class Initialized
+DEBUG - 2013-12-11 22:13:36 --> Router Class Initialized
+DEBUG - 2013-12-11 22:13:36 --> Output Class Initialized
+DEBUG - 2013-12-11 22:13:36 --> Security Class Initialized
+DEBUG - 2013-12-11 22:13:36 --> Input Class Initialized
+DEBUG - 2013-12-11 22:13:36 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:13:36 --> Language Class Initialized
+DEBUG - 2013-12-11 22:13:36 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:13:36 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:13:36 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:13:36 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:13:36 --> Model Class Initialized
+DEBUG - 2013-12-11 22:13:36 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:13:36 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 22:13:36 --> Form Validation Class Initialized
+DEBUG - 2013-12-11 22:13:36 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 22:13:36 --> File loaded: application/views/schedules/create.php
+DEBUG - 2013-12-11 22:13:36 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 22:13:36 --> Final output sent to browser
+DEBUG - 2013-12-11 22:13:36 --> Total execution time: 0.0802
+DEBUG - 2013-12-11 22:13:48 --> Config Class Initialized
+DEBUG - 2013-12-11 22:13:48 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:13:48 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:13:48 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:13:48 --> URI Class Initialized
+DEBUG - 2013-12-11 22:13:48 --> Router Class Initialized
+DEBUG - 2013-12-11 22:13:48 --> Output Class Initialized
+DEBUG - 2013-12-11 22:13:48 --> Security Class Initialized
+DEBUG - 2013-12-11 22:13:48 --> Input Class Initialized
+DEBUG - 2013-12-11 22:13:48 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:13:48 --> Language Class Initialized
+DEBUG - 2013-12-11 22:13:48 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:13:48 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:13:48 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:13:48 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:13:48 --> Model Class Initialized
+DEBUG - 2013-12-11 22:13:48 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:13:48 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 22:13:48 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 22:13:48 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 22:13:48 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 22:13:48 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 22:13:48 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 22:13:48 --> Final output sent to browser
+DEBUG - 2013-12-11 22:13:48 --> Total execution time: 0.0558
+DEBUG - 2013-12-11 22:13:50 --> Config Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:13:50 --> URI Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> Router Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> Output Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> Security Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> Input Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:13:50 --> Language Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:13:50 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:13:50 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> Model Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:13:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:13:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:13:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:13:50 --> DB Transaction Failure
+ERROR - 2013-12-11 22:13:50 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:13:50 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:13:50 --> Config Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:13:50 --> URI Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> Router Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> Output Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> Security Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> Input Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:13:50 --> Language Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:13:50 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:13:50 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> Model Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:13:50 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:13:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:13:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:13:50 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:13:50 --> DB Transaction Failure
+ERROR - 2013-12-11 22:13:50 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:13:50 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:13:51 --> Config Class Initialized
+DEBUG - 2013-12-11 22:13:51 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:13:51 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:13:51 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:13:51 --> URI Class Initialized
+DEBUG - 2013-12-11 22:13:51 --> Router Class Initialized
+DEBUG - 2013-12-11 22:13:51 --> Output Class Initialized
+DEBUG - 2013-12-11 22:13:51 --> Security Class Initialized
+DEBUG - 2013-12-11 22:13:51 --> Input Class Initialized
+DEBUG - 2013-12-11 22:13:51 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:13:51 --> Language Class Initialized
+DEBUG - 2013-12-11 22:13:51 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:13:51 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:13:51 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:13:51 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:13:51 --> Model Class Initialized
+DEBUG - 2013-12-11 22:13:51 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:13:51 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:13:51 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:13:51 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:13:51 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:13:51 --> DB Transaction Failure
+ERROR - 2013-12-11 22:13:51 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:13:51 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:13:52 --> Config Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:13:52 --> URI Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> Router Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> Output Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> Security Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> Input Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:13:52 --> Language Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:13:52 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:13:52 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> Model Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:13:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:13:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:13:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:13:52 --> DB Transaction Failure
+ERROR - 2013-12-11 22:13:52 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:13:52 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:13:52 --> Config Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:13:52 --> URI Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> Router Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> Output Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> Security Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> Input Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:13:52 --> Language Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:13:52 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:13:52 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> Model Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:13:52 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:13:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:13:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:13:52 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:13:52 --> DB Transaction Failure
+ERROR - 2013-12-11 22:13:52 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:13:52 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:15:57 --> Config Class Initialized
+DEBUG - 2013-12-11 22:15:57 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:15:57 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:15:57 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:15:57 --> URI Class Initialized
+DEBUG - 2013-12-11 22:15:57 --> Router Class Initialized
+DEBUG - 2013-12-11 22:15:57 --> Output Class Initialized
+DEBUG - 2013-12-11 22:15:57 --> Security Class Initialized
+DEBUG - 2013-12-11 22:15:57 --> Input Class Initialized
+DEBUG - 2013-12-11 22:15:57 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:15:57 --> Language Class Initialized
+DEBUG - 2013-12-11 22:15:57 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:15:57 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:15:57 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:15:57 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:15:57 --> Model Class Initialized
+DEBUG - 2013-12-11 22:15:57 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:15:57 --> Helper loaded: form_helper
+DEBUG - 2013-12-11 22:15:57 --> File loaded: application/views/templates/header.php
+DEBUG - 2013-12-11 22:15:57 --> File loaded: application/views/schedules/vote.php
+DEBUG - 2013-12-11 22:15:57 --> File loaded: application/views/schedules/disqus.php
+DEBUG - 2013-12-11 22:15:57 --> File loaded: application/views/schedules/statistics.php
+DEBUG - 2013-12-11 22:15:57 --> File loaded: application/views/templates/footer.php
+DEBUG - 2013-12-11 22:15:57 --> Final output sent to browser
+DEBUG - 2013-12-11 22:15:57 --> Total execution time: 0.1044
+DEBUG - 2013-12-11 22:16:00 --> Config Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:16:00 --> URI Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> Router Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> Output Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> Security Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> Input Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:16:00 --> Language Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:16:00 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:16:00 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> Model Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:16:00 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:16:00 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:16:00 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:16:00 --> DB Transaction Failure
+ERROR - 2013-12-11 22:16:00 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:16:00 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:16:00 --> Config Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:16:00 --> URI Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> Router Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> Output Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> Security Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> Input Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:16:00 --> Language Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:16:00 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:16:00 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> Model Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:16:00 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:16:00 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:16:00 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:16:00 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:16:00 --> DB Transaction Failure
+ERROR - 2013-12-11 22:16:00 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:16:00 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:16:01 --> Config Class Initialized
+DEBUG - 2013-12-11 22:16:01 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:16:01 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:16:01 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:16:01 --> URI Class Initialized
+DEBUG - 2013-12-11 22:16:01 --> Router Class Initialized
+DEBUG - 2013-12-11 22:16:01 --> Output Class Initialized
+DEBUG - 2013-12-11 22:16:01 --> Security Class Initialized
+DEBUG - 2013-12-11 22:16:01 --> Input Class Initialized
+DEBUG - 2013-12-11 22:16:01 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:16:01 --> Language Class Initialized
+DEBUG - 2013-12-11 22:16:01 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:16:01 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:16:01 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:16:01 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:16:01 --> Model Class Initialized
+DEBUG - 2013-12-11 22:16:01 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:16:01 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:16:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:16:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:16:01 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:16:01 --> DB Transaction Failure
+ERROR - 2013-12-11 22:16:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:16:01 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:16:02 --> Config Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:16:02 --> URI Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> Router Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> Output Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> Security Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> Input Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:16:02 --> Language Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:16:02 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:16:02 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> Model Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:16:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:16:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:16:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:16:02 --> DB Transaction Failure
+ERROR - 2013-12-11 22:16:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:16:02 --> Language file loaded: language/english/db_lang.php
+DEBUG - 2013-12-11 22:16:02 --> Config Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> Hooks Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> Utf8 Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> UTF-8 Support Enabled
+DEBUG - 2013-12-11 22:16:02 --> URI Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> Router Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> Output Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> Security Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> Input Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> Global POST and COOKIE data sanitized
+DEBUG - 2013-12-11 22:16:02 --> Language Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> Loader Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> Helper loaded: url_helper
+DEBUG - 2013-12-11 22:16:02 --> Helper loaded: utility_helper
+DEBUG - 2013-12-11 22:16:02 --> Controller Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> Model Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> Database Driver Class Initialized
+DEBUG - 2013-12-11 22:16:02 --> Helper loaded: form_helper
+ERROR - 2013-12-11 22:16:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 89
+ERROR - 2013-12-11 22:16:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\controllers\schedules.php 97
+ERROR - 2013-12-11 22:16:02 --> Severity: Notice  --> Undefined index: id C:\wamp\www\application\models\schedule_model.php 111
+DEBUG - 2013-12-11 22:16:02 --> DB Transaction Failure
+ERROR - 2013-12-11 22:16:02 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'order by U.id, I.id' at line 6
+DEBUG - 2013-12-11 22:16:02 --> Language file loaded: language/english/db_lang.php

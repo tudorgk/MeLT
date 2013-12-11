@@ -25,10 +25,15 @@ function getPollInfo() {
 function generateHeaders(){
     //addding the header
     var headerRow = $('<tr></tr>').addClass('header-row');
+    headerRow.attr({
+        height : 40
+    });
+
     $(this.table).append(headerRow);
 
     //adding user column
     var userHeader = $('<th></th>').addClass('user-header').text("Participant");
+    userHeader.attr('style','font-weight: bold; padding-left : 10px; text-align : left');
     userHeader.attr('rowspan','2');
     headerRow.append(userHeader);
 
@@ -42,12 +47,17 @@ function generateHeaders(){
 
     //adding the interval header row
     var intervalRow = $('<tr></tr>').addClass('interval-row');
+    intervalRow.attr({
+       height: 30
+    });
     $(this.table).append(intervalRow);
     for (var i = 0; i < this.data.length; i++) {
         //iterating trough intervals
         var date = this.data[i];
         for(var j = 0; j< date['intervals'].length; j++){
             var intervals = $('<th></th>').addClass('intervals').text(this.data[i]['intervals'][j]['name']);
+            if(j != date['intervals'].length -1)
+                intervals.attr('style', 'border-right-style: dashed');
             intervalRow.append(intervals);
         }
     }
