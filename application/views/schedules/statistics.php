@@ -4,6 +4,6 @@
 
 <script>
     $(document).ready(function() {
-        generateStatics(document,<?php echo json_encode($dates)?>, <?php echo json_encode($user_votes)?> );
+      //  generateStatics(document,<?php echo json_encode($dates)?>, <?php echo json_encode($user_votes)?> );
     });
 </script>

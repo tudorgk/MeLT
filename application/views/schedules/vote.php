@@ -4,7 +4,7 @@
         echo json_encode($schedule['id']);?>);
         // Setting the inner HTML with jQuery
         poll.displayPoll( "#polling-area" );
-        poll.attachForm(document.getElementById("poll-form"),<?php
+        poll.attachForm(document,document.getElementById("poll-form"),<?php
         echo json_encode($schedule['id']);?>);
         poll.populateTable(<?php echo json_encode($user_votes);?>)
     });
@@ -12,7 +12,7 @@
 
 <?php
 $attributes = array('id' => 'poll-form','name' => 'poll-form');
-echo form_open('schedules/submitVote',$attributes) ?>
+echo form_open('schedules/submitVote/'.$schedule['link_hash'],$attributes) ?>
 <div id="polling-area">
         <?php
         echo '<h3>'.$schedule['name'].'</h3>';

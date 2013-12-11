@@ -63,6 +63,5 @@ function generateStatics(target,dates,user_votes){
         scaleStepWidth: max,
         scaleStartValue: 0
     }
-
     var myLine = new Chart(target.getElementById("canvas").getContext("2d")).Bar(barChartData,options);
 }

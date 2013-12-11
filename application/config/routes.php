@@ -40,7 +40,7 @@
 
 
 $route['404_override'] = '';
-$route['schedules/submitVote'] = 'schedules/submitVote';
+$route['schedules/submitVote/(:any)'] = 'schedules/submitVote/$1';
 $route['schedules/vote/(:any)'] = 'schedules/vote/$1';
 $route['schedules/create'] = 'schedules/create';
 $route['schedules'] = 'schedules/index';

@@ -134,7 +134,7 @@ function addRowToPoll(){
     this.table.append(row);
 }
 
-function attachForm(targetForm,scheduleID){
+function attachForm(document,targetForm,scheduleID){
     this.form =targetForm;
     $(this.form).submit(function( event ) {
 
@@ -195,7 +195,13 @@ function attachForm(targetForm,scheduleID){
                 $(row).append(attendance);
             }
 
-            generateStatics(document,[],[]);
+
+
+            var response = JSON.parse(data);
+
+            console.log(response);
+
+            generateStatics(document,response['dates'],response['user_votes']);
 
         });
 
