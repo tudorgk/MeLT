@@ -93,7 +93,7 @@ class schedule_model extends CI_Model {
                 $this->db->insert('user_intervals', $user_entry);
             }
         }
-       var_dump($intervalArray);
+//       var_dump($intervalArray);
     }
 
     //gets all the users for populating the table
@@ -101,15 +101,15 @@ class schedule_model extends CI_Model {
 
         $query = $this->db->get_where('schedule',array('id' => $scheduleID));
         $schedule = $query->row_array();
-        var_dump($schedule);
+//        var_dump($schedule);
 
         $query = $this->db->query(
             "select *
             from user U
             inner join user_intervals UI on U.id = UI.user_id
             inner join date_interval I on UI.interval_id = I.id
-            where U.schedule_id=".$schedule['id']);
-
+            where U.schedule_id=".$schedule['id']."
+            order by U.id, I.id");
         return $query->result_array();
     }
 

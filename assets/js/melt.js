@@ -12,6 +12,7 @@ function Poll(pollName,pollDates,schedule){
     this.attachForm = attachForm;
     this.table = $('<table></table>').addClass('polling-table');
     this.form;
+    this.populateTable = populateTableWithData;
 
     console.log(this.scheduleID);
 
@@ -45,7 +46,6 @@ function generateHeaders(){
     for (var i = 0; i < this.data.length; i++) {
         //iterating trough intervals
         var date = this.data[i];
-        console.log(date['intervals']);
         for(var j = 0; j< date['intervals'].length; j++){
             var intervals = $('<th></th>').addClass('intervals').text(this.data[i]['intervals'][j]['name']);
             intervalRow.append(intervals);
@@ -55,6 +55,8 @@ function generateHeaders(){
 
 function generateInputRow(){
     var inputRow = $('<tr></tr>').addClass('input-row');
+    inputRow.attr({id: "input-row-id"});
+
     $(this.table).append(inputRow);
 
     //add the name input field cell
@@ -128,7 +130,6 @@ function displayPollInTarget(target){
 }
 
 function addRowToPoll(){
-    console.log('adding row');
     var row = $('<tr></tr>').addClass('basic-row');
     this.table.append(row);
 }
@@ -140,7 +141,6 @@ function attachForm(targetForm,scheduleID){
         // Stop form from submitting normally
         event.preventDefault();
 
-        console.log(this);
         // Get some values from elements on the page:
         var userName = $(this).find( "input[name=user]" ).val(),
             postingUrl = $(this).attr( "action" );
@@ -157,25 +157,140 @@ function attachForm(targetForm,scheduleID){
         });
 
 
-        console.log(userName);
-        console.log(checkboxes);
-        console.log(postingUrl);
-        console.log(scheduleID);
-
+        var postData=  {
+            scheduleID : scheduleID,
+            name: userName,
+            data : checkboxes
+        };
         // Send the data using post
-        var posting = $.post( postingUrl,
-            {
-                scheduleID : scheduleID,
-                name: userName,
-                data : checkboxes
-            });
+        var posting = $.post( postingUrl, postData
+           );
+
+        //clear the inputs
+        $(':input',targetForm)
+            .not(':button, :submit, :reset, :hidden')
+            .val('')
+            .removeAttr('checked')
+            .removeAttr('selected');
 
         // Put the results in a div
         posting.done(function( data ) {
-            console.log(data);
+            //first we add the user's name in the Participants column
+            var row = $('<tr></tr>').addClass('user-row');
+            //$('#input-row-id').append(row);
+            $(row).insertBefore($('#input-row-id'));
+
+            var userName = $('<td></td>').addClass('user-name').text(postData['name']);
+            $(row).append(userName)
+
+            for(var i = 0;i < postData['data'].length; i++){
+                //iterating through the checkboxes
+                //to see if we put yes or no for the interval
+                var attendance = $('<td></td>').addClass('attendance-check');
+                if(postData['data'][i]['checkboxValue']){
+                    attendance.text("YES");
+                }else{
+                    attendance.text("NO");
+                }
+                $(row).append(attendance);
+            }
         });
 
     })
 
 }
+
+function populateTableWithData(userData){
+    var tableData = [];
+
+    //getting user and their intervals
+    var iterator = 0;
+    var intervals = [];
+    while(iterator!=userData.length){
+        var userID = userData[iterator]['user_id'];
+        var userName = userData[iterator]['firstname'];
+
+        if(userData.length == iterator + 1){
+            //it's the last element
+            if(userID == userData[iterator - 1]['user_id'])
+            {
+                //if it's the same with the last
+                intervals.push(userData[iterator]['interval_id']);
+            }else{
+                intervals = [];
+                intervals.push(userData[iterator]['interval_id']);
+            }
+
+                var userDict = {
+                    userID : userID,
+                    userName : userName,
+                    intervalValues : intervals
+                };
+
+                tableData.push(userDict);
+
+                userDict = [];
+                intervals = [];
+        }else{
+            //it's not the last element
+            if(userData[iterator + 1]['user_id'] != userID){
+                //if the next element is a different user
+                intervals.push(userData[iterator]['interval_id']);
+
+                var userDict = {
+                    userID : userID,
+                    userName : userName,
+                    intervalValues : intervals
+                };
+
+                tableData.push(userDict);
+
+                userDict = [];
+                intervals = [];
+            }else{
+                //if the next element is the same user add it to the interval list
+                intervals.push(userData[iterator]['interval_id']);
+            }
+        }
+        iterator++;
+    }
+
+   //we have now the table data
+   //we now need to iterate through the users to add them to the table
+    for(var i = 0; i<tableData.length; i++){
+        //now we are iterating through the intervals
+        //because i was lazy and didn't do the user-interval binding properly. O(n^4). BIG NO NO!
+
+        //first we add the user's name in the Participants column
+        var row = $('<tr></tr>').addClass('user-row');
+        //$('#input-row-id').append(row);
+        $(row).insertBefore($('#input-row-id'));
+
+        var userName = $('<td></td>').addClass('user-name').text(tableData[i]['userName']);
+        $(row).append(userName);
+
+        for(var j = 0; j <this.data.length; j++ ){
+            //iterating through the days
+            for (var k = 0; k< this.data[j]['intervals'].length; k++){
+                //iterating through the day's interval
+                //to see if we put yes or no for the interval
+                var attendance = $('<td></td>').addClass('attendance-check');
+                var intervalFound = 0;
+                for(var l = 0; l< tableData[i].intervalValues.length; l ++){
+                    if(this.data[j]['intervals'][k]['id'] == tableData[i].intervalValues[l] ){
+                        intervalFound = 1;
+                    }
+                }
+                if(intervalFound){
+                //if the interval was found add YES
+                    attendance.text("YES");
+                }else{
+                    attendance.text("NO");
+                }
+                $(row).append(attendance);
+            }
+        }
+    }
+}
+
 

@@ -6,6 +6,7 @@
         poll.displayPoll( "#polling-area" );
         poll.attachForm(document.getElementById("poll-form"),<?php
         echo json_encode($schedule['id']);?>);
+        poll.populateTable(<?php echo json_encode($user_votes);?>)
     });
 </script>
 
