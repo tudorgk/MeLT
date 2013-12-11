@@ -194,6 +194,9 @@ function attachForm(targetForm,scheduleID){
                 }
                 $(row).append(attendance);
             }
+
+            generateStatics(document,[],[]);
+
         });
 
     })

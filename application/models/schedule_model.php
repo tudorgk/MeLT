@@ -93,7 +93,7 @@ class schedule_model extends CI_Model {
                 $this->db->insert('user_intervals', $user_entry);
             }
         }
-//       var_dump($intervalArray);
+
     }
 
     //gets all the users for populating the table

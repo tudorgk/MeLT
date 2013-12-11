@@ -296,6 +296,15 @@ li{
     border-bottom: none;
 }
 
+/* statistics */
+
+.statistics-panel{
+    float: left;
+    display: block;
+    clear: both;
+    width: 60%;
+
+}
 
 /* buttons */
 
