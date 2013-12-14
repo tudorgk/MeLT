@@ -2,7 +2,7 @@
     var lastSelectedDates = [];
 
     function addClickListener(id, fn) {
-        $(id).click(function() { fn(event); });
+        $(id).click(function() { fn(); });
     }
 
     function get_type(thing){

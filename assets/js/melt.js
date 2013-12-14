@@ -155,6 +155,7 @@ function attachForm(document,targetForm,scheduleID){
         var userName = $(this).find( "input[name=user]" ).val(),
             postingUrl = $(this).attr( "action" );
 
+        var atLeastOneCheckboxIsTrue = false;
         var checkboxes = [];
         $(this).find( "input[name^='check-']" ).each(function (index, element) {
 
@@ -163,57 +164,61 @@ function attachForm(document,targetForm,scheduleID){
                 checkboxValue: $(element).is(':checked')
             }
 
+            if (dict.checkboxValue==true){
+                atLeastOneCheckboxIsTrue= true;
+            }
+
             checkboxes.push(dict);
         });
 
+        if(atLeastOneCheckboxIsTrue){
+            var postData=  {
+                scheduleID : scheduleID,
+                name: userName,
+                data : checkboxes
+            };
+            // Send the data using post
+            var posting = $.post( postingUrl, postData
+            );
 
-        var postData=  {
-            scheduleID : scheduleID,
-            name: userName,
-            data : checkboxes
-        };
-        // Send the data using post
-        var posting = $.post( postingUrl, postData
-           );
+            //clear the inputs
+            $(':input',targetForm)
+                .not(':button, :submit, :reset, :hidden')
+                .val('')
+                .removeAttr('checked')
+                .removeAttr('selected');
 
-        //clear the inputs
-        $(':input',targetForm)
-            .not(':button, :submit, :reset, :hidden')
-            .val('')
-            .removeAttr('checked')
-            .removeAttr('selected');
+            // Put the results in a div
+            posting.done(function( data ) {
+                //first we add the user's name in the Participants column
+                var row = $('<tr></tr>').addClass('user-row');
+                //$('#input-row-id').append(row);
+                $(row).insertBefore($('#input-row-id'));
 
-        // Put the results in a div
-        posting.done(function( data ) {
-            //first we add the user's name in the Participants column
-            var row = $('<tr></tr>').addClass('user-row');
-            //$('#input-row-id').append(row);
-            $(row).insertBefore($('#input-row-id'));
+                var userName = $('<td></td>').addClass('user-name').text(postData['name']);
+                $(row).append(userName)
 
-            var userName = $('<td></td>').addClass('user-name').text(postData['name']);
-            $(row).append(userName)
-
-            for(var i = 0;i < postData['data'].length; i++){
-                //iterating through the checkboxes
-                //to see if we put yes or no for the interval
-                var attendance = $('<td></td>').addClass('attendance-check');
-                if(postData['data'][i]['checkboxValue']){
-                    attendance.text("YES");
-                }else{
-                    attendance.text("NO");
+                for(var i = 0;i < postData['data'].length; i++){
+                    //iterating through the checkboxes
+                    //to see if we put yes or no for the interval
+                    var attendance = $('<td></td>').addClass('attendance-check');
+                    if(postData['data'][i]['checkboxValue']){
+                        attendance.text("YES");
+                    }else{
+                        attendance.text("NO");
+                    }
+                    $(row).append(attendance);
                 }
-                $(row).append(attendance);
-            }
 
+                var response = JSON.parse(data);
 
+                console.log(response);
 
-            var response = JSON.parse(data);
+                generateStatics(document,response['dates'],response['user_votes']);
 
-            console.log(response);
+            });
+        }
 
-            generateStatics(document,response['dates'],response['user_votes']);
-
-        });
 
     })
 

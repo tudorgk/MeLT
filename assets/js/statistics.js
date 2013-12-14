@@ -48,8 +48,8 @@ function generateStatics(target,dates,user_votes){
         labels : chartLabels,
         datasets : [
             {
-                fillColor : "rgba(151,187,205,0.5)",
-                strokeColor : "rgba(151,187,205,1)",
+                fillColor : "rgba(51,133,228,0.5)",
+                strokeColor : "rgba(51,133,228,1)",
                 data : chartDataSets
             }
         ]
