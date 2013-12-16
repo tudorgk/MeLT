@@ -12,8 +12,11 @@
 
 
     $(document).ready(function() {
-        $("#date-picker" ).multiDatesPicker();
+        $("#date-picker" ).multiDatesPicker({minDate: 0});
         addClickListener("#date-picker tr td", clickFn);
+        setInterval(function () {
+            addClickListener("#date-picker tr td", clickFn);
+        },1000);
 
         // Attach a submit handler to the form
         $( "#schedule-form" ).submit(function( event ) {
@@ -128,7 +131,9 @@ echo form_open('schedules/create',$attributes) ?>
         <input type="submit" class="large button blue evenspaced" name="submit" value="Create schedule"/>
     </p>
 </div>
+<h2>Please input intervals for the selected dates.</h2>
     <div id="table-container" >
+
         <table class="interval-table">
         </table>
     </div>

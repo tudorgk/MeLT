@@ -123,6 +123,20 @@ function addSubmitButton(target){
     $(target).append(submitP);
 }
 
+function showDeleteButton(row){
+//    var deleteButton = $('<a></a>').addClass("halflings-icon remove ");
+//    deleteButton.attr({
+//        label: "remove-button"
+//    });
+//    $(row).children(":first").append(deleteButton);
+
+}
+
+function hideDeleteButton(row){
+//    $(row).find("a[label=remove-button]").remove();
+}
+
+
 function displayPollInTarget(target){
     this.target = target;
 
@@ -192,6 +206,10 @@ function attachForm(document,targetForm,scheduleID){
             posting.done(function( data ) {
                 //first we add the user's name in the Participants column
                 var row = $('<tr></tr>').addClass('user-row');
+                row.attr({
+                    onmouseover : "showDeleteButton(this)",
+                    onmouseout : "hideDeleteButton(this)"
+                });
                 //$('#input-row-id').append(row);
                 $(row).insertBefore($('#input-row-id'));
 
@@ -201,10 +219,12 @@ function attachForm(document,targetForm,scheduleID){
                 for(var i = 0;i < postData['data'].length; i++){
                     //iterating through the checkboxes
                     //to see if we put yes or no for the interval
-                    var attendance = $('<td></td>').addClass('attendance-check');
+                    var attendance = $('<td></td>');
                     if(postData['data'][i]['checkboxValue']){
+                        attendance.addClass('attendance-check-yes');
                         attendance.text("YES");
                     }else{
+                        attendance.addClass('attendance-check-no');
                         attendance.text("NO");
                     }
                     $(row).append(attendance);
@@ -287,7 +307,11 @@ function populateTableWithData(userData){
 
         //first we add the user's name in the Participants column
         var row = $('<tr></tr>').addClass('user-row');
-        //$('#input-row-id').append(row);
+        row.attr({
+            onmouseover : "showDeleteButton(this)",
+            onmouseout : "hideDeleteButton(this)"
+        });
+
         $(row).insertBefore($('#input-row-id'));
 
         var userName = $('<td></td>').addClass('user-name').text(tableData[i]['userName']);
@@ -298,7 +322,7 @@ function populateTableWithData(userData){
             for (var k = 0; k< this.data[j]['intervals'].length; k++){
                 //iterating through the day's interval
                 //to see if we put yes or no for the interval
-                var attendance = $('<td></td>').addClass('attendance-check');
+                var attendance = $('<td></td>');
                 var intervalFound = 0;
                 for(var l = 0; l< tableData[i].intervalValues.length; l ++){
                     if(this.data[j]['intervals'][k]['id'] == tableData[i].intervalValues[l] ){
@@ -307,8 +331,10 @@ function populateTableWithData(userData){
                 }
                 if(intervalFound){
                 //if the interval was found add YES
+                    attendance.addClass('attendance-check-yes');
                     attendance.text("YES");
                 }else{
+                    attendance.addClass('attendance-check-no');
                     attendance.text("NO");
                 }
                 $(row).append(attendance);

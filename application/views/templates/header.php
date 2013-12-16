@@ -15,6 +15,8 @@
     <link rel="stylesheet" type="text/css" href="<?php echo asset_url();?>css/jquery-ui.css">
     <link rel="stylesheet" type="text/css" href="<?php echo asset_url();?>css/style.css">
     <link rel="stylesheet" type="text/css" href="<?php echo asset_url();?>css/prettify.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo asset_url();?>css/glyphicons.css">
+    <link rel="stylesheet" type="text/css" href="<?php echo asset_url();?>css/halflings.css">
     <script type="text/javascript" src="<?php echo asset_url();?>js/prettify.js"></script>
     <script type="text/javascript" src="<?php echo asset_url();?>js/main.js"></script>
     <script type="text/javascript" src="<?php echo asset_url();?>js/melt.js"></script>
@@ -22,6 +24,7 @@
     <script type="text/javascript" src="<?php echo asset_url();?>js/Chart.min.js"></script>
     <script type="text/javascript" src="<?php echo asset_url();?>js/jshashtable-3.0.js"></script>
     <script type="text/javascript" src="<?php echo asset_url();?>js/lang-css.js"></script>
+    <script type="text/javascript" src="<?php echo asset_url();?>js/modernizr.js"></script>
     <script type="text/javascript" src="<?php echo asset_url();?>js/jquery-ui.multidatespicker.js"></script>
 
     <script type="text/javascript">

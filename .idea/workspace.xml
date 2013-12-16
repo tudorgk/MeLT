@@ -2,13 +2,34 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c48fe5ea-418e-4d86-8489-137db3309169" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\wamp\www\application\logs\log-2013-11-23.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\application\logs\log-2013-11-24.php" afterPath="" />
-      <change type="DELETED" beforePath="C:\wamp\www\application\logs\log-2013-12-01.php" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-regular.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/glyphicons-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/glyphicons.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/glyphicons_halflings-white.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/glyphicons_halflings.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphiconshalflings-regular.eot" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphiconshalflings-regular.otf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphiconshalflings-regular.ttf" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphiconshalflings-regular.woff" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphicons-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/glyphicons-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/glyphicons.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/glyphicons.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/glyphicons_halflings-white.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/images/glyphicons_halflings.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/fonts/glyphiconshalflings-regular.svg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/css/halflings.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/assets/js/modernizr.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/schedules/create.php" afterPath="$PROJECT_DIR$/application/views/schedules/create.php" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/logs/log-2013-12-11.php" afterPath="$PROJECT_DIR$/application/logs/log-2013-12-11.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/templates/header.php" afterPath="$PROJECT_DIR$/application/views/templates/header.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/pages/home.php" afterPath="$PROJECT_DIR$/application/views/pages/home.php" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/logs/log-2013-12-14.php" afterPath="$PROJECT_DIR$/application/logs/log-2013-12-14.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/melt.js" afterPath="$PROJECT_DIR$/assets/js/melt.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/js/statistics.js" afterPath="$PROJECT_DIR$/assets/js/statistics.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/assets/css/style.css" afterPath="$PROJECT_DIR$/assets/css/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/application/views/schedules/success.php" afterPath="$PROJECT_DIR$/application/views/schedules/success.php" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="htdocs.iws" />
@@ -32,10 +53,28 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="melt.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/css/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="80" column="26" selection-start="1460" selection-end="1460" vertical-scroll-proportion="0.95348835" vertical-offset="493" max-vertical-offset="9100">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="success.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/schedules/success.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="8" selection-start="692" selection-end="692" vertical-scroll-proportion="-7.586207" vertical-offset="0" max-vertical-offset="360">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="melt.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/js/melt.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="104" column="1" selection-start="3298" selection-end="3298" vertical-scroll-proportion="-0.498708" vertical-offset="2659" max-vertical-offset="6520">
+            <state line="313" column="0" selection-start="9553" selection-end="9553" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7040">
               <folding />
             </state>
           </provider>
@@ -44,59 +83,19 @@
       <file leaf-file-name="create.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/schedules/create.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="27" column="45" selection-start="943" selection-end="943" vertical-scroll-proportion="-18.62069" vertical-offset="0" max-vertical-offset="2820">
+            <state line="30" column="38" selection-start="1060" selection-end="1060" vertical-scroll-proportion="-20.689655" vertical-offset="0" max-vertical-offset="2920">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="vote.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/schedules/vote.php">
+      <file leaf-file-name="jquery-ui.multidatespicker.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/jquery-ui.multidatespicker.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="4" column="45" selection-start="235" selection-end="235" vertical-scroll-proportion="-0.0" vertical-offset="80" max-vertical-offset="540">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="disqus.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/schedules/disqus.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="0" selection-start="675" selection-end="675" vertical-scroll-proportion="-9.655172" vertical-offset="0" max-vertical-offset="400">
+            <state line="189" column="56" selection-start="7318" selection-end="7319" vertical-scroll-proportion="-15.48" vertical-offset="3393" max-vertical-offset="9240">
               <folding>
-                <marker date="1386779207263" expanded="true" signature="21:673" placeholder="..." />
-                <marker date="1386779207263" expanded="true" signature="92:666" placeholder="..." />
-                <marker date="1386779207263" expanded="true" signature="102:178" placeholder="/*...*/" />
-                <marker date="1386779207263" expanded="true" signature="284:324" placeholder="/*...*/" />
-                <marker date="1386779207263" expanded="true" signature="345:649" placeholder="{...}" />
+                <element signature="n#!!doc" expanded="true" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="routes.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/config/routes.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="42" column="28" selection-start="1442" selection-end="1452" vertical-scroll-proportion="-16.965517" vertical-offset="348" max-vertical-offset="1140">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="schedule_model.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/models/schedule_model.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="95" column="0" selection-start="2947" selection-end="2947" vertical-scroll-proportion="-33.344826" vertical-offset="933" max-vertical-offset="2520">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="header.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/application/views/templates/header.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="76" selection-start="1653" selection-end="1653" vertical-scroll-proportion="-15.862069" vertical-offset="0" max-vertical-offset="880">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -104,7 +103,36 @@
       <file leaf-file-name="schedules.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/controllers/schedules.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="111" column="55" selection-start="3362" selection-end="3362" vertical-scroll-proportion="-12.137931" vertical-offset="1868" max-vertical-offset="2660">
+            <state line="38" column="9" selection-start="932" selection-end="932" vertical-scroll-proportion="0.0" vertical-offset="760" max-vertical-offset="2660">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/schedules/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="320">
+              <folding>
+                <marker date="1385901345304" expanded="true" signature="119:182" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="home.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/pages/home.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="7" column="12" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0" vertical-offset="140" max-vertical-offset="260">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="view.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/application/views/schedules/view.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="160">
               <folding />
             </state>
           </provider>
@@ -113,8 +141,12 @@
       <file leaf-file-name="statistics.php" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/application/views/schedules/statistics.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="9" selection-start="303" selection-end="303" vertical-scroll-proportion="-5.5172415" vertical-offset="0" max-vertical-offset="280">
-              <folding />
+            <state line="8" column="9" selection-start="303" selection-end="303" vertical-scroll-proportion="0.0" vertical-offset="160" max-vertical-offset="280">
+              <folding>
+                <marker date="1386795089784" expanded="true" signature="65:131" placeholder="..." />
+                <marker date="1386795089784" expanded="true" signature="141:302" placeholder="..." />
+                <marker date="1386795089784" expanded="true" signature="176:291" placeholder="{...}" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -137,28 +169,28 @@
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
-        <option value="$PROJECT_DIR$/application/views/templates/comments.php" />
         <option value="$PROJECT_DIR$/application/views/schedules/view.php" />
         <option value="$PROJECT_DIR$/application/models/date_model.php" />
-        <option value="$PROJECT_DIR$/application/views/schedules/success.php" />
         <option value="$PROJECT_DIR$/application/models/interval_model.php" />
         <option value="$PROJECT_DIR$/application/views/schedules/disqus.php" />
-        <option value="$PROJECT_DIR$/application/views/templates/header.php" />
         <option value="$PROJECT_DIR$/application/config/routes.php" />
         <option value="$PROJECT_DIR$/application/models/schedule_model.php" />
         <option value="$PROJECT_DIR$/application/controllers/schedules.php" />
         <option value="$PROJECT_DIR$/application/views/schedules/vote.php" />
         <option value="$PROJECT_DIR$/application/views/schedules/statistics.php" />
-        <option value="$PROJECT_DIR$/assets/css/style.css" />
         <option value="$PROJECT_DIR$/assets/js/statistics.js" />
-        <option value="$PROJECT_DIR$/application/views/schedules/create.php" />
+        <option value="$PROJECT_DIR$/application/views/templates/header.php" />
+        <option value="$PROJECT_DIR$/application/views/pages/home.php" />
         <option value="$PROJECT_DIR$/assets/js/melt.js" />
+        <option value="$PROJECT_DIR$/application/views/schedules/success.php" />
+        <option value="$PROJECT_DIR$/application/views/schedules/create.php" />
+        <option value="$PROJECT_DIR$/assets/css/style.css" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="width" value="1280" />
+    <option name="width" value="1278" />
     <option name="height" value="1400" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
@@ -187,7 +219,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -275,6 +306,20 @@
             </PATH_ELEMENT>
             <PATH_ELEMENT>
               <option name="myItemId" value="vendor" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="www" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="assets" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -450,6 +495,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -462,6 +508,8 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\wamp\www\assets" />
+      <recent name="C:\wamp\www\assets\css" />
       <recent name="C:\wamp\www\assets\js" />
       <recent name="$PROJECT_DIR$/assets/css" />
       <recent name="$PROJECT_DIR$/assets/js" />
@@ -510,7 +558,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="1400" extended-state="0" />
+    <frame x="0" y="0" width="1278" height="1400" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3330658" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -518,7 +566,7 @@
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24964131" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.31937602" sideWeight="0.6669342" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.33141446" sideWeight="0.6669342" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
@@ -546,45 +594,29 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/application/views/schedules/success.php">
+    <entry file="file://$PROJECT_DIR$/assets/css/glyphicons.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="35" selection-start="370" selection-end="387" vertical-scroll-proportion="0.0" vertical-offset="140" max-vertical-offset="300" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="51740" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/date_model.php">
+    <entry file="file://$PROJECT_DIR$/assets/js/modernizr.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="1" selection-start="0" selection-end="517" vertical-scroll-proportion="0.0" vertical-offset="520" max-vertical-offset="640">
-          <folding />
-        </state>
+        <state line="3" column="43" selection-start="233" selection-end="233" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="140" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/logs/log-2013-12-05.php">
+    <entry file="file://$PROJECT_DIR$/assets/css/halflings.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="566" column="126" selection-start="37473" selection-end="37473" vertical-scroll-proportion="-9.413794" vertical-offset="11047" max-vertical-offset="41720" />
+        <state line="20" column="21" selection-start="727" selection-end="727" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="20540" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/interval_model.php">
+    <entry file="file://$PROJECT_DIR$/application/views/templates/header.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="17" column="65" selection-start="406" selection-end="406" vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="640" />
+        <state line="18" column="83" selection-start="1207" selection-end="1207" vertical-scroll-proportion="0.0" vertical-offset="360" max-vertical-offset="940" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/Chart.min.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1223" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/statistics.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="51" column="46" selection-start="1441" selection-end="1441" vertical-scroll-proportion="0.54545456" vertical-offset="804" max-vertical-offset="1440">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="233" column="19" selection-start="4280" selection-end="4280" vertical-scroll-proportion="0.17052375" vertical-offset="4520" max-vertical-offset="8920">
-          <folding />
-        </state>
+    <entry file="file://$PROJECT_DIR$/assets/images/glyphicons_halflings.png">
+      <provider selected="true" editor-type-id="images">
+        <state />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/schedules/vote.php">
@@ -594,64 +626,80 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/schedules/disqus.php">
+    <entry file="file://$PROJECT_DIR$/application/views/schedules/statistics.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="0" selection-start="675" selection-end="675" vertical-scroll-proportion="-9.655172" vertical-offset="0" max-vertical-offset="400">
+        <state line="8" column="9" selection-start="303" selection-end="303" vertical-scroll-proportion="0.0" vertical-offset="160" max-vertical-offset="280">
           <folding>
-            <marker date="1386779207263" expanded="true" signature="21:673" placeholder="..." />
-            <marker date="1386779207263" expanded="true" signature="92:666" placeholder="..." />
-            <marker date="1386779207263" expanded="true" signature="102:178" placeholder="/*...*/" />
-            <marker date="1386779207263" expanded="true" signature="284:324" placeholder="/*...*/" />
-            <marker date="1386779207263" expanded="true" signature="345:649" placeholder="{...}" />
+            <marker date="1386795089784" expanded="true" signature="65:131" placeholder="..." />
+            <marker date="1386795089784" expanded="true" signature="141:302" placeholder="..." />
+            <marker date="1386795089784" expanded="true" signature="176:291" placeholder="{...}" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/config/routes.php">
+    <entry file="file://$PROJECT_DIR$/application/views/schedules/index.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="42" column="28" selection-start="1442" selection-end="1452" vertical-scroll-proportion="-16.965517" vertical-offset="348" max-vertical-offset="1140">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1199">
+          <folding>
+            <marker date="1385901345304" expanded="true" signature="119:182" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/application/views/pages/home.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="7" column="12" selection-start="473" selection-end="473" vertical-scroll-proportion="0.0" vertical-offset="140" max-vertical-offset="260">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/models/schedule_model.php">
+    <entry file="file://$PROJECT_DIR$/application/views/schedules/view.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="95" column="0" selection-start="2947" selection-end="2947" vertical-scroll-proportion="-33.344826" vertical-offset="933" max-vertical-offset="2520">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1199">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/controllers/schedules.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="111" column="55" selection-start="3362" selection-end="3362" vertical-scroll-proportion="-12.137931" vertical-offset="1868" max-vertical-offset="2660">
+        <state line="38" column="9" selection-start="932" selection-end="932" vertical-scroll-proportion="0.0" vertical-offset="760" max-vertical-offset="2660">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/schedules/statistics.php">
+    <entry file="file://$PROJECT_DIR$/application/views/schedules/success.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="9" selection-start="303" selection-end="303" vertical-scroll-proportion="-5.5172415" vertical-offset="0" max-vertical-offset="280">
+        <state line="11" column="8" selection-start="692" selection-end="692" vertical-scroll-proportion="-7.586207" vertical-offset="0" max-vertical-offset="360">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/application/views/templates/header.php">
+    <entry file="file://$PROJECT_DIR$/assets/js/jquery-ui.multidatespicker.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="76" selection-start="1653" selection-end="1653" vertical-scroll-proportion="-15.862069" vertical-offset="0" max-vertical-offset="880">
+        <state line="189" column="56" selection-start="7318" selection-end="7319" vertical-scroll-proportion="-15.48" vertical-offset="3393" max-vertical-offset="9240">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/melt.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="313" column="0" selection-start="9553" selection-end="9553" vertical-scroll-proportion="0.0" vertical-offset="5794" max-vertical-offset="7040">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/application/views/schedules/create.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="45" selection-start="943" selection-end="943" vertical-scroll-proportion="-18.62069" vertical-offset="0" max-vertical-offset="2820">
+        <state line="30" column="38" selection-start="1060" selection-end="1060" vertical-scroll-proportion="-20.689655" vertical-offset="0" max-vertical-offset="2920">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/js/melt.js">
+    <entry file="file://$PROJECT_DIR$/assets/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="104" column="1" selection-start="3298" selection-end="3298" vertical-scroll-proportion="-0.498708" vertical-offset="2659" max-vertical-offset="6520">
+        <state line="80" column="26" selection-start="1460" selection-end="1460" vertical-scroll-proportion="0.95348835" vertical-offset="493" max-vertical-offset="9100">
           <folding />
         </state>
       </provider>

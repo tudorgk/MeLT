@@ -42,7 +42,7 @@ a:hover {text-decoration: underline;}
 }
 
 #header h2{
-    font-family: Trebuchet MS, Tahoma, Verdana, Arial, sans-serif;
+    font-family: Calibri, Trebuchet MS, Tahoma, Verdana, Arial, sans-serif;
     font-size: 8em;
     font-weight: bolder;
     color: deepskyblue;
@@ -69,15 +69,16 @@ a:hover {text-decoration: underline;}
 }
 
 #page h3{
-    font-family: Trebuchet MS, Tahoma, Verdana, Arial, sans-serif;
+    font-family: Calibri, Trebuchet MS, Tahoma, Verdana, Arial, sans-serif;
     font-size: 4em;
     font-weight: bolder;
     color: #313131;
     text-align: center;
+    line-height: 100%;
 }
 
 #page p{
-    font-family: Trebuchet MS, Tahoma, Verdana, Arial, sans-serif;
+    font-family: Calibri,  MS, Tahoma, Verdana, Arial, sans-serif;
     font-size: medium;
     color: #313131;
     margin-bottom: 2em;
@@ -305,6 +306,14 @@ li{
 .polling-table tfoot td:first-child
 {
     border-bottom: none;
+}
+
+tbody td.attendance-check-yes  {
+    background: rgba(39, 255, 62, 0.25) !important;
+}
+
+tbody td.attendance-check-no {
+    background: rgba(255, 15, 32, 0.25) !important;
 }
 
 /* statistics */
