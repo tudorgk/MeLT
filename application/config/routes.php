@@ -45,7 +45,6 @@ $route['schedules/vote/(:any)'] = 'schedules/vote/$1';
 $route['schedules/create'] = 'schedules/create';
 $route['schedules'] = 'schedules/index';
 $route['schedules/(:any)'] = 'schedules/view/$1';
-$route['(:any)'] = 'pages/index/$1';
 $route['default_controller'] = 'pages/index';
 
 /* End of file routes.php */
